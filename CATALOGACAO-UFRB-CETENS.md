@@ -2,9 +2,22 @@
 
 **Autor:** Deivison Santana (DevSan)  
 **Data Início:** 30 de outubro de 2025  
-**Última Atualização:** 30 de outubro de 2025 (Dia 3 concluído)  
-**Status:** 🔄 Em Progresso (95% mapeado)  
+**Última Atualização:** 30 de outubro de 2025 (Em andamento)  
+**Status:** 🔄 Mapa Vivo (atualização contínua)  
 **Instituição:** Universidade Federal do Recôncavo da Bahia - Centro de Ciência e Tecnologia em Energia e Sustentabilidade  
+**Priorização:** http://reservascetens.ufrb.edu.br/ (salas com aulas têm prioridade crítica)
+
+---
+
+## 💡 Filosofia "Mapa Vivo"
+
+**Este arquivo não é um relatório estático - é um sistema de vida do campus.**
+
+- **Cada linha = Decisão, não apenas dado**  
+- **Prioridades dinâmicas:** Salas com aulas reais (reservascetens) recebem atenção imediata  
+- **Modularização:** Cada setor tem "Recursos realocáveis" (APs, docks, cabos disponíveis da TI) e "Upgrade possível"  
+- **Integração:** Links diretos para sistemas reais (reservascetens, GLPI, LibreNMS, Omada SDN)  
+- **Refatoração contínua:** Dados serão refinados por IA conforme novos levantamentos
 
 ---
 
@@ -48,7 +61,7 @@ O **CETENS** (Centro de Ciência e Tecnologia em Energia e Sustentabilidade) é 
 ### Metodologia de Coleta
 1. **Mapeamento físico** - Caminhada presencial nos setores
 2. **Transcrição por voz** - Registro em tempo real via assistente IA (Grok)
-3. **Verificação futura** - Entrada em salas fechadas no Dia 2
+3. **Verificação futura** - Entrada em salas fechadas (quando disponíveis)
 4. **Testes práticos** - Conexão de notebooks Win/Mac em projetores/TVs
 5. **Documentação inteligente** - Markdown estruturado com emojis, contexto e fontes
 
@@ -82,35 +95,16 @@ Prédio central com **sete salas de coordenações de cursos** + **sala de infor
 - **Ideal:** Todas com **computadores atualizados**, **impressoras de rede**, **backup automático** e **acesso rápido ao sistema acadêmico**
 - **Urgência TI:** 🟡 Média (equipamentos antigos podem impactar produtividade; prioridade após salas de aula)
 
----
+### 🔄 Recursos Realocáveis (disponíveis na TI)
+- **Access Points:** TP-Link Omada (gerenciamento SDN via controlador)
+- **Docks USB-C:** Para notebooks modernos (USB-C → HDMI/LAN/USB-A)
+- **Cabos HDMI longos:** 10m+ para projetores distantes
+- **Switches PoE:** Netgear/TP-Link para câmeras/APs sem tomada próxima
 
-## � Pavilhão de Aulas 1
-
-### Descrição Geral
-Pavilhão com **4 salas numeradas** (101 a 104) + **1 access point TP-Link** próximo à Sala 102. Padrão: **cada sala possui 1 projetor fixo no teto**.
-
-### 🔌 Infraestrutura de Rede
-- **Access Point TP-Link:** Localizado próximo à Sala 102 (cobre salas 101, 102, 103 e 104)
-- **Cobertura:** Sinal pode ser fraco na Sala 104 (última do corredor)
-
-### 📊 Tabela de Salas
-
-| **Sala** | **Equipamento TI** | **Status** | **Observações** |
-|----------|-------------------|------------|-----------------|  
-| **101** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Projetor Epson/BenQ preso ao teto |
-| **102** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | BenQ curto-foco, lâmpada no fim (zumbido) |
-| **103** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Epson EB-X41, ventoinha barulhenta |
-| **104** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Última sala, sinal Wi-Fi mais fraco |
-
-### 🎯 Lógica de Funcionamento
-- **Atual:** Professores trazem **notebooks pessoais**, conectam ao projetor via HDMI/VGA
-- **Ideal:** Todos os projetores **testados e funcionais**, cabos reserva disponíveis
-- **Urgência TI:** 🟢 Baixa (verificação padrão trimestral)
-
-### 📌 Observações Importantes
-- Lâmpadas de projetores precisam ser verificadas (muitas com +3000h de uso)
-- Cabos HDMI curtos em várias salas (professores ficam colados na parede)
-- Wi-Fi depende do AP da Sala 102 (verificar cobertura na 104)
+### ⬆️ Upgrade Possível
+- **Wi-Fi:** Adicionar 1 AP no teto central → dobra cobertura + elimina zonas mortas
+- **Impressoras:** Substituir locais por 1 impressora central [marca a editar] (rede) + sistema QR code
+- **Backup:** NAS Synology na sala informática → backup automático coordenações (3-2-1)
 
 ---
 
@@ -158,60 +152,6 @@ Pavilhão com **4 salas numeradas** (101 a 104) + **1 access point TP-Link** pr�
 
 ---
 
-## � Pavilhão de Gabinetes
-
-### Descrição Geral
-Pavilhão exclusivo para gabinetes de professores, salas coletivas e setores administrativos. **8 gabinetes numerados** (Gabinete 1 a Gabinete 8) + **PROPPAE** (Pró-Reitoria de Políticas Afirmativas e Assuntos Estudantis) + **Sala de Coordenação/Reuniões**.
-
-### 👥 Distribuição de Gabinetes
-
-#### 📼 Gabinete 1 a Gabinete 8
-- **Distribuição:** Cada gabinete = **8 professores** (média)
-- **Itens TI por Gabinete:**
-  - Desktop individual ou notebook pessoal
-  - Impressora coletiva HP LaserJet (padrão na maioria)
-  - Rede cabeada + Wi-Fi
-- **Access Points:**
-  - Gabinete 4: 1 AP próximo à porta
-  - Gabinete 6: 1 AP na parede lateral
-  - Gabinete 9: 1 AP no corredor (cobertura geral)
-- **Câmeras:** Câmera próxima ao PROPPAE (cobertura parcial do corredor)
-- **Status:** ⏳ Verificar cada gabinete individualmente (contar professores, PCs, impressora funcional)
-- **Urgência TI:** 🟡 Média
-- **Observações:** 
-  - Professores preferem notebooks pessoais (menos chamados de TI)
-  - Impressoras HP com sobrecarga (toner acaba rápido)
-  - Recomendação: 1 impressora central + QR code para liberar impressão (reduz desperdício)
-
-### 📋 PROPPAE (Pró-Reitoria de Políticas Afirmativas e Assuntos Estudantis)
-- **Função:** Assistência estudantil, bolsas, programas de permanência
-- **Itens TI:**
-  - Computadores Windows (quantidade a verificar)
-  - **Empréstimo de notebooks para alunos** (controle patrimonial crítico)
-  - Impressora coletiva para documentos
-  - Sistema de cadastro de bolsistas (banco de dados local ou cloud?)
-- **Infraestrutura:** 
-  - Câmera de segurança próxima (cobertura da sala)
-  - Rede cabeada + Wi-Fi
-- **Status:** ⏳ Verificar sistema de empréstimo (Excel? Sistema próprio?), backup de dados
-- **Urgência TI:** 🟡 Alta (empréstimo de equipamentos = controle obrigatório)
-- **Observação:** 
-  - Criar sistema web simples: **aluno loga, solicita notebook, confirma devolução**
-  - QR code no notebook: escaneia na saída, escaneia na entrada (log automático)
-  - Notebook com localização ativada (Find My Device Windows)
-
-### 👥 Sala de Coordenação/Reuniões
-- **Função:** Reuniões coletivas, colegiados, coordenações de curso
-- **Itens TI:**
-  - Projetor fixo no teto
-  - HDMI + VGA na mesa
-  - Desktop (Windows 10) ou notebook pessoal conectado
-- **Status:** ⏳ Testar projetor mensalmente
-- **Urgência TI:** 🟢 Baixa
-- **Observação:** Conferir cabos HDMI (muitos rasgam com uso frequente)
-
----
-
 ## 📚 Biblioteca
 
 ### Descrição Geral
@@ -223,7 +163,7 @@ Biblioteca Central do CETENS com **10 computadores distribuídos** entre termina
 |------------------|----------------|----------------|------------------------|
 | Terminais Pérgamo | 3 | Catalogar, emprestar, devolver | **Sistema Pérgamo** |
 | Sala de Estudos | 2 | Pesquisa alunos (SIB, Repositório Caboclo, BDTD) | Windows 10, Chrome/Edge |
-| Funcionários | 1 | Gestão interna, e-mails, planilhas | Office 365, Windows 10 |
+| Funcionários | 1 | Gestão interna, e-mails, planilhas | LibreOffice + Office Online, Windows 10 |
 | Recepção | 4 | Entrada/saída alunos, consultas rápidas | Pérgamo + navegador |
 
 ### 🖨️ Infraestrutura de Impressão
@@ -256,6 +196,18 @@ Biblioteca Central do CETENS com **10 computadores distribuídos** entre termina
 - **Wi-Fi:** Access point próximo à recepção (SSID "UFRB-Biblioteca")
 - **Status:** ⏳ Verificar cobertura em todo o espaço, velocidade para download de artigos
 - **Urgência TI:** 🟡 Média
+
+### 🔄 Recursos Realocáveis (disponíveis na TI)
+- **Access Points:** TP-Link Omada (gerenciamento SDN via controlador)
+- **Docks USB-C:** Para notebooks modernos (USB-C → HDMI/LAN/USB-A)
+- **Cabos HDMI longos:** 10m+ para projetores distantes
+- **Switches PoE:** Netgear/TP-Link para câmeras/APs sem tomada próxima
+
+### ⬆️ Upgrade Possível
+- **Terminais Linux:** Adicionar SSH nos PCs da Sala de Estudos para acesso remoto/administração
+- **Backup:** NAS Synology para backup automático do Sistema Pérgamo (regra 3-2-1: 3 cópias, 2 mídias, 1 externa)
+- **Impressão:** Substituir impressoras locais por 1 impressora central [marca a editar] + sistema QR code para liberar impressões
+- **Monitoramento:** Câmeras de segurança funcionais + gravação 24h (prevenir furtos como em 2023)
 
 ---
 
@@ -303,12 +255,12 @@ Pavilhão com **5 laboratórios especializados** (LAB 101 a LAB 105) + **Almoxar
 #### 🧪 LAB Agroecologia/Ciências do Solo
 - **Itens TI:** 
   - **2 computadores** (Dell ou similar)
-  - **Impressora Epson Ecotank colorida Wi-Fi** (sem toner no momento)
+  - **Impressora [marca a editar])
 - **Equipamentos:** Estufas, balanças analíticas, peneiras, amostras de solo
 - **Status:** 🟡 **PENDÊNCIA MÉDIA** - Toner colorido indisponível (impressora sem uso)
 - **Urgência TI:** 🟡 Média
 - **Observação:** 
-  - Epson Ecotank L3250 (sistema tanque, não usa toner, usa refil de tinta)
+  - [marca a editar], não usa toner, usa refil de tinta)
   - Comprar refil original Epson (T544): ciano, magenta, amarelo, preto
   - Problema: fornecedor não tinha em estoque (procurar online ou Salvador)
 
@@ -361,9 +313,9 @@ Pavilhão com **4 salas numeradas** (101 a 104) + **1 access point TP-Link** pr�
 
 | **Sala** | **Equipamento TI** | **Status** | **Observações** |
 |----------|-------------------|------------|-----------------|  
-| **101** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Projetor Epson/BenQ preso ao teto |
-| **102** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | BenQ curto-foco, lâmpada no fim (zumbido) |
-| **103** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Epson EB-X41, ventoinha barulhenta |
+| **101** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Projetor [marca a editar] preso ao teto |
+| **102** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Projetor [marca a editar] curto-foco |
+| **103** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Projetor [marca a editar], verificar ventilação |
 | **104** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Última sala, sinal Wi-Fi mais fraco |
 
 ### 🎯 Lógica de Funcionamento
@@ -372,7 +324,6 @@ Pavilhão com **4 salas numeradas** (101 a 104) + **1 access point TP-Link** pr�
 - **Urgência TI:** 🟢 Baixa (verificação padrão trimestral)
 
 ### 📍 Observações Importantes
-- Lâmpadas de projetores precisam ser verificadas (muitas com +3000h de uso)
 - Cabos HDMI curtos em várias salas (professores ficam colados na parede)
 - Wi-Fi depende do AP da Sala 102 (verificar cobertura na 104)
 
@@ -437,7 +388,7 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 #### 💻 LAB 07 - Laboratório de Informática 2
 - **Itens TI:** 
   - **16 computadores:** Ryzen 7 5700G + RX 550 4GB
-  - **Servidor FOG:** Para deploy de imagens
+  - **Servidor FOG:** Inoperante (não configurado - criar imagem padrão da TI URGENTE)
 - **Software Atual:** Windows 10, Office, AutoCAD (múltiplas versões duplicadas)
 - **Status:** 🔴 **PENDÊNCIA CRÍTICA** - Criar imagem padrão FOG URGENTE
 - **Urgência TI:** 🔴 Muito Alta
@@ -455,7 +406,7 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 
 #### 🖥️ LAB 09 - LAPSE (Laboratório de Projetos e Simulação em Engenharia)
 - **Itens TI:**
-  - **16 computadores:** Ryzen 7 + GPU dedicada
+  - **16 computadores:** Positivo (Core i5 3ª geração) + GPU dedicada
   - **1 Access Point TP-Link** na porta
   - Monitores ruins (precisam substituição)
 - **Software:** ANSYS, SolidEdge, CFD, SolidWorks
@@ -523,7 +474,7 @@ Pavilhão com **12 salas numeradas** (201 a 212) + **infraestrutura de rede** (T
 | **202** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | - |
 | **203** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | - |
 | **204** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | - |
-| **205** | ❌ **SEM PROJETOR** | 🔴 **PENDÊNCIA CRÍTICA** | **Instalar novo projetor URGENTE** |
+| **205** | ❌ **SEM PROJETOR** | 🔴 **PENDÊNCIA CRÍTICA** | **Instalar projetor URGENTE (verificar aulas em reservascetens.ufrb.edu.br)** |
 | **206** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio | - |
 | **207** | 📽️ Projetor + 📶 Access Point | ⏳ Testar projetor + verificar AP | Sinal de rede reforçado aqui |
 | **208** | 📺 TV com HDMI | ⏳ Testar HDMI + instalar **gancho/suporte** | **Cabo HDMI mal posicionado** |
@@ -548,21 +499,21 @@ Pavilhão com **12 salas numeradas** (201 a 212) + **infraestrutura de rede** (T
 
 #### 🔋 LAB 201 - LEM (Laboratório de Energias)
 - **Curso:** Engenharia de Energias Renováveis
-- **Status:** 🔒 Fechado (visita pendente para Dia 2)
+- **Status:** 🔒 Fechado (visita quando disponível)
 - **Itens TI Esperados:** PCs para simulações, osciloscópios digitais, multímetros conectados, software MATLAB/PVSyst
 - **Urgência TI:** 🟡 Alta (equipamentos de medição são sensíveis; panes afetam pesquisa)
 - **Fontes Online:** Laboratórios similares (UFRGS, USP) usam **sistemas SCADA**, **inversores solares** e **data loggers** com interface USB/Ethernet
 
 #### 📐 LAB 202 - Laboratório de Ensino da Matemática e Ciências
 - **Curso:** LEDOC (Educação do Campo)
-- **Status:** 🔒 Fechado (visita pendente para Dia 2)
+- **Status:** 🔒 Fechado (visita quando disponível)
 - **Itens TI Esperados:** PCs educacionais, projetores, software GeoGebra, tablets/lousas digitais
 - **Urgência TI:** 🟡 Média (usado para aulas práticas; falhas prejudicam didática)
 - **Contexto:** Laboratórios de ensino exigem **estabilidade** (evitar travamentos durante aulas)
 
 #### 🧪 LAB 203 - LACAM (Laboratório de Caracterização de Materiais)
 - **Curso:** Engenharia de Materiais
-- **Status:** 🔒 Fechado (visita pendente para Dia 2)
+- **Status:** 🔒 Fechado (visita quando disponível)
 - **Itens TI Esperados:** PCs com software de análise (Origin, MatLab), microscópios com câmeras digitais, difratômetros de raios-X
 - **Urgência TI:** 🔴 Alta (equipamentos científicos custosos; downtime = perda de amostras)
 - **Fontes Online:** LACAM geralmente integra **equipamentos alemães/japoneses** (Shimadzu, Bruker) com interface Windows
@@ -571,7 +522,7 @@ Pavilhão com **12 salas numeradas** (201 a 212) + **infraestrutura de rede** (T
 - **Curso:** Engenharia (geral)
 - **Status:** ⏳ Parcialmente visível (aula em andamento no Dia 1)
 - **Itens TI Confirmados:** **Múltiplos computadores, monitores, equipamentos eletrônicos**
-- **Verificação Completa:** Pendente para Dia 2 (contar PCs, testar rede, verificar software EDA - Eagle/KiCad/Proteus)
+- **Verificação Completa:** Pendente visita futura (contar PCs, testar rede, verificar software EDA - Eagle/KiCad/Proteus)
 - **Urgência TI:** 🔴 Alta (laboratório intensivo em uso; falhas interrompem projetos práticos)
 - **Observação:** Provavelmente tem **osciloscópios digitais, fontes programáveis, analisadores lógicos** conectados via USB
 
@@ -580,7 +531,7 @@ Pavilhão com **12 salas numeradas** (201 a 212) + **infraestrutura de rede** (T
 #### 🍽️ Laboratório de Processamento de Alimentos
 - **Curso:** Tecnologia em Alimentos
 - **Localização:** **Prédio separado**, próximo ao Prédio Multiuso
-- **Status:** ⏳ Pendente visita completa (Dia 2)
+- **Status:** ⏳ Pendente visita completa (quando disponível)
 - **Itens TI Esperados:**
   - PCs com software de análise nutricional (NutriBase, FoodData)
   - Balanças digitais conectadas
@@ -591,130 +542,6 @@ Pavilhão com **12 salas numeradas** (201 a 212) + **infraestrutura de rede** (T
   - Panes afetam análises químicas (perda de amostras perecíveis)
   - Pesquisa em andamento pode ter prazos críticos
 - **Fontes Online:** Labs similares (Embrapa, UFRGS Alimentos) dependem de **rede estável**, **backups automáticos** e **calibração digital constante**
-
----
-
-## � Pavilhão de Laboratórios 1
-
-### Descrição Geral
-Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP** (Núcleo de Gestão Técnica e Suporte Pedagógico) + **Almoxarifado Administrativo**. Foco em ciências básicas, engenharias e tecnologia assistiva.
-
-### 📍 Laboratórios Mapeados
-
-#### 🧪 LAB 01 - Química Geral, Orgânica e Inorgânica
-- **Itens TI:** Computadores (quantidade a verificar), rede cabeada, Wi-Fi
-- **Software Esperado:** ChemDraw, Gaussian, MestReNova
-- **Status:** ⏳ Catalogação completa pendente (contar PCs, verificar programas instalados, licenças)
-- **Urgência TI:** 🟡 Média (verificação semanal recomendada)
-- **Observação:** Catalogar TODOS os programas específicos utilizados
-
-#### ⚗️ LAB 02 - Análise Físico-Química
-- **Itens TI:** Computadores Windows/Linux, impressora coletiva, espectrofotômetros
-- **Equipamentos:** Balanças analíticas, fornos (com microcontroladores)
-- **Status:** ⏳ Verificar IPs fixos, impressora funcional, rede dedicada
-- **Urgência TI:** 🟡 Alta (queda de Wi-Fi frequente relatada)
-- **Observação:** Equipamentos têm microcontroladores internos (verificar eletrônica embarcada)
-
-#### ♿ LAB 03 - NETA-A (Laboratório de Tecnologia Assistiva)
-- **Itens TI:** 
-  - Computadores Windows + Linux
-  - Software de acessibilidade: **NVDA, JAWS, Word Prediction (Gaze/Dasher)**
-  - **Windows Copilot** (modo narrador + assistente IA)
-  - Teclados braille, mouses oculares, headsets vibratórios
-- **Equipamentos Especiais:** Cadeiras de rodas motorizadas (testar baterias), varredor de olhar
-- **Status:** ⏳ Catalogação equipamentos acessibilidade + teste funcional
-- **Urgência TI:** 🔴 **Muito Alta** (acessibilidade = prioridade 1)
-- **Sistema de Chamados:** Criar categoria **"Acessibilidade Urgente"** (pula fila se aluno em aula)
-- **Observação:** QR codes em cada equipamento para abertura rápida de chamados; bateria de cadeiras crítica
-
-#### ⚛️ LAB 04 - Física
-- **Itens TI:** Computadores, **1 Access Point TP-Link** na porta
-- **Software:** MATLAB, Python (NumPy, SciPy, Anaconda), OriginPlot, GeoGebra, Audacity
-- **Equipamentos:** Osciloscópios digitais USB, multímetros, sensores (porta serial não bloqueada necessária)
-- **Status:** ⏳ Verificar access point (potência, canal), software atualizado
-- **Urgência TI:** 🟡 Média
-- **Observação:** Provavelmente Ubuntu dual-boot; Python 2.7 deve ser removido (só Anaconda 3.11+)
-
-#### 🧬 LAB 05 - Biologia
-- **Itens TI:** PCs com **ImageJ/Fiji** (análise de imagens celulares), Windows 10 atualizado
-- **Equipamentos:** Microscópios óticos, incubadoras, centrífugas, processamento de alimentos
-- **Infraestrutura:** USB livre nas bancadas, rede para upload NCBI
-- **Status:** ⏳ Verificar rede (firewall pode bloquear upload científico), USBs funcionais
-- **Urgência TI:** 🟡 Média
-- **Observação:** Autoclave esquenta ambiente (verificar se afeta rede)
-
-#### ⚡ LAB 06 - Física 2
-- **Itens TI:** Computadores, osciloscópios reais (USB), software **NI Multisim** (Windows 7 legado)
-- **Equipamentos:** Arduino/Raspberry Pi para aquisição de dados, multímetros
-- **Status:** ⏳ Estação dedicada para Arduino, verificar ar-condicionado (crítico)
-- **Urgência TI:** 🟡 Média
-- **Observação:** Hardware mais pesado que LAB 04; rede mais lenta reportada
-
-#### 💻 LAB 07 - Laboratório de Informática 2
-- **Itens TI:** 
-  - **16 computadores:** Ryzen 7 5700G + RX 550 4GB
-  - **Servidor FOG:** Para deploy de imagens
-- **Software Atual:** Windows 10, Office, AutoCAD (múltiplas versões duplicadas)
-- **Status:** 🔴 **PENDÊNCIA CRÍTICA** - Criar imagem padrão FOG URGENTE
-- **Urgência TI:** 🔴 Muito Alta
-- **Observação:** 
-  - Muitos programas aleatórios instalados
-  - Padronizar: Windows 10 LTSC, Office, AutoCAD 2024, VS Code
-  - Bloquear USB para evitar instalação não autorizada
-  - Testar servidor FOG com 10 clones simultâneos
-
-#### 🔧 LAB 08 - Desenho Técnico
-- **Itens TI:** Projetor, mesas grandes (sem PCs)
-- **Status:** ✅ Sala tradicional (sem informática crítica)
-- **Urgência TI:** 🟢 Baixa
-- **Observação:** Apenas verificação de projetor; pode instalar fibra para professor baixar PDFs
-
-#### 🖥️ LAB 09 - LAPSE (Laboratório de Projetos e Simulação em Engenharia)
-- **Itens TI:**
-  - **16 computadores:** Ryzen 7 + GPU dedicada
-  - **1 Access Point TP-Link** na porta
-  - Monitores ruins (precisam substituição)
-- **Software:** ANSYS, SolidEdge, CFD, SolidWorks
-- **Infraestrutura:** Mesas adaptadas altas (bloqueiam sinal)
-- **Status:** ⏳ Substituir monitores por LED Full-HD 24" (IPS, HDMI 2.0)
-- **Urgência TI:** 🟡 Alta
-- **Observação:** 
-  - Access Point: forçar 5GHz, canal 151/153 (evitar sobreposição)
-  - VLAN dedicada (180) para engenharia
-  - Softwares exigem 10 Mbps constantes (não travar mesh)
-
-### 🏢 NUGTESP (Núcleo de Gestão Técnica e Suporte Pedagógico)
-- **Localização:** Entre LAB 07 e LAB 09
-- **Itens TI:**
-  - **Switch principal** (gerenciável, cascateia rede para todos os labs)
-  - **1 Access Point TP-Link** na porta
-  - Desktops técnicos + notebooks pessoais
-- **Função:** Controle de rede, suporte técnico, gerenciamento de labs
-- **Status:** ⏳ Verificar VLANs configuradas, temperatura do switch
-- **Urgência TI:** 🟡 Alta (centro nervoso do pavilhão)
-- **Observação:** 
-  - Access Point: SSID "UFRB-Interno", WPA3, canal 6, potência baixa
-  - Configurar VLANs: 10 (Reitoria), 100-150 (Labs), 200 (NUGTESP)
-  - Desktop com privilégios: Putty, Wireshark, WinSCP
-
-### 📦 Almoxarifado Administrativo
-- **Localização:** Mesmo pavilhão
-- **Função:** Depósito de equipamentos TI defeituosos, itens da Receita Federal sem tombamento
-- **Itens:** 
-  - Computadores Positivo (Intel Core 2/3, padrão antigo)
-  - Monitores queimados, teclados, mouses, nobreaks com bateria inchada
-  - Switches Cisco sem cabo SFP, roteadores sem documentação
-  - CPUs sem placa de vídeo
-- **Status:** 🟡 **PENDÊNCIA MÉDIA** - Organização lógica necessária
-- **Plano:**
-  1. Categorizar em 3 pilhas: "Funciona (testar)", "Quebrado (peças)", "Descarte (laudo)"
-  2. Testar boot com Hirens Boot CD
-  3. Se funcional: formatar, instalar Windows 10 leve, atualizar BIOS
-  4. Empilhar em racks numerados (1-20 "revisado", 21+ "doação/ferro-velho")
-  5. Fotografar tudo antes (IA reconstrói inventário)
-  6. Cartão na porta: "Só retira quem assinar"
-- **Urgência TI:** 🟢 Baixa (não urgente, mas importante para controle patrimonial)
-- **Observação:** Fluxo reverso com COTEC (Cruz das Almas) - caixas lacradas vão para lá, voltam padronizadas ou descartadas
 
 ---
 
@@ -729,7 +556,7 @@ Pavilhão exclusivo para gabinetes de professores, salas coletivas e setores adm
 - **Distribuição:** Cada gabinete = **8 professores** (média)
 - **Itens TI por Gabinete:**
   - Desktop individual ou notebook pessoal
-  - Impressora coletiva HP LaserJet (padrão na maioria)
+  - Impressora coletiva [marca a editar])
   - Rede cabeada + Wi-Fi
 - **Access Points:**
   - Gabinete 4: 1 AP próximo à porta
@@ -772,53 +599,6 @@ Pavilhão exclusivo para gabinetes de professores, salas coletivas e setores adm
 
 ---
 
-## � Biblioteca
-
-### Descrição Geral
-Biblioteca Central do CETENS com **10 computadores distribuídos** entre terminais Pérgamo, sala de estudos, funcionamento interno e recepção. **Sistema Pérgamo** para catalogar, emprestar e devolver livros. Impressoras digitais e câmeras de segurança obrigatórias.
-
-### 🖥️ Distribuição de Computadores
-
-| **Localização** | **Quantidade** | **Função** | **Software Principal** |
-|------------------|----------------|----------------|------------------------|
-| Terminais Pérgamo | 3 | Catalogar, emprestar, devolver | **Sistema Pérgamo** |
-| Sala de Estudos | 2 | Pesquisa alunos (SIB, Repositório Caboclo, BDTD) | Windows 10, Chrome/Edge |
-| Funcionários | 1 | Gestão interna, e-mails, planilhas | Office 365, Windows 10 |
-| Recepção | 4 | Entrada/saída alunos, consultas rápidas | Pérgamo + navegador |
-
-### 🖨️ Infraestrutura de Impressão
-- **Impressoras Uso Geral:** 2 impressoras laser monocromáticas HP
-- **Impressoras Digitais:** Por estação (controle de acesso via QR code?)
-- **Status:** ⏳ Verificar impressoras funcionais, toner disponível
-- **Urgência TI:** 🟡 Média
-
-### 📚 Sistema Pérgamo
-- **Versão:** (Verificar exata)
-- **Funções:** Catalogar acervo, empréstimo/devolução, multas, reservas online
-- **Integração:** SIB (Sistema de Informação de Bibliotecas da UFRB), Repositório Caboclo (teses/dissertações)
-- **Status:** ⏳ Testar integração SIB, backup bancos diário, acesso remoto seguro
-- **Urgência TI:** 🟡 Alta (sistema crítico)
-- **Observação:** 
-  - Criar rotina automática de backup (3-2-1: 3 cópias, 2 mídias, 1 externa)
-  - Empréstimo interbibliotecário com Cruz das Almas (via malote ou digital?)
-
-### 📹 Câmeras de Segurança
-- **Localização:** Entrada principal, corredores, acervo
-- **Status:** 🔴 **PENDÊNCIA CRÍTICA** - Verificar se estão funcionais e gravando
-- **Urgência TI:** 🔴 Muito Alta (segurança do acervo = obrigatória)
-- **Observação:** 
-  - Biblioteca teve furto de notebooks em 2023 (câmeras desligadas)
-  - Sistema de monitoramento: IP fixo, NVR dedicado, 30 dias de retenção mínima
-  - Testar visualização remota (celular)
-
-### 🔌 Infraestrutura de Rede
-- **Rede Cabeada:** PCs fixos
-- **Wi-Fi:** Access point próximo à recepção (SSID "UFRB-Biblioteca")
-- **Status:** ⏳ Verificar cobertura em todo o espaço, velocidade para download de artigos
-- **Urgência TI:** 🟡 Média
-
----
-
 ## 🏫 Prédio Administrativo
 
 ### 🔴 Prioridade Máxima (Resolver em 1-3 dias)
@@ -841,8 +621,6 @@ Biblioteca Central do CETENS com **10 computadores distribuídos** entre termina
 
 ## 📅 Plano de Ação
 
-### Dia 2 (Próximo Expediente)
-1. ✅ **Abrir laboratórios fechados** (LAB 201, 202, 203, 204, Lab Alimentos)
 2. ✅ **Inventariar equipamentos** (contar PCs, monitores, periféricos)
 3. ✅ **Testar projetores** (Pavilhão 2: conectar notebook Win + Mac, verificar HDMI/VGA/áudio)
 4. ✅ **Verificar rede** (testar ping, velocidade, conectividade dos APs)
@@ -923,7 +701,7 @@ Biblioteca Central do CETENS com **10 computadores distribuídos** entre termina
 - **Laboratórios de Energias:** UFRGS (Solar), USP (Fotovoltaico), papers IEEE sobre SCADA em labs acadêmicos
 - **Labs de Materiais:** Bruker (difração), Shimadzu (microscopia), padrões ISO 17025
 - **Labs de Alimentos:** Embrapa Agroindústria, UFRGS Instituto de Ciência e Tecnologia de Alimentos
-- **Testes de Projetores:** Manuais Epson, BenQ, LG sobre compatibilidade HDMI 2.0/2.1
+- **Testes de Projetores:** Manuais Epson, [marca a editar], LG sobre compatibilidade HDMI 2.0/2.1
 - **Redes TP-Link:** Guias oficiais de configuração de APs empresariais (EAP series)
 
 ### Metodologia de Captura
@@ -940,9 +718,9 @@ Prédio concentra **setores administrativos e acadêmicos**: Lab Informática 1,
 
 ### 🖥️ LAB Informática 1
 - **Quantidade:** 20 computadores **Dell Optiplex 7010** (Core i5/i7 3ª geração)
-- **Sistema:** Dual-boot **Windows 10 + Ubuntu 20.04**
+- **Sistema:** Dual-boot **Windows 10 + Ubuntu 20.04** ⚠️ **PENDÊNCIA CRÍTICA: Atualizar → Ubuntu 24.04 LTS**
 - **Software:** Office, navegadores, VS Code, Python
-- **Servidor:** **FOG Project pendente** (deploy de imagens ainda não configurado)
+- **Servidor:** **FOG Project inoperante** (não configurado - criar imagem padrão da TI URGENTE)
 - **Infraestrutura:**
   - 1 projetor fixo no teto
   - Rede cabeada 1Gbps
@@ -953,7 +731,7 @@ Prédio concentra **setores administrativos e acadêmicos**: Lab Informática 1,
 - **Observação:**
   - Configurar servidor FOG URGENTE (deploy rápido de imagens)
   - Criar imagem padrão: Windows 10 LTSC + Ubuntu 22.04 LTS
-  - Instalar impressora coletiva (HP LaserJet M404dn ideal)
+  - Instalar impressora coletiva ([marca a editar])
 
 ### 👥 Gabinete Coletivo (Servidores Públicos)
 - **Quantidade:** ~20 computadores (técnicos administrativos)
@@ -962,7 +740,7 @@ Prédio concentra **setores administrativos e acadêmicos**: Lab Informática 1,
 - **Status:** 🟡 **PENDÊNCIA MÉDIA** - Segunda impressora solicitada
 - **Urgência TI:** 🟡 Média
 - **Observação:**
-  - Impressora atual: HP LaserJet mono (alta demanda)
+  - Impressora atual: [marca a editar])
   - Solicitar segunda impressora ou multifuncional colorida
   - QR code para liberar impressão (reduzir desperdício)
 
@@ -1034,10 +812,10 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 - **Função:** Diretor, vice-diretor, coordenadores gerais
 - **Itens TI:** Cada sala possui **1 impressora individual**
 - **Modelo Atual:** Misto (HP, Epson, Brother)
-- **Status:** 🟡 **PENDÊNCIA MÉDIA** - Padronização necessária (todas HP LaserJet?)
+- **Status:** 🟡 **PENDÊNCIA MÉDIA** - Padronização necessária (todas [marca a editar])
 - **Urgência TI:** 🟡 Média
 - **Observação:**
-  - Padronizar: HP LaserJet Pro M404dn (rede, duplex, 40ppm)
+  - Padronizar: [marca a editar], duplex, 40ppm)
   - Verificar rede/IP de cada coordenador/funcionário
   - Impressoras antigas viram backup ou devolução
 
@@ -1059,7 +837,7 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 - **Status:** 🔴 **PENDÊNCIA CRÍTICA** - Impressora central precisa estar sempre funcional
 - **Urgência TI:** 🔴 Muito Alta
 - **Observação:**
-  - Impressora: HP LaserJet Enterprise (contrato de manutenção)
+  - Impressora: [marca a editar])
   - Backup diário dos servidores
   - Firewall: bloquear acesso externo aos sistemas internos
 
@@ -1116,14 +894,14 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 5. **📚 Setor Acadêmico - Impressora Central Crítica**
    - **Problema:** Impressora crítica para documentos oficiais (histórico, diplomas, certidões)
    - **Impacto:** Sem impressora funcional = setor paralisa = alunos sem documentação
-   - **Ação:** Verificar funcionamento HP LaserJet Enterprise, contrato manutenção ativo, impressora backup configurada e testada
+   - **Ação:** Verificar funcionamento impressora [marca a editar], contrato manutenção ativo, backup configurado
    - **Responsável:** Deivison + Setor Acadêmico
    - **Prazo:** 48h
 
 6. **💻 Lab Informática 1 (Prédio Adm) - Servidor FOG Pendente**
    - **Problema:** 20 Dell Optiplex 7010 sem servidor FOG configurado, dual-boot Win/Ubuntu inconsistente
    - **Impacto:** Reinstalação lenta (6h por PC), inconsistência de software entre máquinas, aulas comprometidas
-   - **Ação:** Configurar servidor FOG, criar imagem padrão dual-boot (Win 10 LTSC + Ubuntu 22.04 + Office + Python + VS Code), instalar impressora coletiva (HP LaserJet M404dn)
+   - **Ação:** Configurar servidor FOG, criar imagem padrão dual-boot (Win 10 LTSC + Ubuntu 24.04 + Office + Python + VS Code), instalar impressora coletiva [marca a editar]
    - **Responsável:** Deivison
    - **Prazo:** 72h
 
@@ -1167,14 +945,14 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 12. **🏢 Pavilhão Gabinetes - Impressoras Sobrecarga (8 Gabinetes)**
     - **Problema:** Impressoras HP com sobrecarga (toner acaba em 1 mês), professores reclamam constantemente
     - **Impacto:** Produtividade baixa, custos altos de toner, reclamações frequentes
-    - **Ação:** Instalar 1 impressora central HP LaserJet Enterprise M507dn (rede, 45ppm, alto volume) + sistema QR code para liberar impressão (reduz desperdício 40% segundo estudos), manter impressoras antigas como backup
+    - **Ação:** Instalar 1 impressora central [marca a editar] (rede, alto volume) + sistema QR code para liberar impressão, manter impressoras antigas como backup
     - **Responsável:** Deivison + Compras
     - **Prazo:** 10 dias
 
 13. **🏛️ Diretoria - Padronização Impressoras 4 Salas Direção**
     - **Problema:** Modelos mistos (HP, Epson, Brother), toners diferentes, manutenção caótica
     - **Impacto:** Custos altos (4 tipos de toner), dificuldade de manutenção, estoque complexo
-    - **Ação:** Padronizar: 4x HP LaserJet Pro M404dn (rede, duplex automático, 40ppm, toner único CF259A), devolver/realocar impressoras antigas
+    - **Ação:** Padronizar: impressoras [marca a editar] (rede, duplex automático, toner unificado), devolver/realocar antigas
     - **Responsável:** Deivison + Compras
     - **Prazo:** 10 dias
 
@@ -1188,7 +966,7 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
     - **Prazo:** 14 dias
 
 15. **🧪 LAB Agroecologia (Pavilhão 2) - Refil Epson Indisponível**
-    - **Problema:** Impressora Epson Ecotank L3250 sem refil de tinta (fornecedor local sem estoque)
+    - **Problema:** Impressora [marca a editar] sem refil de tinta (fornecedor local sem estoque)
     - **Impacto:** Impressora inutilizada (única colorida do lab), impressão de gráficos/relatórios impossível
     - **Ação:** Comprar online (Amazon/Mercado Livre) ou em Salvador refil original Epson T544 (kit CMYK: ciano 664, magenta 664, amarelo 664, preto 664), testar impressora após recarga (limpeza de cabeças)
     - **Responsável:** Deivison + Compras
@@ -1232,7 +1010,7 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 20. **👥 Gabinete Coletivo (Prédio Adm) - Segunda Impressora Solicitada**
     - **Problema:** 20 servidores públicos compartilham 1 impressora HP (sobrecarga crítica, fila de 30min)
     - **Impacto:** Produtividade baixa, frustração, impressões urgentes atrasadas
-    - **Ação:** Adicionar segunda impressora HP LaserJet Pro M404dn (mesma da primeira = toner unificado) OU multifuncional colorida HP M479fdw (scanner + copiadora + fax se necessário)
+    - **Ação:** Adicionar segunda impressora [marca a editar] (toner unificado com primeira) OU multifuncional colorida [marca a editar] (scanner + copiadora)
     - **Responsável:** Deivison + Compras
     - **Prazo:** 21 dias
 
@@ -1282,4 +1060,4 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 
 ---
 
-**🚀 Catalogação iniciada com sucesso! Próximo passo: Dia 2 - Abertura dos laboratórios e testes práticos!**
+**🚀 Catalogação iniciada com sucesso! Próximo passo: Abertura dos laboratórios fechados e testes práticos quando disponíveis.**
