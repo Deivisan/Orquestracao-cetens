@@ -386,9 +386,18 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 - **Observação:** Hardware mais pesado que LAB 04; rede mais lenta reportada
 
 #### 💻 LAB 07 - Laboratório de Informática 2
-- **Itens TI:** 
-  - **16 computadores:** Ryzen 7 5700G + RX 550 4GB
-  - **Servidor FOG:** Inoperante (não configurado - criar imagem padrão da TI URGENTE)
+- **Quantidade:** 20 computadores **Ryzen 7 5700G + RX 550 4GB**
+- **Computadores (nomes por tombamento):**
+  - UFRB119860, UFRB119872, UFRB119857, UFRB119863, UFRB119861
+  - UFRB119869, UFRB119875, UFRB119866, UFRB119867, UFRB119864
+  - UFRB119858, UFRB119874, UFRB119868, UFRB119855, UFRB119856
+  - UFRB119865, UFRB119862, UFRB119859, UFRB119871, UFRB119853
+- **Servidor FOG:** Inoperante (não configurado - criar imagem padrão da TI URGENTE)
+- **Infraestrutura:**
+  - Switch: 102309
+  - Ar-condicionado Komeco: 099969
+  - Projetor [marca a editar]: 110448
+  - Estabilizadores (10): 015570, 015557, 012994, 2022113124, 0156563, 015559, 015577, 015575, 098723, sem tombo (1)
 - **Software Atual:** Windows 10, Office, AutoCAD (múltiplas versões duplicadas)
 - **Status:** 🔴 **PENDÊNCIA CRÍTICA** - Criar imagem padrão FOG URGENTE
 - **Urgência TI:** 🔴 Muito Alta
@@ -397,6 +406,7 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
   - Padronizar: Windows 10 LTSC, Office, AutoCAD 2024, VS Code
   - Bloquear USB para evitar instalação não autorizada
   - Testar servidor FOG com 10 clones simultâneos
+  - **Fonte dados:** patria-amada/Laboratorio_02_Informatica.xlsx + dashboard TypeScript (2024-2025)
 
 #### 🔧 LAB 08 - Desenho Técnico
 - **Itens TI:** Projetor, mesas grandes (sem PCs)
@@ -718,12 +728,19 @@ Prédio concentra **setores administrativos e acadêmicos**: Lab Informática 1,
 
 ### 🖥️ LAB Informática 1
 - **Quantidade:** 20 computadores **Dell Optiplex 7010** (Core i5/i7 3ª geração)
+- **Computadores (nomes por tombamento):**
+  - UFRB094110, UFRB094188, UFRB094227, UFRB094119, UFRB094222, UFRB094126
+  - UFRB094177, UFRB094235, UFRB094122, UFRB094467, UFRB094372
+  - UFRB094124, UFRB094117, UFRB094224, UFRB094191, UFRB094112, UFRB094175
+  - UFRB094181, UFRB094130, UFRB094229
 - **Sistema:** Dual-boot **Windows 10 + Ubuntu 20.04** ⚠️ **PENDÊNCIA CRÍTICA: Atualizar → Ubuntu 24.04 LTS**
 - **Software:** Office, navegadores, VS Code, Python
 - **Servidor:** **FOG Project inoperante** (não configurado - criar imagem padrão da TI URGENTE)
 - **Infraestrutura:**
-  - 1 projetor fixo no teto
-  - Rede cabeada 1Gbps
+  - 1 projetor fixo no teto (tombamento 100484)
+  - Rede cabeada 1Gbps (2 switches 24-port: 102344, 102340)
+  - Nobreak (099399)
+  - Ar-condicionado Filco (117790)
   - **SEM impressora** (alunos vão até Gabinete Coletivo)
 - **Restrição:** Instalação de software bloqueada (sem admin)
 - **Status:** 🔴 **PENDÊNCIA CRÍTICA** - Servidor FOG não está operacional
@@ -732,6 +749,7 @@ Prédio concentra **setores administrativos e acadêmicos**: Lab Informática 1,
   - Configurar servidor FOG URGENTE (deploy rápido de imagens)
   - Criar imagem padrão: Windows 10 LTSC + Ubuntu 22.04 LTS
   - Instalar impressora coletiva ([marca a editar])
+  - **Fonte dados:** patria-amada/Laboratorio_01_Informatica.xlsx (2024-2025)
 
 ### 👥 Gabinete Coletivo (Servidores Públicos)
 - **Quantidade:** ~20 computadores (técnicos administrativos)
