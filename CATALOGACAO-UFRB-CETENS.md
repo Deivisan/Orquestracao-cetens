@@ -318,58 +318,77 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 ### 📍 Laboratórios Mapeados
 
 #### 🧪 LAB 01 - Química Geral, Orgânica e Inorgânica
-- **Computadores:** ❌ Nenhum computador no inventário 2024
+- **Computadores:** ❌ Nenhum (verificado presencialmente 31/10/2025)
 - **Projetor:** Acer (122889)
-- **Itens TI:** Rede cabeada, Wi-Fi
-- **Software Esperado:** ChemDraw, Gaussian, MestReNova
-- **Status:** ⏳ Verificar se há computadores não tombados
-- **Urgência TI:** 🟡 Média
-- **Observação:** Inventário 2024 não registra PCs - confirmar presencialmente
+- **Wi-Fi:** ✅ Funcional (alunos usam celular)
+- **Status:** ✅ Setor sem pendências/itens de informática
+- **Urgência TI:** � Nenhuma
+- **Observação:** Lab exclusivamente experimental, sem necessidade de PCs
 
 #### ⚗️ LAB 02 - Análise Físico-Química
-- **Computadores:** ❌ Nenhum computador no inventário 2024
+- **Computadores:** ❌ Nenhum (verificado presencialmente 31/10/2025)
 - **Projetor:** Genérico (94719)
-- **Impressora:** Samsung (rede coletiva)
-- **Equipamentos:** Balanças analíticas, fornos (com microcontroladores), espectrofotômetros
-- **Status:** ⏳ Verificar se há PCs não tombados, impressora funcional, rede dedicada
-- **Urgência TI:** 🟡 Alta (queda de Wi-Fi frequente relatada)
-- **Observação:** Inventário 2024 não registra PCs - confirmar presencialmente
+- **Wi-Fi:** ✅ Funcional (alunos usam celular)
+- **Equipamentos:** Balanças analíticas, fornos (microcontroladores integrados), espectrofotômetros
+- **Status:** ✅ Setor sem pendências/itens de informática
+- **Urgência TI:** � Nenhuma
+- **Observação:** Lab exclusivamente experimental, equipamentos com microcontroladores embarcados
 
 #### ♿ LAB 03 - NETA-A (Laboratório de Tecnologia Assistiva)
-- **Computadores:** 3 Dell Optiplex 7010
+- **Computadores:** 3 Dell Optiplex
+  - UFRB100543, UFRB094478, UFRB100481
 - **Itens TI:** 
   - Software de acessibilidade: **NVDA, JAWS, Word Prediction (Gaze/Dasher)**
   - **Windows Copilot** (modo narrador + assistente IA)
   - Teclados braille, mouses oculares, headsets vibratórios
-  - **Impressoras:** Samsung ML 3750 (093236), Impressora 3D GTMAX (114715), Impressora Braille Index (111553)
-- **Equipamentos Especiais:** Cadeiras de rodas motorizadas (testar baterias), varredor de olhar
-- **Status:** ⏳ Catalogação equipamentos acessibilidade + teste funcional
+  - Display Braille (funcional)
+  - **Impressoras:** Samsung ML 3750 (093236 - **fora da rede**), Impressora 3D GTMAX (114715), Impressora Braille Index (111553)
+- **Equipamentos Especiais:** Cadeiras de rodas motorizadas (testar baterias), varredor de olhar, display Braille (funcional)
+- **Pendências:**
+  - Estabilizador antigo (substituir)
+  - Impressora Samsung: conectar via repetidor Wi-Fi (sem cabo)
+  - Cable management (usar régua de tomadas da TI)
+  - Wallpaper personalizado "Neto - Lab Acessível - UFRB"
+- **Status:** ✅ Mouse substituído (31/10/2025) | ⏳ Impressora e infraestrutura pendentes
 - **Urgência TI:** 🔴 **Muito Alta** (acessibilidade = prioridade 1)
 - **Sistema de Chamados:** Criar categoria **"Acessibilidade Urgente"** (pula fila se aluno em aula)
 - **Observação:** QR codes em cada equipamento para abertura rápida de chamados; bateria de cadeiras crítica
 
 #### ⚛️ LAB 04 - Física
-- **Computadores:** 6 Dell Optiplex 7010
-  - UFRB941250, UFRB941280, UFRB944680
-  - UFRB941070, UFRB941340, UFRB941320
+- **Computadores:** 6 Dell Optiplex 7010 (TODOS com HDD - ideal trocar por SSD)
+  - UFRB094468, UFRB094166, UFRB094107
+  - UFRB094115, UFRB094132, UFRB094125
 - **Projetor:** Vivitek (112549)
 - **Access Point:** 1 TP-Link na porta
 - **Switch:** 102310
-- **Software:** MATLAB, Python (NumPy, SciPy, Anaconda), OriginPlot, GeoGebra, Audacity
-- **Equipamentos:** Osciloscópios digitais USB, multímetros, sensores
-- **Status:** ⏳ Verificar access point (potência, canal), software atualizado
-- **Urgência TI:** 🟡 Média
+- **Software Obrigatório (Imagem Master):**
+  1. Tracker (análise de vídeo)
+  2. SciDAVis (análise de dados científicos)
+  3. RStudio (estatística experimental)
+  4. CidepeLab V6 (software de física)
+  5. Arduino IDE 2.0 (atualizar de 2.1.1 instalado em 2023)
+  6. PVsol Premium 2019 (simulações solares)
+  7. Autodesk AutoCAD LT 2000 (single-user)
+  8. MATLAB, Python (NumPy, SciPy, Anaconda), OriginPlot, GeoGebra, Audacity
+- **Equipamentos:** Osciloscópios digitais USB, multímetros, sensores, Arduino físico
+- **Pendências:**
+  - Trocar HDDs por SSDs (todos os 6 PCs - melhoria de performance)
+  - Criar imagem master com pacote completo de software
+  - Forçar wallpaper institucional "Laboratório de Física - UFRB" (alunos alteraram)
+  - Testar projetor Vivitek (HDMI/lâmpada/rede)
+  - Verificar portas seriais (COM3/COM4) para Arduino
+- **Status:** ✅ Todos funcionais com HDD | ⏳ Upgrade SSD recomendado
+- **Urgência TI:** 🟡 Média-Alta
 - **Observação:** Provavelmente Ubuntu dual-boot; Python 2.7 deve ser removido
 
 #### 🧬 LAB 05 - Biologia
-- **Computadores:** 1 Dell (UFRB94174)
+- **Computadores:** ❌ Nenhum (verificado presencialmente 31/10/2025)
 - **Projetor:** Acer (2023122890)
-- **Software:** ImageJ/Fiji (análise de imagens celulares), Windows 10
+- **Wi-Fi:** ✅ Funcional (alunos usam celular)
 - **Equipamentos:** Microscópios óticos, incubadoras, centrífugas, processamento de alimentos
-- **Infraestrutura:** USB livre nas bancadas, rede para upload NCBI
-- **Status:** ⏳ Verificar rede (firewall pode bloquear upload científico), USBs funcionais
-- **Urgência TI:** 🟡 Média
-- **Observação:** Autoclave esquenta ambiente (verificar se afeta rede)
+- **Status:** ✅ Setor sem pendências/itens de informática
+- **Urgência TI:** � Nenhuma
+- **Observação:** Lab exclusivamente experimental, sem necessidade de PCs. Inventário 2024 registrava UFRB94174 mas não confirmado presencialmente
 
 #### ⚡ LAB 06 - Física 2
 - **Computadores:** 7 Dell Optiplex
@@ -411,11 +430,18 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 - **Observação:** Verificar projetor; pode instalar fibra para professor baixar PDFs
 
 #### 🖥️ LAB 09 - LAPSE (Laboratório de Projetos e Simulação em Engenharia)
+- **Estações:** 18 totais (16 PCs Positivo funcionais + 2 estações sem gabinete)
 - **Computadores:** 16 Positivo (Core i5 3ª geração) + GPU dedicada
+- **Monitores:** 18 (alguns ruins/não funcionais)
 - **Infraestrutura:** 1 Access Point TP-Link
 - **Software:** ANSYS, SolidEdge, CFD, SolidWorks
-- **Status:** ⏳ Verificação periódica
-- **Urgência TI:** 🟡 Alta
+- **Pendências:**
+  - 2 estações sem gabinete (gabinetes disponíveis na sala TI - transferir)
+  - Windows 7 em múltiplos PCs (atualizar para Windows 10 - mesmo sem licença)
+  - ~5 monitores ruins/mortos (trocar com estoque TI/Admin)
+  - Alguns PCs com sistema corrompido (verificar vírus/setor HD)
+- **Status:** ✅ 16 PCs funcionais | ⏳ Padronização e upgrades pendentes
+- **Urgência TI:** 🟡 Média-Alta
 
 ### 🏢 NUGTESP (Núcleo de Gestão Técnica e Suporte Pedagógico)
 - **Localização:** Prédio Multiuso (anteriormente entre LAB 07 e LAB 09)
@@ -1062,13 +1088,13 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 
 | **Setor** | **Quantidade** | **Modelo Principal** | **Tombamentos** | **Status** |
 |-----------|----------------|----------------------|-----------------|------------|
-| **LAB 03 (NETA-A)** | 3 | Dell Optiplex | UFRB100543, UFRB094478, UFRB100481 | ✅ Catalogado |
-| **LAB 04 (Física)** | 6 | Dell Optiplex 7010 | UFRB941250, UFRB941280, UFRB944680, UFRB941070, UFRB941340, UFRB941320 | ✅ Catalogado |
-| **LAB 05 (Biologia)** | 1 | Dell | UFRB94174 | ✅ Catalogado |
+| **LAB 03 (NETA-A)** | 3 | Dell Optiplex | UFRB100543, UFRB094478, UFRB100481 | ✅ Catalogado + Mouse substituído |
+| **LAB 04 (Física)** | 6 | Dell Optiplex 7010 (HDD) | UFRB094468, UFRB094166, UFRB094107, UFRB094115, UFRB094132, UFRB094125 | ✅ Catalogado (ideal SSD) |
+| **LAB 05 (Biologia)** | ❌ 0 | - | - | ✅ Verificado 31/10 - sem TI |
 | **LAB 06 (Física 2)** | 7 | Dell Optiplex | UFRB94115, UFRB94471, UFRB94116, UFRB94129, UFRB94228, UFRB94169, UFRB94179 | ✅ Catalogado |
 | **LAB 07 (Informática 2)** | 20 | Ryzen 7 5700G + RX 550 | UFRB119860-119875 (20 tombamentos) | ✅ Catalogado |
 | **LAB 08 (Desenho Técnico)** | 1 | Genérico | UFRB941860 | ✅ Catalogado |
-| **LAB 09 (LAPSE)** | 16 | Positivo Core i5 3ª + GPU | Diversos UFRB37xxxxx | ✅ Catalogado |
+| **LAB 09 (LAPSE)** | 16 + 2 sem gabinete | Positivo Core i5 3ª + GPU | Diversos UFRB37xxxxx | ✅ Catalogado (18 estações totais) |
 | **LAB 101 (Maker)** | 1 + 2 notebooks | Positivo + Dell/Compaq | UFRB3747117 + 2 sem tombo | ✅ Catalogado |
 | **LAB 103 (Eng. Superfície)** | 2 | Dell Optiplex 7010 + Positivo | UFRB094232, UFRB3746954 | ✅ Catalogado |
 | **LAB 104 (Colaborar)** | 7 | Chipnet (antigos) | UFRB65743-65766 | ✅ Catalogado |
@@ -1078,15 +1104,15 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 | **Lab Informática 1** | 20 | Dell Optiplex 7010 | UFRB094110-094191 (20 tombamentos) | ✅ Catalogado |
 | **NUGTESP** | 8 + 4 notebooks | Diversos | 7 PCs tombados + 4 notebooks | ✅ Catalogado |
 | **LAB Agroecologia** | 2 | Não especificado | A verificar | ⏳ Pendente |
-| **LAB 01 (Química)** | ❌ 0 | - | Nenhum no inventário | ⚠️ Verificar presencialmente |
-| **LAB 02 (Físico-Química)** | ❌ 0 | - | Nenhum no inventário | ⚠️ Verificar presencialmente |
+| **LAB 01 (Química)** | ❌ 0 | - | Nenhum | ✅ Verificado 31/10 - sem TI |
+| **LAB 02 (Físico-Química)** | ❌ 0 | - | Nenhum | ✅ Verificado 31/10 - sem TI |
 | **LAB 102 (LAMAV)** | ❌ 0 | PCs CNC não tombados | A verificar | ⚠️ Verificar presencialmente |
 | **LAB 203 (LACAM)** | ❌ 0 | - | Nenhum no inventário | ⚠️ Equipamentos integrados? |
 | **LAB 204 (Elétrica)** | ❓ Múltiplos | A catalogar | Não inventariados | 🔴 Urgente catalogar |
 
 ### Totais Consolidados
-- **Total de PCs catalogados:** 109 computadores
-- **Labs com 0 PCs no inventário:** 4 (LAB 01, 02, 102, 203)
+- **Total de PCs catalogados:** 107 computadores (excluindo LAB 01, 02, 05 verificados sem TI)
+- **Labs SEM TI confirmados:** 3 (LAB 01, 02, 05 - verificados presencialmente 31/10/2025)
 - **Labs pendentes de catalogação:** 1 (LAB 204)
 - **PCs sem tombamento:** ~15 unidades (notebooks Maker, LAB 201, etc)
 
