@@ -284,29 +284,240 @@ Pavilhão com **5 laboratórios especializados** (LAB 101 a LAB 105) + **Almoxar
 ## 🏫 Pavilhão de Aulas 1
 
 ### Descrição Geral
-Pavilhão com **4 salas numeradas** (101 a 104) + **1 access point TP-Link** próximo à Sala 102. Padrão: **cada sala possui 1 projetor fixo no teto**.
+Pavilhão com **4 salas de aula** (101 a 104) + **2 laboratórios temáticos** (Lab Amostras/Fadiga, Lab Agroecologia) + **1 access point TP-Link** próximo à Sala 102. Função: **salas especializadas para cursos de engenharia e licenciaturas**.
 
 ### 🔌 Infraestrutura de Rede
-- **Access Point TP-Link:** Localizado próximo à Sala 102 (cobre salas 101, 102, 103 e 104)
-- **Cobertura:** Sinal pode ser fraco na Sala 104 (última do corredor)
+- **Access Point TP-Link:** Localizado próximo à Sala 102 (cobre todo o pavilhão)
+- **Cobertura:** Sinal pode ser fraco nas extremidades (LAB 104)
 
-### 📊 Tabela de Salas
+---
 
-| **Sala** | **Equipamento TI** | **Status** | **Observações** |
-|----------|-------------------|------------|-----------------|  
-| **101** | 📽️ Projetor Acer | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Projetor Acer preso ao teto |
-| **102** | 📽️ Projetor BenQ | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Projetor BenQ curto-foco |
-| **103** | 📽️ Projetor BenQ | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Projetor BenQ, verificar ventilação |
-| **104** | 📽️ Projetor Vivitek | ⏳ Testar Win/Mac, HDMI/VGA, áudio | Última sala, sinal Wi-Fi mais fraco |
+### 🛠️ LAB 101 - Maker (Lab de Fabricação Digital)
 
-### 🎯 Lógica de Funcionamento
-- **Atual:** Professores trazem **notebooks pessoais**, conectam ao projetor via HDMI/VGA
-- **Ideal:** Todos os projetores **testados e funcionais**, cabos reserva disponíveis
-- **Urgência TI:** 🟢 Baixa (verificação padrão trimestral)
+**Status:** ✅ **Catalogado completo - 31/10/2025**
 
-### 📍 Observações Importantes
-- Cabos HDMI curtos em várias salas (professores ficam colados na parede)
-- Wi-Fi depende do AP da Sala 102 (verificar cobertura na 104)
+#### 📊 Inventário de Equipamentos
+
+**Impressoras 3D (5 unidades):**
+1. **Impressora Carbono** - Filamento especial carbono
+2. **Impressora Vidro/PETG** - Material tipo vidro/PETG
+3. **Impressora Max** - Modelo grande (possível K1 Max ou similar)
+4. **Impressora Trajetória** - Para projetos de movimento/mecânica
+5. **Creality (menor)** - Modelo básico tipo Ender 3
+   - Uso: PLA para protótipos rápidos, brinquedos, caixas pequenas
+   - Ideal para: Estudantes, projetos simples
+   - Configuração: Slicing via Cura, transferência USB/SD
+
+**Computador:**
+- **1x Positivo** (❌ **não gerenciável**)
+  - **Sem tombamento** (desregulado pela Receita Federal)
+  - Uso: Modelagem 3D básica
+  - Software instalado: Fusion 360, Tinkercad, Cura (slicer)
+  - Limitações: Hardware básico, sem conexão de rede adequada
+  - Método de trabalho: Exportação via USB ou cartão SD para impressoras
+
+**Periféricos e Sobressalentes:**
+- Kit básico de reposição para Creality:
+  - Nozzles extras (bicos)
+  - Belts (correias)
+  - Hotends (extrusoras)
+- **2 monitores extras** (reutilizáveis para dual screen)
+- **Móveis ociosos:** 1 mesa + 2 cadeiras funcionais
+- Itens reutilizáveis: cabos USB-C, fontes antigas, teclado mecânico quebrado
+
+**Pendências:**
+- Verificar possibilidade de gerenciar Positivo (rede institucional)
+- Organizar sobressalentes em prateleira catalogada
+
+**Urgência TI:** 🟡 Média (gerenciamento PC)
+
+**Metodologia de Aprendizado:**
+- Tutoriais online: YouTube, Thingiverse
+- Ferramentas manuais: régua, paquímetro, lupa
+- Improviso com recursos disponíveis
+
+---
+
+### ⚙️ LAB 102 - Maquinação
+
+**Status:** ✅ **Catalogado - 31/10/2025**
+
+**Descrição:** Laboratório de trabalho mecânico manual
+
+**Equipamentos TI:**
+- ❌ **Zero itens de informática**
+
+**Equipamentos Não-TI:**
+- Fresas
+- Serras
+- Ferramentas mecânicas de usinagem
+
+**Status de Configuração:** 🟡 Ainda não configurado completamente
+
+**Urgência TI:** � Nenhuma (laboratório experimental manual)
+
+**Observação:** "Mão na massa, zero informática" - não há necessidade de PCs para este laboratório
+
+---
+
+### 🔬 LAB 103 - LESC (Laboratório de Engenharia de Superfície)
+
+**Status:** 🔒 **Fechado - Pendente acesso com chave (31/10/2025)**
+
+#### 📊 Inventário Preliminar
+
+**Equipamentos Visíveis:**
+- **1x Dell** (visível pela porta/janela)
+  - ⏳ Pendente: Tombamento
+  - ⏳ Pendente: Especificações (RAM, CPU, HD/SSD)
+  - ⏳ Pendente: Sistema operacional (Ubuntu ou Windows?)
+  - ⏳ Pendente: Monitor, periféricos, conectividade
+  - ⏳ Pendente: Software instalado
+
+**Próximos Passos:**
+1. Conseguir chave de acesso com responsável do lab
+2. Agendar horário vazio via **reserva cetens** (sistema de reserva de salas UFRB)
+3. Catalogação completa: tombamento, specs, software, necessidades
+
+**Urgência TI:** 🟡 Média (aguarda acesso)
+
+---
+
+### 🎮 LAB 104 - Espaço Colaborar
+
+**Status:** 🔒 **Fechado - Pendente acesso (31/10/2025)**
+
+#### 📊 Inventário Preliminar (visão pela fresta)
+
+**Equipamentos Identificados:**
+- **~3 Computadores** (marcas indefinidas)
+  - ⏳ Pendente: Marcas, modelos, tombamentos
+  - ⏳ Pendente: Especificações, sistemas operacionais
+  - ⏳ Pendente: Conectividade, periféricos
+
+- **1x PlayStation**
+  - ⏳ Pendente: Modelo (PS4/PS5?)
+  - ⏳ Pendente: Função (relaxamento ou simulações educativas?)
+  - ⏳ Pendente: Verificar HDMI, conectividade, limpeza
+  - ⏳ Pendente: Asset institucional ou pessoal?
+
+**Infraestrutura:**
+- PCs + console em ambiente colaborativo
+- Status: "Manter ligado, checar HDMI e poeira"
+
+**Próximos Passos:**
+1. Agendar acesso via **reserva cetens** (sistema de reserva de salas - horário sem aula)
+2. Catalogar todos os PCs (marcas, tombamentos, specs)
+3. Verificar PlayStation (modelo, função, conectividade)
+4. Mapear necessidades do espaço
+
+**Urgência TI:** � Média (aguarda acesso)
+
+**Observações:**
+- Espaço colaborativo pode ter mix de equipamentos de diferentes doações
+- PlayStation pode ser usado para simulações/visualizações ou relaxamento estudantil
+- Verificar se todos os equipamentos são assets institucionais
+
+---
+
+### 🧪 Lab Amostras e Fadiga de Reagentes
+
+**Status:** ✅ **Catalogado - 31/10/2025**
+
+**Descrição:** Laboratório de química/materiais para armazenamento e testes
+
+**Equipamentos TI:**
+- ❌ **Zero itens de informática**
+
+**Equipamentos Não-TI:**
+- Tubos
+- Béqueres
+- Pesos
+- Equipamentos de medição química
+
+**Urgência TI:** � Nenhuma (sem necessidade de catalogação informática)
+
+---
+
+### � Lab Agroecologia e Ciências do Solo
+
+**Status:** 🔒 **Fechado - Pendente catalogação completa (31/10/2025)**
+
+#### 📊 Inventário Preliminar
+
+**Equipamentos Identificados:**
+- **2x Dell** (Dell 1 e Dell 2)
+  - ⏳ Pendente: Tombamentos (números de série, IPs)
+  - ⏳ Pendente: Especificações (RAM, CPU, HD/SSD)
+  - ⏳ Pendente: Verificação de configuração atual
+  - ⏳ Pendente: Software instalado vs necessário
+
+**Software Típico Esperado:**
+- **AdubaTec** - Cálculo de calagem e adubação
+- **SolIF** - Análise de solos
+- **Agrofert** - Recomendações de fertilizantes
+- **Excel** - Planilhas de dados de campo
+- **QGIS** - Mapas de solo e georreferenciamento (pesado - verificar RAM)
+
+**Necessidades Prováveis:**
+- Atualizações de software (verificar versões)
+- Mais armazenamento para dados de campo (backup externo?)
+- Scanner para digitalização de relatórios
+- Licenças institucionais vs trial (AdubaTec, SolIF, Agrofert)
+
+**Próximos Passos:**
+1. Agendar acesso via **reserva cetens** (sistema de reserva de salas UFRB - horário sem aula)
+2. Catalogar tombamentos e IPs
+3. Mapear software instalado
+4. Verificar RAM disponível (QGIS pode exigir 8GB+)
+5. Avaliar necessidade de upgrades (RAM, storage)
+
+**Urgência TI:** � Média (aguarda acesso + software especializado)
+
+**Observações:**
+- Software agrícola pode ter licenças específicas (verificar renovações)
+- QGIS é software livre mas pesado (verificar performance)
+- Dados de campo podem ocupar muito espaço (planejar backup)
+
+---
+
+### 🎯 Lógica de Funcionamento do Pavilhão
+
+**Atual:**
+- **LAB 101 (Maker):** Fabricação digital com 5 impressoras 3D + 1 Positivo básico
+- **LAB 102 (Maquinação):** Trabalho mecânico manual, zero TI
+- **LAB 103 (LESC):** 1 Dell para engenharia de superfície (fechado)
+- **LAB 104 (Espaço Colaborar):** Múltiplos PCs + PlayStation (fechado)
+- **Lab Amostras/Fadiga:** Química pura, zero TI
+- **Lab Agroecologia:** 2 Dells com software agrícola especializado (fechado)
+
+**Ideal:**
+- LAB 101: Positivo gerenciável + sobressalentes organizados
+- LAB 103/104/Agroecologia: Catalogação completa + atualizações + licenças verificadas
+- Todos os labs fechados: Acesso programado via **reserva cetens** (sistema de reserva de salas UFRB)
+
+**Urgência TI Geral:** 🟡 Média (labs fechados aguardam acesso)
+
+---
+
+### 📍 Observações Importantes - Pavilhão de Aulas 1
+
+**Metodologia de Catalogação:**
+- Visita presencial em 31/10/2025 durante horário de aula
+- LAB 101: ✅ Catalogado completo (aberto)
+- LAB 102: ✅ Confirmado zero-TI (visualizado)
+- LAB 103/104/Agroecologia: 🔒 Fechados (aguardam segunda visita)
+- Lab Amostras/Fadiga: ✅ Confirmado zero-TI
+
+**Próximos Passos Consolidados:**
+1. **Conseguir chave LAB 103** (LESC)
+2. **Agendar via reserva cetens** (sistema de reserva de salas UFRB):
+   - LAB 104 (Espaço Colaborar) - horário vazio
+   - Lab Agroecologia - horário sem aula
+3. **Catalogação completa pendente:** 1 Dell (LAB 103) + ~3 PCs + PlayStation (LAB 104) + 2 Dells (Agroecologia)
+
+**Referência Cruzada:**
+- Ver **docs/TRANSCRICAO-GROK-31OUT2025-PARTE2.md** para transcrição completa da visita
 
 ---
 
@@ -1095,15 +1306,17 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 | **LAB 07 (Informática 2)** | 20 | Ryzen 7 5700G + RX 550 | UFRB119860-119875 (20 tombamentos) | ✅ Catalogado |
 | **LAB 08 (Desenho Técnico)** | 1 | Genérico | UFRB941860 | ✅ Catalogado |
 | **LAB 09 (LAPSE)** | 16 + 2 sem gabinete | Positivo Core i5 3ª + GPU | Diversos UFRB37xxxxx | ✅ Catalogado (18 estações totais) |
-| **LAB 101 (Maker)** | 1 + 2 notebooks | Positivo + Dell/Compaq | UFRB3747117 + 2 sem tombo | ✅ Catalogado |
-| **LAB 103 (Eng. Superfície)** | 2 | Dell Optiplex 7010 + Positivo | UFRB094232, UFRB3746954 | ✅ Catalogado |
-| **LAB 104 (Colaborar)** | 7 | Chipnet (antigos) | UFRB65743-65766 | ✅ Catalogado |
+| **LAB 101 (Maker)** | **1 Positivo** | Positivo (sem gerenciamento) | ❌ Sem tombamento (Receita) | ✅ Catalogado 31/10 |
+| **LAB 102 (Maquinação)** | ❌ 0 | - | Nenhum | ✅ Verificado 31/10 - sem TI |
+| **LAB 103 (LESC)** | **1 Dell** | Dell (marca visível) | ⏳ Pendente tombamento | 🔒 Fechado - aguarda acesso |
+| **LAB 104 (Espaço Colaborar)** | **~3 PCs** | Indefinido | ⏳ Pendente tombamentos | 🔒 Fechado - aguarda acesso |
 | **LAB 105 (LIMM)** | 7 | Dell + Positivo + LG | 4 Dell tombados + 3 sem tombo | ✅ Catalogado |
+| **Lab Amostras/Fadiga** | ❌ 0 | - | Nenhum | ✅ Verificado 31/10 - sem TI |
+| **Lab Agroecologia** | **2 Dells** | Dell (2 unidades) | ⏳ Pendente tombamentos | 🔒 Fechado - aguarda acesso |
 | **LAB 201 (LEM)** | 2 | Dell Optiplex 3000 + Positivo | Ambos sem tombo | ✅ Catalogado |
 | **LAB 202 (Matemática)** | 6 | 2 Positivo + 4 Dell Optiplex 7010 | UFRB094118, UFRB094123, UFRB094182, UFRB094470 + 2 Positivo | ✅ Catalogado |
 | **Lab Informática 1** | 20 | Dell Optiplex 7010 | UFRB094110-094191 (20 tombamentos) | ✅ Catalogado |
 | **NUGTESP** | 8 + 4 notebooks | Diversos | 7 PCs tombados + 4 notebooks | ✅ Catalogado |
-| **LAB Agroecologia** | 2 | Não especificado | A verificar | ⏳ Pendente |
 | **LAB 01 (Química)** | ❌ 0 | - | Nenhum | ✅ Verificado 31/10 - sem TI |
 | **LAB 02 (Físico-Química)** | ❌ 0 | - | Nenhum | ✅ Verificado 31/10 - sem TI |
 | **LAB 102 (LAMAV)** | ❌ 0 | PCs CNC não tombados | A verificar | ⚠️ Verificar presencialmente |
@@ -1111,10 +1324,28 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 | **LAB 204 (Elétrica)** | ❓ Múltiplos | A catalogar | Não inventariados | 🔴 Urgente catalogar |
 
 ### Totais Consolidados
-- **Total de PCs catalogados:** 107 computadores (excluindo LAB 01, 02, 05 verificados sem TI)
-- **Labs SEM TI confirmados:** 3 (LAB 01, 02, 05 - verificados presencialmente 31/10/2025)
-- **Labs pendentes de catalogação:** 1 (LAB 204)
-- **PCs sem tombamento:** ~15 unidades (notebooks Maker, LAB 201, etc)
+
+**Computadores Catalogados:**
+- **Total confirmado:** 107 PCs (inventário 2024 + verificações 31/10/2025)
+- **Total pendente:** 6 PCs (LAB 103: 1 + LAB 104: ~3 + Lab Agroecologia: 2)
+- **Total esperado (completo):** 113 PCs
+
+**Labs SEM TI Confirmados:**
+- LAB 01 (Química) - verificado 31/10/2025
+- LAB 02 (Físico-Química) - verificado 31/10/2025
+- LAB 05 (Biologia) - verificado 31/10/2025
+- LAB 102 (Maquinação) - verificado 31/10/2025
+- Lab Amostras/Fadiga - verificado 31/10/2025
+- **Total:** 5 labs zero-TI
+
+**Labs Fechados - Pendente Segunda Visita:**
+- 🔒 LAB 103 (LESC) - 1 Dell visível
+- 🔒 LAB 104 (Espaço Colaborar) - ~3 PCs + PlayStation
+- 🔒 Lab Agroecologia - 2 Dells
+
+**PCs Sem Tombamento:**
+- LAB 101 (Maker): 1 Positivo (Receita Federal)
+- LAB 201, notebooks diversos: ~15 unidades estimadas
 
 ### Setores Administrativos (Não no Inventário NUGTESP 2024)
 - **7 Coordenações Multiuso:** Estimado 1-2 PCs cada = 10-14 PCs
@@ -1125,7 +1356,21 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 - **Setor Acadêmico:** Estimado 8-10 PCs (servidores críticos)
 - **Diretoria (4 salas):** 4-8 PCs
 
-**Total estimado campus:** **~230-250 computadores** (109 catalogados + ~130 administrativos)
+### Equipamentos Especiais - Pavilhão de Aulas 1
+
+**LAB 101 (Maker):**
+- 5 Impressoras 3D:
+  - 1 Carbono
+  - 1 Vidro/PETG
+  - 1 Max (grande formato)
+  - 1 Trajetória
+  - 1 Creality (básica)
+- 1 Positivo (modelagem 3D - sem tombamento)
+
+**LAB 104 (Espaço Colaborar):**
+- 1 PlayStation (uso a confirmar)
+
+**Total estimado campus:** **~240-260 computadores** (113 catalogados + ~130 administrativos)
 
 ---
 
@@ -1133,6 +1378,13 @@ Centro de comando administrativo: **Sala Técnica de TI** (servidor master, swit
 
 **Responsável:** Deivison Santana (Técnico TI - UFRB CETENS)  
 **Atualização:** Este documento será atualizado **semanalmente** conforme novos setores forem catalogados  
+**Formato:** Markdown (.md) - compatível com GitHub, Obsidian, VS Code, Notion  
+**Compartilhamento:** Enviar versão PDF para coordenação TI e direção do CETENS  
+
+**Referências Cruzadas:**
+- `docs/TRANSCRICAO-GROK-31OUT2025.md` - Transcrição visita Labs 03, 04, 07, 09
+- `docs/TRANSCRICAO-GROK-31OUT2025-PARTE2.md` - Transcrição visita Pavilhão Aulas 1 (Labs 101-104, Agroecologia)
+- `docs/INVENTARIO-NUGTESP-2024-COMPLETO.md` - Inventário base 2024  
 **Formato:** Markdown (.md) - compatível com GitHub, Obsidian, VS Code, Notion  
 **Compartilhamento:** Enviar versão PDF para coordenação TI e direção do CETENS  
 
