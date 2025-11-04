@@ -2,7 +2,7 @@
 
 **Autor:** Deivison Santana (DevSan)  
 **Data Início:** 30 de outubro de 2025  
-**Última Atualização:** 03 de novembro de 2025  
+**Última Atualização:** 04 de novembro de 2025  
 **Status:** 🔄 Em atualização contínua  
 **Instituição:** Universidade Federal do Recôncavo da Bahia - Centro de Ciência e Tecnologia em Energia e Sustentabilidade
 
@@ -171,11 +171,22 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 - **Urgência TI:** 🟢 Nenhuma
 
 #### ⚡ LAB 06 - Física 2
-- **Computadores:** 7 Dell Optiplex (UFRB94115, UFRB94471, UFRB94116, UFRB94129, UFRB94228, UFRB94169, UFRB94179)
-- **Projetor:** Genérico (110491)
-- **Software:** NI Multisim (Windows 7 legado - pendente atualização Win 10)
-- **Status:** 🔴 **Relato de 1 PC inoperante** - Verificação urgente
-- **Urgência TI:** 🔴 Alta
+- **Computadores:** 7 Dell Optiplex 7010 (4GB RAM, HDD)
+- **Tombamentos:** UFRB094471, UFRB094134, UFRB094228, UFRB094116, UFRB094129, UFRB094179, UFRB094169 (projetor)
+- **Sistemas:** Windows 10 (maioria) + 1 Windows 7 (UFRB094279)
+- **Projetor:** Genérico (110491) - Conectado via UFRB094169
+- **Software Padrão (Imagem Master FOG):**
+  1. **Base Universal:** LibreOffice, RustDesk, UltraVNC, Chrome, Firefox, Edge
+  2. **Física Experimental:** Tracker, CIDEPLab V6, RStudio
+  3. **Engenharia:** Arduino IDE, Google Earth, AutoCAD LT 2020, PyCharm (Python)
+  4. **Suporte:** AMD Catalyst, Autodesk Desktop App, Material Library 2020
+- **Pendências Detectadas (04/11/2025):**
+  - UFRB094116: Sem padrão completo (só LibreOffice, RustDesk, navegadores) - Instalar todos os softwares
+  - UFRB094279: Windows 7 (avaliar migração Win 10 ou manter imagem própria)
+  - Todos os PCs: Migrar HDD → SSD (4GB RAM + HDD = lentidão crônica)
+  - Desinstalar: Flash Player, Spotify, Skype, PDF Creator, PhotoPrint, DingBar, Clean
+- **Status:** ✅ Todos 7 funcionais (nenhum inoperante confirmado) | ⏳ Padronização e upgrade pendentes
+- **Urgência TI:** 🟡 Média-Alta (criar imagem FOG + migrar SSD)
 
 #### 💻 LAB 07 - Laboratório de Informática 2
 - **Quantidade:** 20 computadores **Ryzen 7 5700G + RX 550 4GB**
@@ -186,10 +197,10 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 - **Urgência TI:** 🔴 Muito Alta
 
 #### 🔧 LAB 08 - Desenho Técnico
-- **Computadores:** ⏳ Pendente visita (suposição de 1 PC, nada confirmado)
+- **Computadores:** ❌ Nenhum (confirmado visita 04/11/2025)
 - **Projetor:** Genérico (2023122894)
-- **Status:** ⏳ Verificação presencial necessária
-- **Urgência TI:** 🟢 Baixa
+- **Status:** ✅ Zero TI confirmado (laboratório experimental puro)
+- **Urgência TI:** 🟢 Nenhuma
 
 #### 🖥️ LAB 09 - LAPSE (Laboratório de Projetos e Simulação em Engenharia)
 - **Estações:** 18 totais (16 PCs Positivo funcionais + 2 estações sem gabinete)
@@ -204,11 +215,22 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 - **Status:** ✅ 16 PCs funcionais | ⏳ Padronização pendente
 - **Urgência TI:** 🟡 Média-Alta
 
-### 🏢 NUGTESP (Núcleo de Gestão Técnica e Suporte Pedagógico)
-- **Localização:** Transferido para Prédio Multiuso
-- **Equipamentos:** Rack com switch, múltiplos roteadores, área para notebooks
-- **Status:** ⏳ Recatalogar no local atual
-- **Urgência TI:** 🟡 Alta
+### 🏢 NukeTESP (Núcleo de Gestão Técnica e Suporte Pedagógico)
+- **Localização:** Pavilhão de Laboratórios 1 (confirmado 04/11/2025)
+- **Equipamentos:**
+  - 1 Desktop fixo (tombamento pendente)
+  - Notebooks (equipe técnica)
+  - 1 Impressora Samsung (IP: 172.17.215.203)
+  - 1 Eletroimpressora 50MD (rede)
+  - 1 Rack (cabeamento backbone)
+  - 1 Access Point TP-Link (porta)
+- **Infraestrutura:** Rede Wi-Fi + cabeada, impressão via rede
+- **Pendências:**
+  - Coletar tombamento desktop
+  - Instalar padrão UFRB (LibreOffice, RustDesk, UltraVNC, drivers impressoras)
+  - Configurar IP fixo desktop no rack
+- **Status:** ✅ Catalogado | ⏳ Patrimônio desktop pendente
+- **Urgência TI:** 🟡 Média
 
 ### 📦 Almoxarifado Administrativo
 - **Função:** Depósito de equipamentos TI defeituosos
@@ -510,9 +532,9 @@ Centro de comando administrativo: **Sala Técnica de TI** + **4 salas de direç�
 
 ### 🟡 Urgência ALTA (Resolver em 5-10 dias)
 
-7. **LAB 06 (Pavilhão Labs 1)** - 1 PC inoperante relatado
-8. **LAB 03 (Pavilhão Labs 1)** - Impressora Samsung: cabo → rede (3 PCs compartilhados)
-9. **LAB 04 (Pavilhão Labs 1)** - Verificar licenças antes FOG
+7. **LAB 03 (Pavilhão Labs 1)** - Impressora Samsung: cabo → rede (3 PCs compartilhados)
+8. **LAB 04 (Pavilhão Labs 1)** - Verificar licenças antes FOG
+9. **LAB 06 (Pavilhão Labs 1)** - Criar imagem FOG padrão + padronizar UFRB094116 + migrar HDD→SSD
 10. **Sala 208 (Pavilhão Aulas 2)** - Cabo HDMI frouxo → gancho/suporte
 11. **Lab Agroecologia (Pavilhão Labs 2)** - HP tinta → trocar por toner
 12. **Biblioteca** - SSH remoto terminais Pérgamo + verificar impressoras
@@ -522,7 +544,7 @@ Centro de comando administrativo: **Sala Técnica de TI** + **4 salas de direç�
 13. **LAB 09 (Pavilhão Labs 1)** - 2 sem gabinete, Win7 atualizar, monitores trocar
 14. **Gabinete Coletivo (Prédio Adm)** - Segunda impressora solicitada
 15. **Pavilhão Gabinetes** - Catalogar 8 gabinetes + PROPPAE
-16. **Visitas Pendentes:** Labs 103/104/Agroecologia (Pav Aulas 1), Labs 201-204 (Pav Aulas 2), Processamento Alimentos
+16. **Visitas Pendentes:** Labs 103/104/Agroecologia (Pav Aulas 1), Labs 201-204 (Pav Aulas 2), Processamento Alimentos, Almoxarifado Administrativo (Pav Labs 1)
 
 ---
 

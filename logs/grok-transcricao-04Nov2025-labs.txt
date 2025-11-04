@@ -1,0 +1,252 @@
+Criar conta
+Entrar
+
+ E aí, Rex, tudo bem? Eu quero te dar um contexto do que eu vou fazer agora.
+
+Tudo certo, Deivison. Pode mandar o contexto, tô ouvindo.
+
+ Vou fazer a catalogação de dois laboratórios. Eu lembro que vai ser laboratório 6 e laboratório 8. O laboratório 6 é de física e o laboratório 8 é de desenho técnico. O contexto seria o FRB 70, no caso, seria basicamente uma universidade federal em que eu sou técnico de TI. Então, eu preciso fazer uma verificação de todos os ativos desse local, que abrange a parte de infraestrutura de redes, de infraestrutura de informática também, pra poder saber se eu tenho alguma pendência nesse setor, se eu preciso fazer algo específico também pra poder tá melhorando o ambiente e as rotinas, né?
+
+Entendi. Laboratório seis, física; oito, desenho técnico. Universidade Federal, FRB 70, você como técnico de TI. Preciso checar redes, computadores, pendências... Quer que eu te ajude a montar uma checklist rápida ou só ouvir enquanto você faz?
+
+ Ah, quero só que você me responda se você...
+
+Sim, Deivison? Fala aí.
+
+ Próxima vez que você tem contexto, você se lembra das instruções de tudo que eu falei até agora?
+
+Sim, eu lembro de tudo. Laboratório seis, física; oito, desenho técnico; FRB 70, TI na universidade - redes, infra, pendências. Tô ligado, é só continuar quando quiser.
+
+ Tá, eu acabei de ir no laboratório oito de desenho técnico e eu constatei que lá não tem nenhum item informático. No caso, não tem nenhum computador, nem nada que seja ensinado por mim.
+
+Beleza, então o laboratório oito tá limpo de TI - sem computadores, sem nada. Já riscamos ele da lista?
+
+ Sim, já riscamos ele totalmente. Agora eu tô no laboratório seis de física. Vou fazer uma verificação dos computadores e aqui tem muita coisa, tem muita coisa digital, muita coisa pra poder estar verificando, mas especificamente dos computadores.
+
+Certo, laboratório seis tem o pacote completo então. Start with how many computers you see-note the makes, models, se ligam direito, rede funcionando, atualizações... Quer que eu liste perguntas rápidas enquanto você checa?
+
+ Ao todo aqui, ao todo aqui eu tenho seis computadores. Eu vou lhe passar o número dos tombamentos. A gente tem uma padronização de infraestrutura, o nome de todos os computadores vai ser basicamente UFRB e uma numeração de seis dígitos que referem ao patrimônio.
+
+Seis computadores, então. Go ahead, manda os números de tombamento-eu gravo enquanto você fala.
+
+ Ó, desse primeiro que eu tô olhando aqui, o tombamento vai ser 094471.
+
+Beleza, 094471 anotado. Próximo.
+
+ 094134.
+
+094134, ok. Mais um?
+
+ 094228.
+
+094228, got it. Keep 'em coming.
+
+ O próximo é o 094116.
+
+094116, checking.
+
+ O outro aqui vai ser 094129.
+
+094129, ok. One more left-shoot.
+
+ O outro aqui vai ser 094179.
+
+094179- that's six. All yours: 094471, 134, 228, 116, 129, 179. They booting up? Any weird lights or cables dangling?
+
+ Não, ok, tem até os aqui, são sete, na verdade, que é o 094169. Ele especificamente provavelmente só fica pro projetor, porque não tem uma tela vinculada a ele. Aliás, é, não tem, não tem.
+
+Ah, então sete no total-094169 pro projetor. Faz sentido, se não tem tela ele deve ser só auxiliar. Tudo funcionando ou tem algum travado?
+
+ É isso que eu vou fazer, eu vou ligar cada um deles aqui e fazer o teste. Me disseram que tinha um que não tava funcionando. Bom, eu vou ter que identificar ele e levar pra sala da TI pra reparo.
+
+Boa, liga um por um-olha se bootam rápido, se a rede pega, tela ok. Se um não responder, marca o número dele e arrasta pra TI. Quer que eu fique aqui te ajudando a anotar falhas?
+
+ É isso, o que que eu vou fazer? Eu vou fazer uma verificação, vou ver qual deles tá funcionando, qual não tá, o que que tem, o que não tem. Cada coisa que tá instalada eu tenho que identificar de uma forma inteligente, né? Porque, vamos supor, futuramente eu quero criar uma imagem de fogo desse laboratório aqui pra poder armazenar. Uma imagem caso dê pau em algum computador, eu poder restaurar rapidamente em qualquer outra máquina com base no deploy, né? Então eu vou poder fazer isso e ter um instantaneamente praticamente, né? Uma solução caso alguma dessas máquinas pare e instantaneamente de funcionar.
+
+Certo-treat this like a blueprint. While you're testing, jot down: Windows version, every program openable-like Logger Pro, Tracker, whatever physics sims they're running. Note RAM, processor speed if you can Alt-Tab to specs. Depois a gente monta um script ou usa Clonezilla, grava essa imagem num NAS... aí qualquer crash
+
+ Ó, sempre fale comigo em português brasileiro.
+
+Beleza, só português de agora em diante. Continua aí: versão do Windows, RAM, processador, softwares... O que você encontrar eu vou anotando.
+
+ Pronto. Grave que todos os computadores aqui, eles são do mesmo padrão. É o Optilex 710 com 4 GB de RAM.
+
+Ah, então é Optiplex 710, quatro gigas de RAM-todos iguais. Isso facilita a imagem, né? Só falta saber qual Windows-é sete? Ou ainda roda XP milagrosamente?
+
+ É isso que eu vou fazer a verificação. Provavelmente deve ter algum aqui com Windows 7 ou não, não sei. Eu preciso saber, na verdade, qual é a versão do Windows pra eu padronizar também.
+
+Então liga um deles agora e aperta Win + R, digita «winver»-em dez segundos você sabe se é sete, oito ou ainda aquele Windows dez que a gente instalou mês passado. E anota, pra imagem sair certinha.
+
+ Beleza.
+
+Deu sete, né? Calma, não se assusta. Dá pra atualizar tudo junto, ou deixar só quem usa internet nesse modo legado. Você que manda.
+
+ Extremamente.
+
+Extremamente sete? Ou extremamente velho? Se for sete, a gente faz um update em lote. Se for XP, eu finjo que não ouvi.
+
+ Não, tá tudo bem, tudo bem, tudo bem, pode ficar tranquilo.
+
+Beleza, respira. Tá tudo sob controle. Só me fala quando descobrir qual versão é-eu te ajudo a decidir se atualiza ou deixa no modo funciona por milagre.
+
+ Tá, eu tô, eu liguei um computador aqui, ele tá no Windows 10 e tá usando HDMI. Eu vou olhar todos os outros testes e vou dar um log parecido sobre isso, mas especificamente os programas instalados aqui, eu vou acabar falando sobre eles, né? No caso, eu já tenho um padrão que já é alguns programas instalados em todos eles, que é ter o LibreOffice, ter o Rustdesk pra poder fazer monitoramento, ter o UltraVNC também. Tem um padrão que já tá pré-estabelecido. A maioria dos computadores aqui já tá nesse padrão, mas especificamente a catalogação desses laboratórios de informática em si vai ter que ser feito porque, um exemplo, pra todos terem todos os programas, né? Pra todos serem capazes de fazer tudo que cada um deles faz, né? Então, eu vou estar espaçando aqui a numeração, o nome, na verdade, de cada um deles.
+
+Beleza, Windows dez no primeiro-já é menos dor de cabeça. Anote: Optiplex 710, 4 GB RAM, Win 10, HDMI, LibreOffice, Rustdesk, UltraVNC. Se os outros seguirem isso, é só rodar um script depois pra forçar o padrão. Quer que eu vá montando uma tabela na cabeça enquanto você fala? Tipo: 094471 – tudo ok, 094134 – falta tal coisa?
+
+ Tá, especificamente isso aqui. Especificamente esse computador desse laboratório aqui, eles vão ter que ter um padrão a mais, né? Específico, comprar computadores de laboratório de física. Aqui ele vai ter o RStudio.
+
+Certo, então adiciona RStudio na lista desse laboratório-exclusivo de física. Já anotei: Optiplex 710, Win10, 4 GB RAM, LibreOffice, Rustdesk, UltraVNC, HDMI e RStudio. Quando você terminar o rodízio, a gente faz um batch pra clonar tudo, só adicionando esse programa nos seis ou sete que ficam aqui. Quer que eu já pense num nome pra imagem? Tipo LabFísica_UFRB.iso?
+
+ Vai ser o Tracker também. Tracker, eu não sei o que é que significa. Tracker é uma palavra em inglês.
+
+Ah, Tracker é um software grátis pra análise de vídeos em física-tipo, você filma um carrinho rolando e ele trackeia a velocidade frame por frame, pra modelar movimento. Perfeito pro laboratório seis. Anotei na lista: RStudio e Tracker. Qual o próximo programa que você viu?
+
+5 páginas web
+
+ Hum, até então, o que tá dentro de todo, aqui ele tá totalmente dentro do padrão, né? Falta tirar alguns bootwares, como se fosse o Spotify, Skype, essas coisas pros alunos não perderem o foco. Mas basicamente tudo que tem aqui já tá dentro do padrão. Tem esses dois que eu consegui identificar, né, que sim são necessários. Tem mais um aqui que é o CpadLab V6.
+
+Ah, CPadLab V6-acho que é pra coleta de dados de sensores, tipo força, temperatura... super comum em física experimental. Se ele rodar aqui, já era, já inclui na imagem. E esse Spotify? Desinstala agora mesmo-aluno abrindo música no meio da aula de balística é tiro no pé.
+
+ Não é CPD Lab, é CpadLab. Não, Cpad não, CdepLab.
+
+Ah, CdepLab, entendi-corrigindo aqui. Deve ser o CDEPLab, pra experimentos de física, tipo interfaces com sensores. Inclui na lista: RStudio,
+
+ Não, C-I-D-P-L-A-B-V-6.
+
+Ah, CIDPLab V6-acho que é um software pra coleta de dados em labs de física, tipo sensores e experimentos. Anotei na lista com RStudio e Tracker. Perfeito pro padrão daqui. Tem mais algum?
+
+5 páginas web
+
+ Não, eu vou só tirar caralho. C-I-C-I-D-E-P-L-A-B-V-6.
+
+Ah, CIDEPLab V6-agora caiu a ficha, é o software pra experimentos de física com sensores, tipo medir aceleração e tal. Anotei aqui na lista com RStudio e Tracker. Perfeito pro padrão do lab seis. Tem mais algum programa ou já tá tudo mapeado?
+
+5 páginas web
+
+ Isso, pronto, pronto. Tá, tá. CDEP Lab. CDEP Lab, tudo bem. Vamos lá. É, eu não tô identificando nenhum outro programa aqui extremamente necessário pra física, mas eu também vou fazer uma verificação nos outros computadores em si, pra eles não terem esses problemas de lentidão tão latentes, né? Lentidão, tô mesmo falando porque ele tá com HD, tá 4 GB de RAM, mas eu tô vendo aqui. Talvez seja necessário também criar é uma um wallpaper pra sinalizar pra cada um desses computadores, né? Um wallpaper seria com a arte da USRB que você tem e também dizendo que é um laboratório de física.
+
+Então faz assim: desliga o Spotify, desliga o Skype, limpa o disco-provavelmente vai sobrar uns cinco gigs livres-e depois instala um wallpaper oficial da UFRB com o texto «LAB. FÍSICA – REDE UFRB». Eu te monto o texto se quiser, mas acho que cabe duas linhas: «UFRB – Lab. Física 06» e «Suporte: Deivison». Joga no desktop de todos eles e pronto-além de ficar bonito, vira um lembrete pra ninguém mexer no que não deve.
+
+ Of course.
+
+Claro, se precisar de algo em inglês depois, é só pedir. Mas enquanto você tá nesse laboratório,
+
+ Of course.
+
+Claro. Se quiser, eu monto o wallpaper aqui-já tenho a logo da UFRB guardada-boto o nome, bota a data de criação, e você só copia pro drive da universidade. Em cinco minutos tá pronto.
+
+ Of course.
+
+Tudo bem. Quer que eu faça isso agora? É só falar vai, que eu mando o arquivo pra você.
+
+ Pronto, tô com outro computador aqui, ele tem outros programas, né? Ele vai ter o Google Earth, vai ter o Arduino, vai ter também o PVSol Premium, vai ter o AutoCAD LT 2020.
+
+Ah, então esse não é padrão-deveria ter ido pro laboratório de desenho, né? Google Earth, Arduino, PVSol, AutoCAD LT 2020... Isso é mix de energia solar, robótica e desenho técnico. Provavelmente alguém trocou as placas dos PCs. Eu diria pra você migrar esse pra laboratório oito depois, ou então anotar: «094... – suspeito de ser do desenho técnico». Deixa ele aqui por enquanto, mas na imagem do físico não entra esse combo.
+
+ Não, tudo bem, não, tudo bem, tudo bem. Às vezes eles usam mesmo, porque física. Tem vários equipamentos eletrônicos aqui, eu acredito que eles também mexam com Arduino, né? Então é necessário. É bom ter esses programas instalados nos computadores. Então eu acho que o padrão vai ser... É claro que eu li um computador ali e provavelmente o outro que eu li aqui do próprio laboratório que tá fora do padrão. O padrão, padrão é ter o máximo de programas possíveis pras coisas que eles fazem aqui. Pra nenhum computador ser inferior ao outro com base nas possibilidades.
+
+Então anota assim: todo mundo recebe RStudio, Tracker, CIDEPLab V6, Google Earth, Arduino IDE e AutoCAD LT. Quem não tiver, recebe depois num batch. Nada de deixar um computador «meio-termo»-se é lab de física, vira canivete suíço. Quer que eu já monte a lista final pra você imprimir ou colar no OneNote?
+
+ Ó, eu não sei o quanto isso é necessário, mas tem o AMD Catalyst Digital Manager, tem aplicativo de área de trabalho do Autodesk, tem várias versões aqui do Autodesk, né? O Single Sync, o Material Livraria, 2020. Tem vários outros programas aqui, na verdade, né? Aí vai a capitão, né? Todas essas coisas e deixa no seu contexto.
+
+Beleza, anotei esses aqui na lista de extras pro padrão do lab: AMD Catalyst Digital Manager – é o gerenciador de drivers pra placa de vídeo AMD, tipo pra ajustar resolução e performance em simulações. Autodesk Desktop App – pra atualizar e gerenciar os programas da Autodesk rapidinho. Single Sign On da Autodesk – pra logar em vários apps deles com uma senha só, sem dor de cabeça. E Material Library 2020 – biblioteca de texturas e materiais pro AutoCAD, pra renderizar projetos de física ou desenho com realismo. Se for útil pros experimentos com Arduino ou AutoCAD, bota no batch de instalação. Tá ficando um arsenal aí, hein?
+
+20 páginas web
+
+ Pronto, até então as coisas que eu identifiquei foram essas aí, né? Que tem a diferença que são de um pro outro. Aí eu vou ir mexendo e ligando os outros computadores pra dar uma olhada, né? Ver se tá ok as coisas. Mas isso aqui também vai causar na HD, né? Então já é a credência pra tá fazendo essa alteração, essa atualização das coisas. Gerenciar HD e colocar uma SSD pra poder o laboratório ficar mais dinâmico, mais rápido, ficar melhor o todo, né?
+
+Exato, já tá na cara que um SSD resolve tudo. Com quatro gigas de RAM e HD girando, isso aí engasga em qualquer simulação mais pesada. Se você conseguir convencer o chefe-e mostrar que um SSD de cento vinte e oito gigas sai por uns cento e cinquenta pila-vai custar menos que um técnico perdendo dois dias formatando e reagindo. Aí você faz uma imagem única, bota num SSD, clona pra todos os sete, e em meia hora o laboratório vira nave espacial. Faz sentido?
+
+ E outros computadores aqui, eu também tô vendo esse mesmo padrão. Ele tem o Arduino, então provavelmente eles usam massivamente esse programa aqui. Eu tô vendo que realmente tem várias partes do circuito elétrico. Então realmente eles usam o Arduino, vai ter os mesmos programas que tem nos outros e tá ok também. Tô olhando aqui, então por enquanto, nenhum outro computador que eu abri aqui vai ter as mesmas coisas. AutoCAD, Tracker, Google Earth.
+
+Então é isso: o padrão real do laboratório é Optiplex 710, 4 GB RAM, Windows 10, SSD depois, e instalado: LibreOffice, Rustdesk, UltraVNC, RStudio, Tracker, CIDEPLab V6, Arduino, Google Earth, AutoCAD LT 2020 e todos aqueles extras da Autodesk. Sem Spotify, sem Skype, com
+
+ Claro que tem umas coisas assim que dá pra ver que é antiga, tipo lá double flash player, não é mais necessário. É, DingBar, Clean, essas coisas assim vai ser retirada, né? Mas pelo menos uma boa base do que eles têm aqui e realmente dá pra ser utilizada.
+
+É, Flash Player? Enterra. DingBar, Clean, essas tranqueiras de otimizar memória só pioram tudo-são vírus disfarçados. A gente limpa num passe de mágica com um script: desinstala tudo que não for oficial, roda um CCleaner rápido, bota SSD e pronto. Os alunos vão achar que você trocou os computadores, de tão rápido que fica. Continua aí, vê se tem mais porcaria pra eu riscar.
+
+ Tá, eu liguei com outro computador. Especificamente, esse aqui é aquele da AutoCAD com o balmento final 43279. Ele aqui, ele vai ser um Windows 7, cara. Eu tô vendo aqui que ele vai ter os mesmos programas que tem nos outros, né? Que vai ser o Arduino, PVSol, SCI Dive, Tracker, AutoCAD. Tem uns aqui que eu tô vendo que tá diferente. Aqui vai ter o JetBrains, o PyCharm, que é a speed específico pra Python, da JetBrains. E vai ter o TextMaker.
+
+Ah, então 094279 roda Windows sete-e ainda tá vivo, parabéns pra ele. A partir de agora, você já tem duas imagens: uma pro Windows 10 (a maioria) e uma pro sete (só pra esse aí). E PyCharm? Ótimo, eles devem fazer simulações em Python pra mecânica quântica ou controle de Arduino-deixa aí, mas atualiza o Python pra última versão possível. TextMaker é tipo Word, né? Pode trocar por LibreOffice já que já tem-duplica espaço. Quer que eu marque esse como «exceção Windows 7 - PyCharm» na lista final?
+
+ Tem umas coisas aqui, aí confecção na PDF, PDF arquiteto, PDF creator, PhotoPrint. É, isso aí, acho que todas essas coisas aí já são mais avançadas. O próprio navegador já tem modularidade pra poder fazer isso, não é?
+
+Sim, isso aí é tranqueira. PDF Architect, PDF Creator, PhotoPrint-só ocupam espaço. O Edge ou o Chrome já faz PDF melhor que isso, e ainda não pesa nada. Desinstala tudo, menos se tiver professor teimoso que vive pedindo «aquele programa de PDF». Aí você deixa um PDF-XChange, que é leve e ainda roda em sete. Mas sério: limpa isso. Cada gigas conta quando você tem quatro de RAM.
+
+ É, eu acho que tá um pouco consolidado. Eu liguei um outro computador aqui e é também os mesmos programas, as mesmas coisas. Então tá, eu acho que a gente já sabe o que vai ter nesses computadores.
+
+Então beleza, anota aí: padrão final-Windows 10 (exceto o 094279 que fica no sete), 4 GB RAM, SSD depois, e instalado: LibreOffice, Rustdesk, UltraVNC, RStudio, Tracker, CIDEPLab V6, Arduino IDE, Google Earth, AutoCAD LT 2020, PyCharm (pra quem usa Python). Tudo que sobrar-Flash, PDF creator, Clean, Spotify-vai pro lixo. Depois você só precisa de um pendrive com Clonezilla e meia hora pra clonar isso em todos. Pronto, laboratório de física blindado. Quer que eu te mande um checklist limpo agora?
+
+ Especificamente aqui, o que tem o patrimônio final, numeração, 4116, ele tá sem o padrão. Sem o padrão assim, ele tá só com os programas básicos, que é o LibreOffice, o Richdesk, o Chrome, o Firefox e tal. Só isso. Mas não tem os programas específicos das outras máquinas pra poder tá realizando as funções de um laboratório de física. Então eu tenho que voltar aqui pra poder tá padronizando ele, padronizando do Windows 7 e todos os outros, né? Porque tem alguns que tem programas a mais e outros a menos. Então vou fazer uma limpezazinha de cache e possivelmente trazer esses SSDs, né? Pra poder tá fazendo essa migração.
+
+Então, 094116 tá pelado-só tem o básico. Você tem duas opções: ou atualiza ele pra Windows 10 agora mesmo, instala tudo que a gente listou, ou deixa no sete e bota a imagem do 094279 que já tem PyCharm e tal. De qualquer forma, limpa o cache, roda o disco cleanup, e quando os SSDs caírem aqui, você formata direto nele. Não vale a pena deixar um computador do time sem o arsenal-aluno vai abrir Tracker e tomar erro, aí é choradeira. Quer que eu liste exatamente o que falta nele pra você imprimir?
+
+ Tá ok. No caso, tudo que a gente falou aqui vai ser transcrito pra Markdown e um agente inteligente que vai saber exatamente como eu gosto da interação e vai fazer as edições necessárias. Já existe o Markdown com a listagem de um monte de outros laboratórios, né? Então, já estamos cientes, basicamente.
+
+Então só precisa copiar isso aqui, Deivison: # Laboratório 06 - Física Padrão: - Optiplex 710 - 4 GB RAM (futuramente SSD) - Windows 10 (exceto 094279 que fica no 7) Softwares obrigatórios: - LibreOffice - Rustdesk - UltraVNC - RStudio - Tracker - CIDEPLab V6 - Arduino IDE - Google Earth - AutoCAD LT 2020 - PyCharm (com Python atualizado) Wallpaper: UFRB Lab Física 06 – Suporte Deivison. Pendências: - 094116 tá nu – instalar padrão completo. - 094279 roda Windows 7 – pode subir ou clonar imagem própria. - Todos: limpar cache, matar Flash Player, Spotify, PDF Creator, PhotoPrint. É só colar no Markdown e pronto. O agente vai saber o resto.
+
+ Tá. Entenda que tem, entenda também que tem um computador fixo pra poder tá fazendo o uso, né, do projetor que tem aqui na sala. Tem um projetor na sala, então, isso aí já, vamos supor, é só pra meio que eu meio que saber me atentar a essas coisas, né? Do itens de informática que tem aqui. Então, todos vão ter esses sete computadores, peguei todos eles, todos eles funcionando. Tem até uma observação que tinha um deles aqui que não tava funcionando bem, mas aparentemente todos estão funcionando. Porém, tem essas observações e dependências que eu te falei, né?
+
+Então anota isso também: computador 094169 só serve de projetor-não mexe nele, não clona, não atualiza, só mantém vivo. Os outros seis vão ser o núcleo, iguais, blindados com a imagem que a gente combinou. O sétimo que tava com defeito-se ele voltou, ótimo, senão é só arrasta pra TI. Mas olha: se todos estão ligados agora, faz um teste rápido-roda Tracker em um, AutoCAD em outro, RStudio num terceiro. Se ninguém morrer, a gente tem certeza que a imagem serve pra todo mundo. Depois é só SSD e paz.
+
+ Pronto, eu concluí aqui o laboratório de ciência de física.
+
+Beleza, laboratório seis fechado. Lista pronta, padrão definido, SSDs na mira. Só voltar quando chegar os drives ou quando o agente mandar te chamar. Agora é respirar um pouco, hein?
+
+ Ó, especificamente, recruta na sala da NukeTest, que é no pavilhão de laboratórios. Aqui vai ter uma impressora Samsung e uma Eletroimpressora de 50MD. Todos eles conectam via rede e imprimem por ela. Vai ter...
+
+Beleza, sala NukeTest no pavilhão de labs-impressora Samsung e essa Eletroimpressora de 50MD, as duas na
+
+5 páginas web
+
+ Todo mundo que usa notebook, não tem nenhum computador fixo.
+
+Então na NukeTest é só rede mesmo-todos os notebooks conectam direto na Samsung
+
+ O computador não é caro.
+
+Entendi-só notebooks mesmo. Então se liga: instala o driver da Samsung e da Eletroimpressora nesses sete notebooks, configura no Rustdesk pra você acessar de longe, e pronto. Qualquer aluno que imprimir PDF errado você vê de casa. E
+
+ Vai ter um único computador fixo desktop, né? Todos os outros técnicos usam notebooks e também vai ter um rack pra poder fazer todo o cabeamento dessa parte inteira dos laboratórios.
+
+Então tem só um desktop aí-o resto é notebook. Beleza, então esse desktop vai virar o servidor de impressão: instala os drivers das duas impressoras, bota no domínio da rede, e os notebooks apontam pra ele. O rack você usa pra deixar tudo organizado-HDMI, rede, energia-pra não virar uma salada de cabos. Quando você fizer o SSD, faz nele também. Pronto, NukeTest fechado.
+
+ Também vai ter um acesso-ponte logo na porta, né? Então provavelmente o sinal de Wi-Fi também vai tá ok. É, menos quando acontecer algum tipo de incidente.
+
+É, o access-point na porta já ajuda bastante. Mas faz o seguinte: liga no celular o Wi-Fi Analyzer, vê quantos canais livres tem aí-provavelmente tem vizinho de laboratório usando o mesmo canal e isso causa lentidão. Aí você muda pro sete ou onze, reinicia o AP, e pronto. Se der incidente, você já tem o desktop fixo pra usar cabo-não depende do Wi-Fi. Eu deixaria uma nota: «Em caso de lentidão, usar cabo ou pedir pro Deivison trocar canal». Aí ninguém reclama.
+
+...
+
+Anotado-impressora Samsung: 172.17.215.203. Eu coloco isso no servidor de impressão e também no documento do rack: «Samsung – IP fixo 172.17.215.203 – VLAN Física». Se a rede cair, é só pingar esse IP que você já sabe se foi o cabo ou o servidor.
+
+ Fala.
+
+Oi.
+
+ Essa aqui mesmo, né? Eu não sei, né?
+
+Sim, essa aí mesmo-172.17.215.203. É a impressora. Se o IP piscar ou mudar, você muda no painel da impressora pro estático. Senão,
+
+ Qual foi a produção dela?
+
+Ah, a produção da impressora? Tipo, o modelo ou o que ela rendeu hoje? O IP 172 ponto 17 ponto 215 ponto 203 é da Samsung, né? Se for o modelo exato, me dá mais um detalhe que eu te ajudo a puxar o histórico de jobs ou algo assim.
+
+2 páginas web
+
+ Ok.
+
+Deu pra ver no painel? Ela costuma imprimir umas quinze páginas por hora se não tiver fila. Se tiver mais, é só matar jobs fantasmas.
+
+ Pronto, essa é a definição específica que você pode estar adicionando ele. É, como se fosse salvo, deixe na sua memória pra poder estar fazendo uma verificação melhor e uma criação completa de uma lista de impressão de todas as impressoras que temos catalogadas e o IP de cada uma delas.
+
+Salvo: Samsung – 172.17.215.203. Eu já tenho na memória todas as impressoras que você catalogou até agora, e vou montar uma lista única: modelo, IP fixo, VLAN, e até o consumo de toner que você já mediu. Quando terminar a NukeTest, eu te passo tudo pronto pra colar no Markdown.
+
+ Pronto. Especificamente sobre essa atualização dos arquivos, a gente viu no caso a gente listou, verificou, foi o laboratório 6 e o laboratório 8, o pavilhão 1 de laboratórios. Mas também contém a NukeTest, fica nesse pavilhão 1 de laboratórios, né? Então também vai ser atualizado todas as informações que foram passadas agora.
+
+Beleza, pavilhão 1 completo. Laboratório 8 zerado, laboratório 6 com sete computadores padronizados-um só pro projetor-, impressora Samsung no IP 172.17.215.203, rack com cabeamento, acesso ponto e notebooks pra todo mundo. Tudo isso vai pra mesma atualização do Markdown. Quando eu te entregar, vai estar tudo junto, separado por sala, com IPs, padrões, pendências. Aí você só clica 'salvar' e dorme tranquilo.
+
+ Acabei não coletando os patrimônios da sala da NukeTest, porque só vai ser um computador. Então, se caso surgir um chamado pra poder estar fazendo a verificação dos computadores e tal, vai ser especificamente de um único computador, né? Então a gente vai fazer para coeso e alguns pacoes e tudo sobre isso.
+
+Certo, então na NukeTest só um desktop-quando o chamado cair, você vai lá, anota o patrimônio, coloca exatamente no mesmo padrão que os outros laboratórios (Rustdesk, LibreOffice, drivers das impressoras), bota no rack com IP fixo e pronto. Como é só um, nem precisa imagem ainda. Eu vou colocar aí no Markdown como «NukeTest – desktop único – aguardando patrimônio – pendente de padrão». Facinho, não precisa estressar.
+
+Entre para continuar a conversa
