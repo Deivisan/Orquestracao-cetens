@@ -93,8 +93,8 @@ Prédio central com **7 Coordenações de Cursos** + **Sala de Informática** + 
 #### 1️⃣ Sala de Apoio Especializado para Alunos com Deficiência
 - **Localização:** Ao lado do Prédio Multiuso
 - **Itens TI:** 🖥️ 2 PCs fixos + 2 notebooks (4 máquinas para 5 usuários) + 1 Impressora Samsung ML
-- **Status:** ✅ Verificado
-- **Urgência TI:** 🟢 Baixa
+- **Status:** ⏳ Verificação pendente
+- **Urgência TI:** 🟡 Média
 
 #### 2️⃣ Sala de Comunicação
 - **Localização:** Ao lado do Prédio Multiuso
@@ -215,13 +215,12 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 - **Status:** ✅ 16 PCs funcionais | ⏳ Padronização pendente
 - **Urgência TI:** 🟡 Média-Alta
 
-### 🏢 NukeTESP (Núcleo de Gestão Técnica e Suporte Pedagógico)
+### 🏢 NUGTESP (Núcleo de Gestão Técnica e Suporte Pedagógico)
 - **Localização:** Pavilhão de Laboratórios 1 (confirmado 04/11/2025)
 - **Equipamentos:**
   - 1 Desktop fixo (tombamento pendente)
   - Notebooks (equipe técnica)
   - 1 Impressora Samsung (IP: 172.17.215.203)
-  - 1 Eletroimpressora 50MD (rede)
   - 1 Rack (cabeamento backbone)
   - 1 Access Point TP-Link (porta)
 - **Infraestrutura:** Rede Wi-Fi + cabeada, impressão via rede
@@ -261,34 +260,56 @@ Pavilhão com **5 laboratórios especializados** (LAB 101 a LAB 105) + **Almoxar
 - **Urgência TI:** 🟢 Nenhuma
 
 #### 🔬 LAB 103 - Engenharia de Superfície
-- **Computadores:** 2 Dell (confirmados visualmente)
-- **Monitores:** Dell + Samsung
+- **Computadores:** 2 (1 Dell inoperante, 1 Positivo com SSD funcionando)
 - **Projetor:** Acer (2023122897)
-- **Status:** ⏳ Análise detalhada pendente + retombamento 2025
-- **Urgência TI:** 🟡 Média
+- **Software (Positivo funcionando):**
+  - **Desenvolvimento:** Apache NetBeans, DevC++, Falcon C++ 3.3, Visual Studio Code
+  - **CAD/Design:** AutoDesk Fusion, AutoLaser, FreeCAD, LibreCAD
+  - **Database:** PostgreSQL
+  - **Análise:** Python 3.11, R Studio for Windows
+  - **Outros:** FitxT, drivers industriais, UltraVNC, pacote Microsoft Office
+- **Pendências (04/11/2025):**
+  - Dell: Recolher para TI (possível fonte ou placa-mãe), trocar gabinete mantendo HD intacto
+  - Positivo: Coletar tombamento, verificar se precisa padronização adicional
+- **Status:** ✅ 1 funcional | 🔴 1 para reparo urgente
+- **Urgência TI:** 🔴 Alta (Dell crítico)
 
 #### 🧪 LAB Agroecologia/Ciências do Solo
-- **Computadores:** 2 unidades
-- **Impressora:** HP Deskjet (tinta - **INCOMPATÍVEL com estoque TI**)
+- **Computadores:** 2 Dell (ambos com SSD, funcionando)
+- **Tombamentos:** UFRB100546, UFRB100565
+- **Impressora:** HP Smart Tank 581 (multifuncional tinta - **INCOMPATÍVEL com estoque TI**)
+- **Software Específico:**
+  - **Geolocalização:** Google Earth Pro, GPS TrackMaker, GPSU 5.51 (GPS Utility)
+  - **Padrão:** Pacote Microsoft Office, navegadores
 - **Equipamentos:** Estufas, balanças analíticas, peneiras, amostras de solo
-- **Status:** 🟡 **PENDÊNCIA MÉDIA** - Verificar origem HP, se garantia ativa → trocar por modelo toner (Samsung/HP Laser)
+- **Observação:** Uso massivo de programas GPS para mapeamento de campo e coleta de amostras
+- **Sugestão Open Source:** Viking, QGIS, LandPKS, Traccar (alternativas livres para GPS)
+- **Pendência:** Verificar origem HP Smart Tank 581, se garantia ativa → avaliar troca por toner laser
+- **Status:** ✅ 2 funcionais | 🟡 Impressora incompatível estoque
 - **Urgência TI:** 🟡 Média
 
 #### 🎮 LAB 104 - Espaço Colaborar
 - **Computadores:** 7 Chipnet (UFRB65743, UFRB65758, UFRB65766, UFRB65761, UFRB65732, UFRB65739, UFRB65736)
-- **Monitores:** 3 Daten, 3 LG, 1 AOC (todos sem tombo)
 - **PlayStation 4:** Console para gamificação
-- **Webcam:** 67773
-- **Software:** ⏳ Pendente verificação (não acessado sistema ainda)
-- **Status:** ⏳ Verificar PCs funcionais, PlayStation funcional
+- **Status:** ⏳ Verificação pendente
 - **Urgência TI:** 🟢 Baixa
 
 #### 📊 LAB 105 - LIMM (Laboratório de Instrumentação Mecatrônica e Metrologia)
-- **Computadores:** 7 gabinetes (Dell, Positivo, LG, APC - alguns sem tombo)
-- **Monitores:** 5 Dell + 2 Samsung + 1 CCE (alguns sem tombo)
+- **Computadores:** 6 total (4 Ubuntu alunos + 2 adicionais)
+- **Tombamentos Alunos Ubuntu:** UFRB094118, UFRB094187, UFRB094182, UFRB094123
+- **Tombamentos Adicionais:** UFRB100465, UFRB100551
+- **Sistema Operacional:** Ubuntu 20.04 LTS (todos os 6)
 - **Projetor:** BenQ (110485)
-- **Software:** Python, MATLAB, LabVIEW, Arduino IDE, Linux Ubuntu
-- **Status:** 🔴 **PENDÊNCIA CRÍTICA** - Atualizar Ubuntu 20.04 → 24.04 LTS (versão 20 depreciada)
+- **Software Instalado:** Arduino IDE, Visual Studio Code
+- **Projeto Especial:** Carapreta (TV Boxes apreendidas convertidas em minicomputadores educacionais - CETENS/UFRB)
+- **Observações Técnicas:**
+  - Monitor da 4ª bancada: compatível VGA ou Serial (cabo pendente verificação)
+- **Sugestões Software Adicional:** Proteus, Tinkercad, Gazebo, OpenSCAD, Cura/PrusaSlicer (mecatrônica)
+- **Pendências (04/11/2025):**
+  - 🔴 **CRÍTICO:** Atualizar Ubuntu 20.04 → 24.04 LTS (versão 20 depreciada)
+  - Verificar necessidades software com professor (Arduino web, utilitários TI)
+  - Avaliar cabo monitor 4ª bancada
+- **Status:** ✅ 6 funcionais Ubuntu 20.04 | 🔴 Atualização LTS urgente
 - **Urgência TI:** 🔴 Muito Alta
 
 ### 🧪 Almoxarifado de Reagentes
@@ -301,31 +322,19 @@ Pavilhão com **5 laboratórios especializados** (LAB 101 a LAB 105) + **Almoxar
 ## 🎓 Pavilhão de Aulas 1
 
 ### Descrição Geral
-Pavilhão com **4 salas de aula** (101 a 104) + **Laboratórios temáticos** + **Access point TP-Link** próximo à Sala 102.
+Pavilhão com **4 salas de aula** (101 a 104). Uso predominante: aulas teóricas.
 
 ### 🔌 Infraestrutura de Rede
 - **Access Point TP-Link:** Próximo à Sala 102 (cobre todo o pavilhão)
 
-### 📍 Laboratórios/Salas
+### 📊 Tabela de Salas
 
-#### 🔧 LAB 101 - Maker
-- **Status:** ✅ Catalogado (ver Pavilhão Labs 2)
-
-#### ⚙️ LAB 102 - Maquinação
-- **Status:** ✅ Zero TI confirmado
-
-#### 🔬 LAB 103 - LESC (Engenharia de Superfície)
-- **Status:** 🔒 Fechado - Visita presencial pendente
-
-#### 🎮 LAB 104 - Espaço Colaborar
-- **Status:** 🔒 Fechado - Visita presencial pendente
-
-#### 🧪 Lab Amostras e Fadiga de Reagentes
-- **Itens TI:** ❌ Nenhum
-- **Status:** ✅ Zero TI
-
-#### 🌱 Lab Agroecologia e Ciências do Solo
-- **Status:** 🔒 Fechado - Visita presencial pendente
+| **Sala** | **Equipamento TI** | **Status** |
+|----------|-------------------|------------|
+| **101** | ⏳ Verificação pendente | ⏳ Testar projetor/equipamentos |
+| **102** | ⏳ Verificação pendente | ⏳ Testar projetor/equipamentos |
+| **103** | ⏳ Verificação pendente | ⏳ Testar projetor/equipamentos |
+| **104** | ⏳ Verificação pendente | ⏳ Testar projetor/equipamentos |
 
 ---
 
@@ -358,20 +367,54 @@ Pavilhão com **12 salas numeradas** (201 a 212) + **Infraestrutura de rede** (T
 ### 🔬 Laboratórios Especializados (Pavilhão Aulas 2)
 
 #### 🔋 LAB 201 - LEM (Laboratório de Energias)
-- **Status:** ⏳ Visita pendente (infos 2024 zeradas)
+- **Computadores:** 2
+  - **Positivo:** Doado Receita Federal (pré-configurado, gerenciamento limitado)
+  - **Dell Optiplex 3000:** Intel Core i5 + monitor (conjunto)
+- **Equipamento Crítico:** LC2060C 3D (conectado ao Dell - **OPERAÇÃO ININTERRUPTA**)
+- **Equipamentos Adicionais:** Diversas amostras, dispositivos eletrônicos, experimentos energéticos
+- **RESTRIÇÕES CRÍTICAS (04/11/2025):**
+  - 🔴 **Experimentos rodando 1-2 meses contínuos** - Qualquer interrupção = perda total
+  - 🔴 **ZERO autonomia TI** - Não ligar, desligar, reiniciar ou modificar sem autorização expressa
+  - 🔴 **Manutenção SOMENTE com aval do responsável do laboratório**
+- **Observação:** Sem reclamações recorrentes = sistema estável, não mexer sem necessidade
+- **Status:** ✅ Catalogado | 🔴 **ATIVO CRÍTICO** - Intervenção controlada
+- **Urgência TI:** 🟡 Média (monitoramento passivo)
 
 #### 📐 LAB 202 - Laboratório de Ensino da Matemática e Ciências
-- **Status:** ⏳ Visita pendente (infos 2024 zeradas)
+- **Computadores:** 2 (ambos inoperantes)
+- **Projetor:** Acer (guardado no armário - sem estrutura para instalação)
+- **Decoração:** Barro, grãos, cobras empalhadas (contexto educacional criativo)
+- **Pendências CRÍTICAS (04/11/2025):**
+  - **PC 1:** Cabos de força incompatíveis (estabilizador americano 3 pinos, cabos europeus) - trocar 2 cabos
+  - **PC 2:** Trava na tela de logon (corrupção de usuário) - formatar sistema completo
+  - **Projetor Acer:** Sem estrutura, avaliar realocação para outro lab (103, 105 ou sala aulas)
+- **Itens Recolhidos:** Cabo verde, 2 cabos verde-A, caixinha de som (guardados)
+- **Status:** 🔴 **CRÍTICO** - 2 PCs completamente parados, laboratório inoperante
+- **Urgência TI:** 🔴 Muito Alta (resolver até sexta-feira)
 
 #### 🧪 LAB 203 - LACAM (Laboratório de Caracterização de Materiais)
-- **Status:** ⏳ Visita pendente (infos 2024 zeradas)
+- **Itens TI:** 1 TV com cabo VGA (monitor externo)
+- **Uso:** Transmissão de dados via notebook externo (alunos conectam)
+- **Equipamentos:** Balanças de precisão (não gerenciadas por TI)
+- **Status:** ✅ OK - Apenas monitor externo, sem computadores fixos
+- **Urgência TI:** 🟢 Nenhuma
 
 #### ⚡ LAB 204 - Laboratório de Elétrica e Eletrônica
-- **Status:** ⏳ Visita pendente (infos 2024 zeradas)
+- **Computadores:** 1
+- **Problema Crítico:** Lado esquerdo inteiro - todas as tomadas não funcionam (circuito desligado/queimado)
+- **Pendências (04/11/2025):**
+  - Formatar PC
+  - Verificar se PC vira máquina de rede
+  - Acionar manutenção elétrica para religar tomadas lado esquerdo
+- **Observação:** Bancada abandonada por falta de energia
+- **Status:** ⏳ Catalogação parcial | 🔴 Problema elétrico crítico
+- **Urgência TI:** 🟡 Média-Alta
 
 #### 🍽️ Laboratório de Processamento de Alimentos
 - **Localização:** Prédio separado, próximo ao Prédio Multiuso
-- **Status:** ⏳ Visita pendente (infos 2024 zeradas)
+- **Itens TI:** ❌ Nenhum (confirmado visita 04/11/2025)
+- **Status:** ✅ Zero TI confirmado (laboratório experimental puro)
+- **Urgência TI:** 🟢 Nenhuma
 
 ---
 
@@ -382,7 +425,7 @@ Pavilhão exclusivo para gabinetes de professores. **8 gabinetes numerados** (Ga
 
 ### 💼 Gabinetes 1 a 8
 - **Distribuição:** Cada gabinete = ~8 professores
-- **Itens TI:** Desktop individual ou notebook pessoal + impressora coletiva HP
+- **Itens TI:** Desktop individual ou notebook pessoal
 - **Access Points:** Gabinete 4 (1 AP próximo), Gabinete 6 (1 AP lateral), Gabinete 9 (corredor)
 - **Status:** ⏳ Verificar cada gabinete individualmente (pendente visita)
 - **Urgência TI:** 🟡 Média
@@ -412,9 +455,9 @@ Prédio concentra **Lab Informática 1** + **Gabinete Coletivo** + **Empresa Jú
 - **Quantidade:** 20 computadores **Dell Optiplex 7010** (Core i5/i7 3ª geração)
 - **Tombamentos:** UFRB094110-094191 (20 unidades catalogadas)
 - **Sistema:** Dual-boot **Windows 10 + Ubuntu 20.04** ⚠️ **PENDÊNCIA: Atualizar → Ubuntu 24.04 LTS**
-- **Servidor:** **FOG Project inoperante** (não configurado - criar imagem padrão URGENTE)
+- **Servidor FOG:** Operacional (sala TI) - **Pendência: Criar imagem padrão de 1 PC para replicação**
 - **Infraestrutura:** Projetor BenQ 110484, 2 switches (102344, 102340), Nobreak 099399, Ar-condicionado 117790
-- **Status:** 🔴 **PENDÊNCIA CRÍTICA** - Servidor FOG não operacional
+- **Status:** 🔴 **PENDÊNCIA CRÍTICA** - Criar imagem FOG padrão + atualizar Ubuntu 20.04 → 24.04
 - **Urgência TI:** 🔴 Muito Alta
 
 ### 👥 Gabinete Coletivo (Servidores Públicos)
@@ -500,12 +543,19 @@ Centro de comando administrativo: **Sala Técnica de TI** + **4 salas de direç�
 
 ### 📚 Setor Acadêmico
 - **Função:** Matrícula, histórico escolar, documentação estudantil
-- **Status:** ⏳ Visita pendente
-- **Urgência TI:** 🔴 Alta (impressora central crítica)
+- **Computadores:** 1 desktop (UFRB085543)
+- **Notebooks:** 1 (uso técnicos/administrativo)
+- **Impressora:** Samsung ML 3750 (093238) - **Conectada via rede**
+- **Access Point:** 1 TP-Link (cobertura Wi-Fi setor)
+- **Uso Principal:** Notebooks (chamados TI para manutenção recorrentes)
+- **Status:** ✅ Catalogado completo (04/11/2025)
+- **Urgência TI:** 🟡 Média (impressora central crítica)
 
 ### 🎓 Salas de Pós-Graduação 1 e 2
-- **Status:** ⏳ Verificação mensal (provavelmente só projetores)
-- **Urgência TI:** 🟢 Baixa
+- **Computadores:** ❌ Nenhum (confirmado reverificação 04/11/2025)
+- **Projetores:** 1 por sala (2 total)
+- **Status:** ✅ Zero TI para manutenção (apenas projetores)
+- **Urgência TI:** 🟢 Nenhuma
 
 ### 🚪 Portaria
 - **Itens TI:** 1 computador + 1 Access Point + sistema monitoramento câmeras
@@ -523,12 +573,13 @@ Centro de comando administrativo: **Sala Técnica de TI** + **4 salas de direç�
 
 ### 🔴 Urgência MÁXIMA (Resolver Imediatamente)
 
-1. **Sala 205 (Pavilhão Aulas 2)** - Sem projetor → Instalar URGENTE
-2. **LAB 07 (Pavilhão Labs 1)** - Servidor FOG criar imagem padrão
-3. **Lab Inf 1 (Prédio Adm)** - Servidor FOG inoperante + Ubuntu 20.04 → 24.04
-4. **LAB 105 (Pavilhão Labs 2)** - Ubuntu 20.04 → 24.04 LTS (depreciado)
-5. **Sala Técnica TI (Diretoria)** - Monitoramento temperatura 24/7
-6. **Setor Acadêmico** - Impressora central crítica verificação
+1. **LAB 202 (Pavilhão Aulas 2)** - 2 PCs parados (1 cabo errado, 1 corrupção) - Laboratório inoperante
+2. **LAB 103 (Pavilhão Labs 2)** - Dell recolher para reparo (fonte/placa-mãe)
+3. **Sala 205 (Pavilhão Aulas 2)** - Sem projetor → Instalar URGENTE
+4. **LAB 07 (Pavilhão Labs 1)** - Servidor FOG criar imagem padrão
+5. **Lab Inf 1 (Prédio Adm)** - Criar imagem FOG padrão + Ubuntu 20.04 → 24.04
+6. **LAB 105 (Pavilhão Labs 2)** - Ubuntu 20.04 → 24.04 LTS (6 PCs depreciados)
+7. **Sala Técnica TI (Diretoria)** - Monitoramento temperatura 24/7
 
 ### 🟡 Urgência ALTA (Resolver em 5-10 dias)
 
@@ -544,7 +595,10 @@ Centro de comando administrativo: **Sala Técnica de TI** + **4 salas de direç�
 13. **LAB 09 (Pavilhão Labs 1)** - 2 sem gabinete, Win7 atualizar, monitores trocar
 14. **Gabinete Coletivo (Prédio Adm)** - Segunda impressora solicitada
 15. **Pavilhão Gabinetes** - Catalogar 8 gabinetes + PROPPAE
-16. **Visitas Pendentes:** Labs 103/104/Agroecologia (Pav Aulas 1), Labs 201-204 (Pav Aulas 2), Processamento Alimentos, Almoxarifado Administrativo (Pav Labs 1)
+16. **Visitas Pendentes:** Salas Aulas 1 (101-104), Almoxarifado Administrativo (Pav Labs 1)
+17. **LAB 104 (Pavilhão Labs 2)** - Verificação completa pendente
+18. **LAB 204 (Pavilhão Aulas 2)** - Problema elétrico crítico (tomadas lado esquerdo)
+19. **LAB 201 (Pavilhão Aulas 2)** - Ativo crítico: Manutenção SOMENTE com aval responsável
 
 ---
 

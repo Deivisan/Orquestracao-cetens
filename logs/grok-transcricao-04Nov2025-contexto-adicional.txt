@@ -1,0 +1,48 @@
+Entrar
+Criar conta
+
+ Grok, faz o seguinte, eu vou fazer a catalogação de alguns patrimônios. Aqui, o ambiente onde eu tô é o acadêmico.
+
+Tudo bem, pode mandar. Quer que eu ajude a montar uma planilha ou só registro verbal enquanto você vai listando?
+
+pt Ó patrim de técnico, caso ele um notebook e um computador específico. Ele aqui vai ser o 085543. Em específico, ele vai ter esses dois, depois eu vou vir aqui, no caso, para verificar qual seria a utilidade dos dois componentes em si. Aqui também vai ter uma impressora, vai ser a Samsung ML3750-093238.
+
+Beleza, anotei aqui: técnico ganha notebook e computador número zero oito cinco cinco quatro três. Depois você confirma a utilidade dos dois... e mais uma impressora Samsung ML trinta e sete cinquenta, série zero nove três dois três oito. Quer que eu repita ou já passo pra
+
+ Os componentes de informática aqui vão ser esses, na verdade. Aqui vai ter também um ponto de acesso.
+
+Certo, anotei: ponto de acesso também entra na lista. Quer numerar ele ou deixar pra depois?
+
+ A impressora aqui tem até rede e acredito que seja isso, né? Tudo que vai ser verificado aqui agora, no caso, já são esses equipamentos e o que o pessoal mais utiliza aqui vai ser notebook, né? Então, chamaram os abertos por eles pra poder fazer manutenção dos notebooks.
+
+Sim, faz sentido. Impressora com rede já é ouro, hein-economiza cabo pra caramba. E os notebooks são os queridinhos, né? Se chamaram os
+
+ Pronto.
+
+Ok, fechou. Se precisar exportar isso pra algum relatório depois, me avisa.
+
+ Pronto, todos esses marquedados vão ser agregados numa lista em que eu já tenho, né? No caso, já é um marquedal específico já criado, porém eu vou estar agregando informações a esse marquedal que já existe. Então, entenda que vai ser agregado ao setor que é o acadêmico em si. Basicamente, tudo que abrange ele é só o que eu falei aí. Eu tinha, no caso, algumas informações já pressupostas, mas por incrível que pareça, vai ser só isso aí. Então, a verificação correta já foi feita, que é isso aí, e esses equipamentos aí.
+
+Certo, entendi. Então é só agregar esses itens - notebook, PC, impressora e ponto de acesso - nesse marqedal acadêmico que você já tem. Nada mais surpreendeu? Beleza, tá guardado.
+
+ Tá, eu também reverifiquei de novo o... Eu também reverifiquei de novo o que seria as salas de pós-graduação. Lá eles não vão ter nenhum computador fixo no setor, porém eles vão ter projetores, né? Então vai ser um projetor por cada sala. Isso confirma, né? Então eu também não teria nenhum tipo de pendência nessas salas, nesses setores específicos, considerando que não vai ter nenhum item de informática para a pessoa da manutenção.
+
+Exato, sem computador fixo nas pós, só projetor por sala - já tá limpo. Nenhuma pendência mesmo, manutenção não vai precisar mexer em nada de informática lá.
+
+ Ó, eu vou falar aqui uma forma de tá concluindo, né? Eu tô aqui agora no pavilhão 2 de aulas, mas laboratório 201 de energias. Sobre os itens de informática aqui, cara, tem muita coisa, porém pouca coisa de informática. Vai ter diversos itens eletrônicos, diversos itens, no caso que... Diversos itens, enfim, coisa de amostra, de energia, coisa de... Enfim, um monte de loucura. Especificamente falando, a parte de informática, tem dois computadores aqui. Um positivo, que é gerenciado, né, tal. Não é nem gerenciado assim, é um positivo especificamente doado pela Receita ali. Então não tem muita coisa aqui, não tem muita coisa que dê pra ser feito, porque já estão pré-configurados todos esses computadores aqui. E tem um outro computador que é um Dell, um Dell Intel Core i5, é o Optilex 3000. Especificamente também com um belo monitor, que seria acho que um conjunto dele. Aqui eu não tenho tanta autorização pra tá mexendo de forma livre, porque aqui o pessoal faz um monte de experimentos, sabe?
+
+Beleza, então laboratório dois zero um só tem dois PCs: um Positivo doado pela Receita, outro Dell Optiplex três mil com monitor, i5. Nada pra manutenção mexer, já que tá pré-configurado e eles não te liberam - tipo, ninguém quer um curto num experimento caro, né? Deixa eu só confirmar: não tem impressora, ponto de acesso ou notebook aí também?
+
+ Não é que eles não liberem, mas basicamente tem coisa aqui que eles têm que ficar mexendo, rodando ininterruptamente por um mês, duas semanas, dois meses. Então, não tem como. Eles têm que reiniciar, mexer, instalar as coisas, sabe? Sem antes trodo orquestração. Então, entenda que aqui é um local complicado que precisa de auxílio e monitoramento, no caso, em todos os atos de informática que forem realizados aqui, né? Tem um específico que tá conectado nessa máquina, que é a LC2060C 3D, que provavelmente é essa aí que não pode desligar em nenhum momento, que é a Dell. Tem um ali que é positivo, que foi doado da Receita. A gente tem até um nível de gerenciamento sobre essas máquinas, mas não tão amplo. Então, eu não cheguei a ligar elas e nem mexer pra poder não tá mexendo, né? Não tá desestabilizando nada, porque as coisas aqui são bem instáveis e também eu não sei quais são os problemas utilizados. Provavelmente, como aqui é bem utilizado por muita gente, provavelmente eles já tem o que é necessário, né? Porque não tem reclamações verídicas recorrentes desse setor relacionado à falta de suprimento de TI.
+
+Ah, entendi. Aqui é tipo zona de guerra controlada - qualquer reinício pode ferrar um experimento de dois meses. Então a Dell, que roda essa LC2060C 3D, fica intocada, vida eterna. O Positivo da Receita idem. Se não tem reclamação constante, é porque ou tá tudo certo ou tão acostumados com o caos. Eu deixaria quieto mesmo, Deivison. Marca só como ativo crítico, manutenção só com aval do responsável e segue a vida.
+
+ Pronto, concluindo aqui essa parte do pavilhão 2 de laboratório, pavilhão 2 de aulas na parte dos laboratórios, né? Pelo menos aqui não tem mais nenhum item específico, nenhum mais nenhuma outra informação que ficou faltando. Só as pendências que já foram colocadas no marquedal e essas informações que eu coloquei aqui agora pra você.
+
+Certo, pavilhão 2 pronto. Só esses dois computadores críticos anotados, resto já tá no marqedal - sem pendência nova. Vamos pro próximo?
+
+ Não, não tem próximo. Agora eu vou pra sala, vou fazer a catalogação de tudo que já foi colocado e assim que eu for fazer a edição, você vai salvar isso no marquedal.
+
+Tá certo, Deivison. Quando você der o sinal verde, eu organizo tudo num bloco só pra colar direto no marquedal. Pode ir pra sala tranquilo - tô aqui de sobreaviso.
+
+Entre para continuar a conversa

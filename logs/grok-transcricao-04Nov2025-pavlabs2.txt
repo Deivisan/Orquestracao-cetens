@@ -1,0 +1,276 @@
+Entrar
+Criar conta
+
+ E aí, Hector, tudo bem? Vamos lá. Vamos fazer mais uma catálogação aqui. Atualmente eu tô no laboratório 103 da engenharia de superfície. Só pra me dar um contexto rápido, aqui é o FRB 70 e eu sou o técnico de ITI, né? Eu tô aqui nesse laboratório específico, já cataloguei vários, esse aqui em específico eu tô vendo aqui a questão dos computadores, né?
+
+Beleza, Deivison. Pode mandar os dados, que eu anoto tudo. Só me diz: são quatro máquinas ou mais? E se tiver IP fixo, já anotou o range?
+
+ É, eu não preciso dessas informações aí não. Mas, por exemplo, aqui pra eu me situar, não vai ter nenhuma impressora pra poder tá, é, dando essa atenção à parte. Vai ter um projetor da Acer, então caso os alunos solicitem monitoramento e tal, vai ter esse produto aqui. E vai ter também dois computadores. Atualmente um computador tá sem funcionar, que é um Dell, e tem outro aqui da Positivo que tá em funcionamento, tem até SSD.
+
+Certo, entendi. Projetor Acer, dois PCs: Dell quebrado e Positivo com SSD rodando liso. Quer que eu registre assim mesmo ou tem mais coisa nesse 103?
+
+ Tem mais coisa. Eu quero que registre os programas instalados aqui pra eu poder ter uma base, ter uma noção, né, do que é que tem nesses computadores aqui pra poder, né, tá verificando, tá padronizando, tá deixando do jeito que tem que ser. Especificamente esse aqui que liga, ele tem o Apache NetBeans, tem o AutoDesk Fusion, AutoLaser, ele vai ter aqui vários programas da Microsoft, vai ter o DevC++, vai ter o Falcon C++ 3.3, essa versão específica. Vai ter o FitxT, vai ter o FreeCAD, vai ter também o LibreCAD, vai ter também outros programas aqui, como o, como coisas de visual studios code, vai ter pacote de drivers de, provavelmente dos produtos industriais que eles utilizam aqui nesse laboratório específico. Vai ter o Portugal Studio, eles usam o PostgreSQL e a versão do Python que tá instalada aqui vai ser 3.11. Vai ter o R Studio, né, o R pra Windows e vai ter o UltraVC também.
+
+Tá anotado: Apache NetBeans, AutoDesk Fusion, AutoLaser, pacote Office completo, DevC++, Falcon C++ três ponto três, FitxT, FreeCAD, LibreCAD, Visual Studio Code, drivers industriais, PostgreSQL-acho que você disse Portugal Studio, mas quis PostgreSQL, né?-, Python três ponto onze, R Studio pra Windows e UltraVC. Quer que eu separe isso em lista limpa depois, ou vai ditando o próximo laboratório direto?
+
+ Pronto, é isso. Me lembre também, né, no caso eu vou ter que recolher o computador que tá aqui pra poder fazer uma substituição por outro. Eu notei aqui que possa ser ou um problema na fonte ou na parte da placa-mãe. Então, mas como o HD tá intacto, eu só vou fazer uma substituição por um outro gabinete e funcionamento e só colocar o HD pra fazer essa substituição rápida pro setor voltar ao funcionamento normal, todos os periféricos informáticos.
+
+Beleza, anotado: Dell pra recolher-possível fonte ou placa-mãe zoada, mas HD tá bom. Vai trocar o gabinete, botar o HD lá e devolve pro lab rodar. Quer que eu marque como prioridade ou só arquiva assim?
+
+ Não, por enquanto é isso aí. Nesse laboratório em específico. Tem outros laboratórios aqui e até tem, mas por enquanto é isso.
+
+Entendi. Fechou o 103 então. Quando você for pro próximo, só avisa qual é-eu limpo a mente e começo de novo.
+
+ No.
+
+Tudo bem, a gente continua quando você quiser.
+
+ Tá tudo bem. Agora eu tô no laboratório de agrologia e ciências do solo. Ah, por enquanto aqui só vai ter dois computadores e não vai ter nenhum projetor. Pessoal aqui não projeta. Olha, eu vou fazer uma observação. Aqui é uma sala mais bonitinha que eu já fui. Bonitinha assim, eu sei que é contextualizada, que é um monte de rocha, um monte de loucura aqui, que eu não entendo o que é. Mas bem contextualizada, legal. Gostei. Mas especificamente a minha área aqui, que são esses dois computadores, eu liguei aqui os dois e estão incluindo funcionamento.
+
+Beleza, laboratório de agrologia e ciências do solo: dois PCs, nenhum projetor. Sala bonita, cheia de rocha e coisa louca-entendi, contexto top! Ambos os computadores ligando direitinho. Quer me passar os programas instalados neles ou só registrar que tá tudo on-line por enquanto?
+
+ Bom, esse primeiro que eu tô mexendo aqui, especificamente, ele vai ter, é... Esse primeiro que eu tô mexendo, especificamente aqui, ele vai ter SSD. Então tá de boa.
+
+Ok, SSD no primeiro-tá suave. E o segundo? Mesma coisa ou tem algo diferente?
+
+ Tá, tô mexendo nesse primeiro ainda. Calma, cara.
+
+Beleza, sem pressa. Tô só aqui esperando, anotando.
+
+ Diz uma coisa, tem um aqui que o usuário dele está sem senha, mas eu preciso setar. Então eu tenho que criar uma senha padrão que o cliente já usa, mas tô dando erro de complexidade de senha, que tá muito simples. Eu quero, na verdade, desativar essa porra de complexidade de senha, como eu faço? Me dá uns ideias.
+
+Ah, essa merda da complexidade de senha no Windows, né? Vai no secpol.msc-busca por política de segurança local no menu Iniciar. Aí, em Políticas de Conta > Política de Senha, clica em As senhas devem atender aos requisitos de complexidade e bota pra Desabilitado. Fecha, loga fora ou reinicia, e tenta setar a senha simples de novo. Se não rolar, me avisa que a gente pensa em gpedit ou registry.
+
+5 páginas web
+
+ Eu vou falar sobre os programas. Tem vários aqui instalados, mas especificamente, né, o que vai ter aqui de diferenciação vai ter, vai ser o Google Earth Pro, vai ser o GPS TrackMaker, GPSU versão 5.51, não sei exatamente o que é que esse GPSU, dá uma olhada na internet.
+
+Ah, GPSU versão cinco ponto cinco um é o GPS Utility, um programa pra mexer com dados de GPS-waypoints, rotas, tracks, mapas, essa parada toda. Bem útil pra geologia ou agronomia aí. Anotado junto com o Google Earth Pro e o GPS TrackMaker. Tem mais programas nesse primeiro PC ou passo pro segundo?
+
+5 páginas web
+
+ Não sei porquê, mas aqui especificamente nesse setor que é sobre solo, essas coisas, eles nos outros computadores tem muitos programas de GPS, né? Então provavelmente eles usam isso de uma forma massiva pra poder tá... Não sei, eu não sei o que é que eles fazem, mas provavelmente tá vendo onde é que eles estão cavar pra pegar essas pedras aleatórias.
+
+Então é isso, cara: Google Earth Pro, GPS TrackMaker e o GPSU são pra mapear campo, coletar dados, tipo localização exata de buracos, tipo de solo, tudo. Faz sentido pra ciência do solo-provavelmente marcam onde vão cavar, sim, antes de mandar a pá. Se os outros PCs também tiverem isso, deve ser padrão. Quer registrar esses três como GPS pack pra eu não ficar repetindo?
+
+ É, não sei. Então, esses programas aí, eu registrei aqui todos os programas da Microsoft e tá de boa. Aqui também vai ter uma impressora que vai ser a HP Smart Tank 581. Então, salva isso aí também na sua memória.
+
+Salvo, HP Smart Tank cinco oito um, impressora multifuncional. Boa, porque agora eles podem imprimir relatório direto do Google Earth-tipo, olha onde cavei, chefe!. Tá com tinta?
+
+ Tem outro app aqui, tem um app, né? Que é o GPS Utility. Então, realmente, eles usam muita coisa de GPS, né? Você poderia até me dar ideias, não agora aqui nesse texto, mas deixem aberto, né? Pra poder tá pesquisando apps melhor, open source, né? Porque dentro aqui do ambiente corporativo e institucional, a gente vai ter que ter, no caso, só programas que sejam livres, né? Que dê pra utilizar amplamente.
+
+Beleza, GPS Utility é o mesmo que o GPSU que você mencionou antes-pra editar tracks e waypoints. Sobre apps open source pra substituir esses, deixa eu te dar umas ideias rápidas que pesquisei: Viking é top pra gerenciar dados GPS, tipo import/export de rotas, e roda liso no Windows. QGIS é um GIS grátis pesado, perfeito pra mapear solos e campos-integra com GPS e tem plugins pra agronomia. Tem o LandPKS, app mobile que usa GPS pra identificar solos no local e coletar dados. E o Traccar pra tracking em tempo real, se precisar. Tudo livre, sem custo, e dá pra testar no ambiente institucional. Quer que eu detalhe instalação de algum ou anoto pra depois?
+
+25 páginas web
+
+ Tá, o outro aqui vai ter exatamente os mesmos programas, o mesmo tudo. Vai ser igual, igual, igual, igual. Então tá de boa. Então acho que aqui já tá mapeado, né? Eu vou só passar uma coisa aqui que é lógica, que pra mim serve, funcionou bastante, que é o número de contas patrimônios, pra poder tá sabendo quais são os computadores que tão aqui. Vamos lá. Patrimônio a gente coloca sempre o FRD, aí depois a numeração, que são os sonhos de seis dígitos. Então aqui vai ter dois computadores, que vai ser o patrimônio 10, 00546 e o outro computador aqui, ele vai ser exatamente do número de patrimônio, eu vou lhe falar agora, que vai ser o 10, 0565.
+
+Beleza, patrimônio FRD dez zero zero cinco quatro seis, e o outro FRD dez zero zero cinco seis cinco. Vou botar junto com o resto, igualzinho aos programas. Quando você terminar aqui, me fala se quer exportar tudo num arquivo-tipo bloco de texto-ou só deixa na minha cabeça.
+
+ Depois eu vou exportar pro Markdown. Existe Markdown existente já, então vai ser atualizado esse Markdown pra existente com essas novas informações.
+
+Beleza, entendo. Quando você quiser eu recito tudo rapidinho, linha a linha, pra você colar no seu .md. Só me avisa vai, Rex, aí eu despejo.
+
+ Ó, nessa parte aqui do avião de laboratórios 2, vai que meio que fica em falta ainda o espaço colaborar. Infelizmente, porque aqui a chave da porta tá escrota demais. Eu vou ter que verificar com o pessoal o que que foi que teve, né? Porque especificamente eu não tô conseguindo abrir a porta. Então não vai dar pra eu ver o que que tem aqui dentro. Mas é isso aí, é aquele local que tinha até um Playstation.
+
+Beleza, anota aí: laboratório dois-porta presa, chave ferrada, Playstation esquecida lá dentro, acesso bloqueado. Depois me fala se alguém abriu ou se a gente vai ter que forçar-sem graça ter sala trancada no avião.
+
+ Tá, agora eu tô no laboratório 105, que seria o laboratório de instrumentação e metrologia. Aqui vai ter ao todo cerca de seis computadores. Quatro na parte aqui dos alunos, que todos eles vão estar usando Ubuntu, né? Então, na parte de tá verificando aquela questão que foi criada relacionada ao sistema de chamados, coloco também a modularidade pra poder tá gerindo tanto números quanto linhas. Que vai tá dentro do servidor Apache. Considera o número dos patrimônios. 094118, 094187, 094182, 094123. Conseguiu anotar?
+
+Sim, peguei: laboratório cento e cinco, instrumentação e metrologia-quatro PCs Ubuntu pra alunos, patrimônios zero nove quatro um um oito, zero nove quatro um oito sete, zero nove quatro um oito dois, zero nove quatro um dois três. Tá na mão. E os dois restantes aí? São servidores ou o que?
+
+ Tá, tem outro computador aqui que vai ser o 100465.
+
+Beleza, patrimônio um zero zero quatro seis cinco-vai ser o servidor Apache com Ubuntu também?
+
+ Não, esse aí não tem Apache. E também vai ser o 100551.
+
+Tá, 100465 e 100551, sem Apache. São máquinas Windows então, ou outra distro?
+
+ Coloca uma observação também pra poder pesquisar sobre o que seria o próprio projeto Carapreta. Isso aqui tá presente basicamente em todos os computadores. Deve ser algo que os próprios alunos ou então o professor fez e desenvolveu com eles. Tem como se fosse servidores personalizados aqui que precisam ser estudados também.
+
+Beleza, anotado: observação no 105-projeto Carapreta rodando em todos os PCs, deve ser algo custom dos alunos/professores, tipo minicomputadores reciclados de TV Boxes apreendidas, do CETENS/UFRB. Vou deixar marcado pra estudar mais, talvez checar o site oficial deles ou pedir pro time de dev. Se quiser, eu
+
+5 páginas web
+
+ Então, tô.
+
+Então... como é que tá? Vai ou não vai ter Windows nesse 100465?
+
+ Coloca uma observação sobre o quarto monitor da quarta bancada, que ele vai ter, na verdade, acredito que seja o cabo pra poder fazer a substituição aqui do VGA, ou então trazer um, esse monitor aqui ele é compatível com serial, ou VGA ou serial.
+
+Beleza, observação no quarto monitor da quarta bancada: cabo VGA serial híbrido-provavelmente dá pra trocar ou botar um adaptador se precisar. Vou botar ali com os patrimônios. Se descobrir o modelo exato depois, atualiza eu.
+
+ Tá, especificamente aqui eles não usam nenhum programa específico do que eles fazem, mas vai ter aqui o Arduino IDE e o VS Code.
+
+Beleza, Arduino IDE e Visual Studio Code-padrão pra quem mexe com sensores e metrologia. Faz sentido. Quer que eu jogue isso junto com o Ubuntu dos alunos ou anoto separado?
+
+ Me recorda o comando, me recorda o comando Linux pra poder tá verificando a versão do Ubuntu.
+
+Ah, fácil: abre o terminal e digita lsb_release -a. Ou mais curto, cat slash etc slash os-release. Dá na mesma, mostra versão, codename, tudo.
+
+ Tá, todos aqui vão estar no Ubuntu 20.04. Já lançou a versão LTS 25.04. Lembrar também pra poder fazer a atualização, sempre que tem que ter.
+
+Beleza, Ubuntu vinte ponto zero quatro-é LTS ainda, segura até 2025, mas sim, 25.04 já tá no forno. Marca aí na tua lista: Rex avisou: subir pro LTS novo quando sair. Senão daqui a pouco alguém reclama que não tem Snap ou Flatpak direito. Quer que eu te lembre daqui seis meses?
+
+ Não, não é necessário. Verifique também se eles não estão usando algum tipo de Arduino web, porque não teria o pacote Linux instalado. Também pra fazer uma verificação com os alunos, o que que seja necessário. Acredito que eles não vão ter nenhum usuário administrador pra poder fazer a instalação dos programas. Verificar precisamente depois, em qualquer outro momento, junto com o professor, o que que eles vão estar utilizando nesses computadores. Seria necessário fazer até mesmo o Ubuntu, né? O pessoal vai querer mais custom dos alunos. E nos servidores deles, se precisa de mais alguma coisa, algum tipo de utilitário da TI.
+
+Beleza, anotado: sem Arduino web pacote-verifica com os alunos se rola via browser ou Docker, né? Usuários normais sem admin, então agenda com o prof pra checar installs, customizações no Ubuntu e extras pros servidores, tipo utils de TI. Sobre o Carapreta, pesquisei: é projeto do CETENS/UFRB que converte TV Boxes apreendidas em minicomputadores pra educação-tipo, removem pirataria, botam Linux e apps livres pros alunos. Faz total sentido aqui na metrologia, deve ser esses servidores personalizados que você viu. Quer que eu anote como Carapreta: minPCs reciclados, checar config com prof?
+
+5 páginas web
+
+ Tá certo. Já entendi o contexto do Carapreta aqui. Seria a questão do projeto que os professores estão fazendo pra tá descaracterizando as TV boxes, né?
+
+Exato, cara: o Carapreta é isso aí-projeto do CETENS/UFRB que pega TV Boxes piratas apreendidas pela Receita Federal, descaracteriza o hardware (tira o chip de sinal ilegal, limpa tudo), bota Linux e apps livres, e transforma em minicomputadores pra educação. Tipo, sustentável e didático pros alunos mexerem em eletrônica. Doam até pra outras unis, como UEFS e IFBA. Faz total sentido pros servidores custom que você viu-quer que eu anote como Carapreta: TV Boxes reaproveitadas no registro?
+
+5 páginas web
+
+ Deixar o professor vir até o pessoal da TI, né? Caso eles solicitem auxílio pra mais alguma coisa.
+
+Beleza, deixa no ar: professor que venha pedir ajuda na TI. Nada como um chamado oficial pra não ter ah, mas você não avisou depois.
+
+ Tá, pega a temática do que é o setor de mecatrônica, veja se tem alguma outra coisa que eu deixei passar. Por exemplo, algum outro item preciso ou programa específico que possa tá sendo utilizado aqui no setor.
+
+Beleza, mecatrônica é o cruzamento de mecânica, eletrônica, controle e computação-tipo robôs, automação industrial, sensores pra máquinas. No teu setup Ubuntu, além do Arduino IDE e VS Code que você já tem, comuns pra protótipos e código, acho que pode
+
+10 páginas web
+
+ Programas específicos pra uso no setor.
+
+Então, tipicamente eles usam Proteus pra simular circuitos antes de montar, tem o Tinkercad que é grátis e roda no browser pra prototipar robô-tipo braço mecânico virtual. Tem o ROS, que é open source, mas é pesado, então se o professor falar que quer controlar robôs reais, aí sim precisa. Também tem o
+
+ Proteus, Tinkercad e o que mais?
+
+Além disso, tem o Gazebo pra simular robôs com física real-tipo se o braço vai cair ou não. Tem o OpenSCAD pra modelar peças 3D em código, super mecatrônico. E se eles usam impressoras 3D aqui, vai ter Cura ou PrusaSlicer. Verifica se algum desses nomes aparece-protege a galera de
+
+ Tá, vai ter um projetor aqui também. Deve ser da marca BenQ.
+
+Beleza, projetor BenQ-provavelmente um desses interativos pra aula, tipo o MX series que eles usam em labs brasileiros, com toque e tudo. Anotado no 105. Mais alguma coisa aí ou fecha esse lab?
+
+5 páginas web
+
+ Não, por enquanto é só. No caso, pode fechar. Beleza?
+
+Fechado. Quando for pro próximo, só grita.
+
+ Eu te achava aqui. Pode trancar? Eu te achava aqui. Pode trancar?
+
+Tá trancado. Só abre quando eu falar.
+
+ Eu peguei aqui, foi no gabinete dos professores. Foi lá no Nubitest. Tem na portaria também, mas peguei na Nubitest.
+
+Beleza, então a chave tá com você. Deixa trancado por enquanto. Se
+
+ Tá, abre a porta. Abre a porta. Abre a porta aí que eu tô com duas chaves.
+
+Tá aberto. Pode entrar.
+
+ Não, é só o último comentário que você pode se considerar. Foi basicamente. Eu respondendo uma pessoa que tava no setor sobre a chave. A imagem foi catalogada já. Esse aqui você pode chamar de laboratório 105 LIM, que seria laboratório de instrumentação mecatrônica e metrologia.
+
+Fechado, laboratório 105 LIM. Nome registrado.
+
+ Tá, atualiza também mais uma coisa. Entrei no laboratório de processamento de alimentos e especificamente aqui não tem nenhum item de informática. Então aqui tá ok. Não tem basicamente nada que eu precise olhar, averiguar ou me atentar nesse local. Então aqui tá ok.
+
+Beleza, laboratório de processamento de alimentos: nada, zero, sem computadores, impressoras, projetor-nem cabo solto. Feito.
+
+ Eu não quero vir de aula de dois, mas num laboratório de matemática e ciências.
+
+Laboratório de matemática e ciências, então? Pode mandar os detalhes, Deivison. Imagino que vai ter calculadoras, projetor, talvez até um SageMath ou GeoGebra instalado. Vai falando.
+
+ Ó, vamos lá. Aqui é o número Lab 202, Matemática e Ciências do prédio de aulas 2.
+
+Beleza, 202 de Matemática e Ciências, prédio de aulas dois. Tem quantos computadores? E projetor, tem?
+
+ Ó, aqui não vai ter nenhum projetor. O moleque é mó desonra, velho. Pensa num pessoal criativo, um monte de porra de bagulho feito de barro, de, sei lá, grãos, coisas de, sei lá, cobras empalhadas. Achei engraçado.
+
+Tá, sem projetor, mas tem uma instalação de arte contemporânea aí, né? Barro, grãos, cobra empalhada-mano, isso aí é ciência ou ritual vudu? Se tiver computador, provavelmente vai ter Excel e Powerpoint, talvez
+
+ Tá, também tem dois computadores. Um aqui em específico, eu percebi que eles fizeram um alinhamento escroto. Por exemplo, é... tem um estabilizador aqui, ok. Ele é aquele padrão americano de três pinos, porém todos os cabos de força, tanto do monitor quanto do próprio gabinete, ele vai ser o padrão europeu, que vai ser o terra mais aqueles dois pinos quadrados, né? No caso, basicamente aqui pra fazer a substituição é só pra trazer cabos do padrão normal, do padrão americano. Então, deixem como pendência, porque eu percebi que eles não vão conseguir ligar esse computador de jeito nenhum, sem esses cabos. Então, deixe como pendência a substituição desses dois cabos. Desses cabos antigos pra poder trazer os novos e funcionar certinho. O outro aqui tá ok, tá? Tem os cabos do padrão antigo e o estabilizador é do padrão antigo, então tá certo.
+
+Beleza, Lab 202: dois PCs.
+
+ Tá, também tem dois computadores. Um aqui em específico, eu percebi que eles fizeram um alinhamento escroto. Por exemplo, é... tem um estabilizador aqui, ok. Ele é aquele padrão americano de três pinos, porém todos os cabos de força, tanto do monitor quanto do próprio gabinete, ele vai ser o padrão europeu, que vai ser o terra mais aqueles dois pinos quadrados, né? No caso, basicamente aqui pra fazer a substituição é só pra trazer cabos do padrão normal, do padrão americano. Então, deixem como pendência, porque eu percebi que eles não vão conseguir ligar esse computador de jeito nenhum, sem esses cabos. Então, deixe como pendência a substituição desses dois cabos. Desses cabos antigos pra poder trazer os novos e funcionar certinho. O outro aqui tá ok, tá? Tem os cabos do padrão antigo e o estabilizador é do padrão antigo, então tá certo.
+
+Beleza, no 202: dois computadores-um com estabilizador americano, mas cabos europeus, então tá morto, pendência pra trocar dois cabos de força pro padrão três pinos. O outro já tá certo. Vou botar como trocar cabos – urgente.
+
+ Tá. Especificamente aqui nesse laboratório, eu coloquei dois computadores pra tentar ligar. Eu botei um computador pra tentar ligar, né? No caso, o outro, eu preciso trocar os cabos. Um outro aqui que tem os cabos certos, eu botei pra ligar e ainda não vi sinal de vida, né? Mas tô esperando.
+
+Tá, então o segundo também pode estar morto. Espera um pouco, liga na tomada direta, sem estabilizador. Se ainda não for, desliga, abre, vê se o cooler gira, se a luz acende. Se não, é fonte também. Se o cooler rodar e nada, é placa-mãe. Mas espera, não tira nada antes de eu anotar: computador dois - possível defeito, aguardando diagnóstico.
+
+ Entendi.
+
+Ok, então só pra deixar claro: computador um - cabos errados, pendente troca; computador dois - possível fonte ou placa, a gente confirma depois. Se for defeito, a gente leva pro 103 junto com o Dell.
+
+ Hum.
+
+Tá sem sinal mesmo? Se não for, é fonte. Se for, liga aí que a gente
+
+ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+
+Contagem pronta. Dez. O que você quer que eu faça?
+
+ Vou pausar um pouco, vou resolver um chamado, daqui a pouco eu volto.
+
+Ok, vou ficar aqui quietinho.
+
+ Tá, vou atualizar aqui a situação da TI na parte do Laboratório 202 de Matemática e Ciências. Tá pré-claro. O computador que liga, ele liga, porém ele trava logo na tela do logon. É algum tipo de corrupção aqui no próprio usuário deles. Tentar fazer uma restauração completa, né? No caso, eu vou ter que tentar formatar. Então, tá pendente esse computador aqui pra tá sendo formatado e tá pendente o outro que fica aqui também pra ser averiguado e formatado. E também eles guardam aqui dentro da parte do armário que eles têm um projetor da Acer. Então, entender que talvez ele possa ser usado em qualquer outro local, porque aqui não tem estrutura pra projetor.
+
+Beleza, atualização do 202: computador que liga tá travado no logon-corrupção de usuário, formata depois. O outro segue pendente. E tem projetor Acer no armário, tá morto por falta de estrutura-a gente vai achar onde encaixar ele depois, tipo levar pro 105 ou pro 103. Tá anotado.
+
+ Né? Aqui tá crítico, porque os dois computadores que eles têm, os únicos dois computadores não estão funcionando. Então, coloque como crítico, de fato, pra poder tá fazendo a verificação completa e resolvendo os problemas aqui.
+
+Beleza, marcando como crítico: dois computadores parados, um congelado no logon, outro sem ligar. Isso aí tem que ser resolvido até sexta, senão vira bagunça. Vou botar na frente da fila, prioridade alta.
+
+ It is a command. Follow her.
+
+Ok.
+
+ Tá, realmente tá crítico aqui, hein, cara? Mas me lembre também que eu recolhi uns cabos aqui, um cabo verde, dois cabos verde A, na verdade, e uma caixinha de certo, como nenhum computador tá funcionando, não tem porquê.
+
+Beleza, anotado: cabos recolhidos – verde, dois verde-A, caixinha de certo. Como tá sem PC ligado, não vai fazer diferença deixar aí, mas guarda num envelope, coloca Lab 202 – pendente. Quando eu formatar os dois, você bota tudo de volta.
+
+ Não, caixinha de certo não. É uma caixinha de som que foi recolhida.
+
+Ah, caixinha de som, entendi. Verde, dois verde-A e uma caixinha de som – tudo recolhido do 202. Anotei.
+
+ Tá, me recorde qual laboratório a gente já passou.
+
+Passamos: 103 de engenharia de superfície, agrologia e ciências do solo, 105 LIM – instrumentação metrologia mecatrônica, processamento de alimentos – zero TI – e agora 202 de matemática e ciências. Três com computador, um vazio, um crítico. Tá atualizado.
+
+ Tá, a gente vai entrar agora no LACAM, que é o Laboratório de Caracterização de Materiais, L-A-C-A-M.
+
+Beleza, LACAM. Quantos máquinas? Programas de análise de composição, tipo XRD, SEM, Image J? Vai falando.
+
+ Ó, de cara dá pra ver aqui que eles vão ter uma TV, então provavelmente é o que seria o parecido com o que seria um monitor, o uso de monitores aqui. E só essa TV aqui, ela vai ter um cabo VGA. E uma cadeirinha do lado, então provavelmente oal pessoal senta ali do lado e utiliza pra poder tá transmitindo alguma coisa.
+
+Beleza, LACAM: uma TV com VGA – nada de computador, só transmissão. Vai ser usado tipo painel de dados, provavelmente algum aluno liga o note lá do lado na cadeira. Pode registrar como monitor externo, pendente de usuário. Mais coisa aí?
+
+ Só vai ter um monte de balanças aqui, mas nada que a TI gerencie. Então vai ser só isso mesmo aqui. No caso aqui é mais um setor do qual não precisa fazer mais verificações.
+
+Beleza, só a TV com VGA. Nada a ver com TI, então anota LACAM – ok, monitor apenas. Próximo.
+
+ I'm not sure.
+
+No worries, just tell me when you're sure.
+
+ Do you speak Spanish? No? I want a version, a verification of the part in TI.
+
+Sí, hablo español. Verificación de TI: en el Lab 202, dos PCs críticos-um congelado no logon, outro sem ligar-pendente formatação; cabos recolhidos e projetor Acer no armário. No LACAM, só uma TV com VGA pra transmissão, nada mais. Quer que eu resuma isso em espanhol também?
+
+ Faz uma observação no laboratório 204. Especificamos que tem um computador com dois drivers. Então, faça a remoção pra poder fazer a formatação e verifique se tá bom ou se realmente colocar um banco de rede.
+
+Beleza, no 204: computador com dois drives-vai remover um, formatar e checar se precisa virar máquina de rede. Se não, devolve pro setor. Anotado como ação.
+
+ Fazendo uma observação, o lado esquerdo inteiro, todas as tomadas não funcionam. Então, eles ficaram sem utilizar por um bom tempo, porque as tomadas não funcionavam.
+
+Beleza, observação no 204: lado esquerdo das tomadas-todas queimadas ou desligadas. Provavelmente o circuito inteiro foi desligado por sobrecarga ou defeito, então explica por que os professores abandonaram aquela bancada. Quando a manutenção elétrica vier, cobra pra religar. Se não religar, a gente muda o PC de lugar.
+
+ Também dos laboratórios, meio que se interrompe de quanto. Eu vou tá fazendo uma verificação em umas outras coisas agora.
+
+Então, a gente parou nos 204, com o PC de dois drives e as tomadas do lado esquerdo mortas. Se for interromper um pouco, eu guardo o resto na memória. Quando voltar, é só falar Rex, continua, que eu
+
+ Tem alguns laboratórios lá ainda. Acredito que falta mais um que ainda não foi verificado, mas eu vou fazer isso no caso do próximo que eu adquiri a chave.
+
+Então beleza, deixa esse último pendente. Quando você tiver a chave, só grita Rex, abre o próximo. Aí a gente segue.
+
+Entre para continuar a conversa
