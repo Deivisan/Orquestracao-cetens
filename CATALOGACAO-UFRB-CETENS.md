@@ -92,13 +92,23 @@ Prédio central com **7 Coordenações de Cursos** + **Sala de Informática** + 
 
 #### 1️⃣ Sala de Apoio Especializado para Alunos com Deficiência
 - **Localização:** Próximo ao Prédio Multiuso (não dentro dele)
-- **Itens TI:** 🖥️ 2 PCs fixos + 2 notebooks (4 máquinas para 5 usuários) + 1 Impressora Samsung ML
-- **Status:** ⏳ Verificação pendente
-- **Urgência TI:** 🟡 Média
+- **Computadores:** 3 Dell Optiplex 7010
+  - UFRB100449
+  - UFRB104509
+  - UFRB094173
+- **Impressora:** 1 Samsung ML (IP: 172.17.9.155)
+- **Observação:** Catalogado 05/11/2025 durante visita aos gabinetes
+- **Status:** ✅ Catalogado completo (05/11/2025)
+- **Urgência TI:** 🟢 Baixa
 
 #### 2️⃣ Sala de Comunicação
-- **Localização:** Ao lado do Prédio Multiuso
-- **Status:** ⏳ Pendente visita (não encontrado ninguém)
+- **Localização:** Ao lado do Prédio Multiuso (próximo Sala Apoio Deficiência)
+- **Computadores:** ❌ Nenhum
+- **Impressora:** 1 (modelo não especificado)
+- **Rede:** ❌ Sem Access Point, sem roteador, sem cabo Ethernet
+- **Problema:** Impressora isolada (sem IP, sem conectividade)
+- **Pendência (05/11/2025):** Repetidor Wi-Fi com porta Ethernet para conectar impressora
+- **Status:** ✅ Catalogado (05/11/2025) | ⏳ Pendente conexão impressora
 - **Urgência TI:** 🟡 Média
 
 #### 3️⃣ Refeitório dos Alunos
@@ -293,10 +303,17 @@ Pavilhão com **5 laboratórios especializados** (LAB 101 a LAB 105) + **Almoxar
 - **Urgência TI:** 🟡 Média
 
 #### 🎮 LAB 104 - Espaço Colaborar
-- **Computadores:** 7 Chipnet (UFRB65743, UFRB65758, UFRB65766, UFRB65761, UFRB65732, UFRB65739, UFRB65736)
-- **PlayStation 4:** Console para gamificação
-- **Status:** ⏳ Verificação pendente
-- **Urgência TI:** 🟢 Baixa
+- **Computadores:** 7 ChipNet (UFRB65743, UFRB65758, UFRB65766, UFRB65761, UFRB65732, UFRB65739, UFRB65736)
+- **Uso:** Eventos, atividades extracurriculares, gamificação (não gerenciado por TI)
+- **PlayStation 4:** 1 console para atividades gamificadas
+- **TV:** 1 Smart TV 50-60 polegadas
+- **Access Point:** 1 na sala (IP fixo)
+- **Observações (05/11/2025):**
+  - ❌ Sem imagem FOG (não aplicável - uso autônomo)
+  - ❌ Sem chamados TI automáticos (manutenção sob demanda)
+  - ✅ Equipamentos funcionais (verificado)
+- **Status:** ✅ Catalogado completo (05/11/2025)
+- **Urgência TI:** 🟢 Baixa (uso independente)
 
 #### 📊 LAB 105 - LIMM (Laboratório de Instrumentação Mecatrônica e Metrologia)
 - **Computadores:** 6 total (4 Ubuntu alunos + 2 adicionais)
@@ -557,17 +574,39 @@ Prédio concentra **Lab Informática 1** + **Gabinete Coletivo** + **Empresa Jú
 - **Urgência TI:** 🟢 Baixa (apenas impressora adicional solicitada)
 
 ### 🏢 Empresa Júnior CETENS
-- **Computadores:** ~3 unidades + 1 notebook
-- **Status:** ⏳ Vistoria completa pendente
-- **Urgência TI:** 🟢 Baixa
+- **Computadores:** 2 Positivo (sem tombamento, sem patrimônio UFRB)
+- **Sistema:** HDD (necessita upgrade para SSD)
+- **Rede:** Apenas Wi-Fi (sem cabeamento Ethernet)
+- **Impressora:** 1 Samsung Multifuncional (sem IP, sem rede)
+- **Problemas Identificados (05/11/2025):**
+  - 🔴 Bateria CMOS descarregada (ambos PCs) - solicita F1/F2 sempre ao ligar
+  - 🟡 Lentidão crônica (HDD antigo)
+  - 🟡 Impressora isolada (sem conexão rede)
+  - 🟡 Wi-Fi fraco (reclamações recorrentes)
+- **Pendências:**
+  1. Trocar 2 baterias CR2032 (CMOS)
+  2. Upgrade HDD → SSD ou substituição completa dos PCs
+  3. Repetidor Wi-Fi com porta Ethernet (conectar impressora à rede)
+  4. Melhorar sinal Wi-Fi geral
+- **Status:** ✅ Catalogado completo (05/11/2025) | 🟡 Múltiplas pendências
+- **Urgência TI:** 🟡 Média (equipamentos funcionais mas problemáticos)
 
-### 🌍 SIAE (Setor de Intervenção, Tradução e Atividades Culturais)
-- **Status:** ⏳ Catalogação pendente
-- **Urgência TI:** 🟢 Baixa
+### 🌍 SIAE / ST Libras (Setor de Intervenção, Tradução/LIBRAS e Atividades Culturais)
+- **Computadores:** 1 Dell Optiplex 7010 (UFRB094121)
+- **Impressora:** 1 Samsung Multifuncional (sem IP, sem rede)
+- **Problema:** Impressora isolada (sem conectividade)
+- **Pendências (05/11/2025):**
+  - Verificar utilização do scanner com responsável do setor
+  - Substituir por 2 impressoras simples (só impressão) no lugar da multifuncional
+  - Configurar IP fixo após conexão
+- **Observação:** ST Libras = mesmo setor que SIAE (confirmado 05/11/2025)
+- **Status:** ✅ Catalogado (05/11/2025) | ⏳ Pendente substituição impressoras
+- **Urgência TI:** 🟡 Média (impressora inutilizada)
 
 ### 🏥 Sala de Apoio Multiprofissional/Saúde
 - **Computadores:** 1 (Windows 10)
-- **Status:** ⏳ Pendente visita
+- **Observação:** Verificado 05/11/2025 - apenas 1 PC, sem demanda adicional
+- **Status:** ✅ Catalogado (05/11/2025)
 - **Urgência TI:** 🟢 Baixa
 
 ---
@@ -680,9 +719,20 @@ Centro de comando administrativo: **Sala Técnica de TI** + **4 salas de direç�
 - **Urgência TI:** 🟡 Média
 
 ### 🎭 Auditório
-- **Itens TI:** Projetores + sistema de som
-- **Status:** ⏳ Verificação mensal recomendada
-- **Urgência TI:** 🟢 Baixa
+- **Projetor:** 1 Acer (funcionando)
+- **Notebook:** 1 fixo (cabo HDMI OK)
+- **Sistema de Som:**
+  - 1 Caixinha de som
+  - 1 Mesa de som/configuração
+  - 2 Microfones
+- **Problemas Identificados (05/11/2025):**
+  - 🔴 Sinal Wi-Fi fraco/fraqíssimo (reclamações recorrentes)
+  - Impacto: apresentações/eventos com conectividade ruim
+- **Pendências:**
+  - Melhorar cobertura Wi-Fi (Access Point adicional ou extensor)
+  - Verificar tombamentos de equipamentos (projetor, mesa som, microfones)
+- **Status:** ✅ Catalogado (05/11/2025) | 🔴 Wi-Fi crítico
+- **Urgência TI:** 🔴 Alta (eventos frequentes afetados)
 
 ---
 

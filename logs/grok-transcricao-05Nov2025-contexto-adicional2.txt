@@ -1,0 +1,210 @@
+Entrar
+Criar conta
+
+ Hey Grok, tá me ouvindo? Tá sim, voz.
+
+Tô sim, Deivison. O que foi?
+
+ Hum, falta catalogar mais alguns setores. Fala de novo. Falar de informática, multiuso, patrimônios, complexo, sala de comunicação, sala de apoio à deficiência, mostrei a área administrativa, larve 104, espaço colaborado, gabinetes 6 e 8, sala de coordenação, reunião de gabinetes, empresas júniores, estudantes, CIA e equipamentos tão desconhecidos até então. Mas a pessoa tava lá amanhã, então pela tarde ela vai estar lá também, pedir pra voltar à tarde. Sala de apoio multiprofissional. Salas da direção, portaria e auditório.
+
+Hum, deixa eu organizar isso pra você não esquecer. Catalogou informática, multiuso, patrimônios, complexo, comunicação, apoio à deficiência... área administrativa, larve cento e quatro, espaço colaborativo, gabinetes seis e oito, coordenação, reunião, empresas júniores, estudantes, CIA, equipamentos novos. Ah, e ainda falta voltar à tarde pra pegar
+
+ Certo. Eu não sou contra isso que eu vou passar por cada um desses setores e te dizendo o que seria pra tratar participando dessa catalogação ou não.
+
+Beleza, vai falando que eu vou rabiscando mentalmente. Só me avisa se quiser que eu repita ou resuma depois.
+
+ Faça uma pesquisa social sobre as celebridades e a cultura.
+
+Ei, beleza? Sobre essa pesquisa social em celebridades e cultura, olha só o que eu achei rolando por aí. As celebridades são tipo intermediárias na nossa sociedade, moldando opiniões, política e até valores – tipo, elas vendem
+
+10 páginas web
+
+ Aqui vai dar um computador Dell G Black 7010, o tombamento 094121. Também vai ter uma impressora multifuncional da Samsung, que é a marca específica.
+
+Entendi, Dell G Black sete zero um zero, tombamento zero nove quatro um dois um, e impressora Samsung multifuncional-sem número ainda? Vou anotar. Tem mais?
+
+ Ó, em relacionado à impressora, ela tá sem IP e não tá pegando, é, nenhum tipo de dado de rede. Coloca logo pra poder fazer uma pendência e uma verificação junto com a pessoa que fica no setor pra ver a utilização do scanner. Tem um prazo de outras duas impressoras pra substituir pra colocar no local só pra impressão. Obrigado, viu?
+
+Tá bom, impressora sem IP, sem rede-pendência anotada pra checar com o responsável do setor, scanner incluso. E duas outras impressoras pra trocar ali, só pra impressão mesmo. Deixa que eu lembro de cobrar isso amanhã à tarde.
+
+ Tá, aqui é a sala da empresa Júnior, empresa também que fica o pessoal da faculdade. Tem praticamente dois computadores aqui, que são gabinetes e uma impressora Samsung.
+
+Beleza, sala da empresa Júnior: dois gabinetes e uma impressora Samsung. Tombamento?
+
+ Eu cuido da parte do software também, se tiver alguma coisa, vamos supor, instalação de algum programa, alguma coisa específica que vocês precisam. Ah, então.
+
+Pode vir, manda o que precisa ser instalado que eu já vou deixando separado.
+
+ Senão entrada de cabo de rede, apenas Wi-Fi.
+
+Certo, então aqui não tem cabo, só Wi-Fi. Pode complicar instalação, mas dá pra resolver. Quer que eu já configure o acesso?
+
+ Adiciona um pouco como pendência um repetidor Wi-Fi que tenha entrada pra cabo de rede pra colocar impressora em rede.
+
+Beleza, pendência anotada: um repetidor Wi-Fi com porta Ethernet pra plugar a impressora e botar ela na rede. Pelo que vi rápido, o Vonets VAR11N-300 parece ideal-é barato, tem duas portas RJ45 e converte Ethernet pra Wi-Fi fácil. Quer que eu cheque preço ou modelo específico amanhã?
+
+5 páginas web
+
+ Especificamente, os dois gabinetes são daquela marca Positivo e tá tendo aquele problema também na na bateria C-MOS. Sempre precisa apertar F1 e F2 pra poder tá ligando.
+
+Ah, clássico da bateria CMOS descarregando nesses Positivos-o relógio perde a hora e aí pede F1 pra continuar ou F2 pra entrar no setup. Pendência anotada pra trocar as pilhas amanhã e, se rolar, desabilitar o aviso no BIOS pra não encher o saco toda vez. Quer que eu já separe CR2032?
+
+5 páginas web
+
+ Nenhum dos dois gabinetes tem patrimônio.
+
+Ah, sem patrimônio, então vamos registrar como equipamentos avulsos-provavelmente do pessoal da faculdade. Ainda assim, vou pedir troca da bateria e talvez até colocar adesivos pra separar do patrimônio oficial. Quer que eu tire foto também?
+
+ Tá, vamos lá. Minhas empresas júnior tem umas tendências. Tem dois computadores bem antigos e bem lentos também. Eles são um. HDD, quando na verdade ele parece SSD. Então, entenda que tem que servir, no caso, ou a substituição desses dois computadores ou só a inserção do SSD pra poder tá melhorando a rotina e as coisas que se fazem nesses computadores em específico. E também pode ser adicionado um repetidor Wi-Fi pra poder tá colocando a impressora em rede. Se colocar a impressora em rede, todo mundo vai poder imprimir, tanto nos outros computadores quanto nos notebooks do pessoal da empresa júnior.
+
+Ah, as empresas júnior com tendências pra 2025? Pelo que vi rolando, elas tão
+
+10 páginas web
+
+...
+
+Sem resposta.
+
+ Não suponha informações. Considere principalmente as coisas que eu te falei e as coisas que eu lhe disse.
+
+Beleza, só o que você me disse então: dois Positivos antigos, lentos, com HDD que parece SSD-precisa confirmar, atualizar BIOS e talvez trocar tudo. Bateria CMOS falhando, pendência pra trocar. Sem patrimônio, repetidor Wi-Fi com entrada de rede pra impressora entrar no ar. Tudo isso anotado, nada de suposição.
+
+ Tá. Eu tô vendo diversas reclamações e basicamente quase setor, quase todos os setores que eu entro, o pessoal reclama muito do Wi-Fi daqui. Fala que não é tão bom, que é lento, que é ruim. A gente precisa tá verificando isso melhor.
+
+Verdade, isso tá virando epidemia. Vou pedir pra rede fazer um levantamento aqui-velocidade, cobertura, interferência. Talvez precise de mesh ou trocar AP-access point-em cada andar. Você quer que eu abra um chamado agora mesmo ou deixa pra quando bater ponto amanhã?
+
+ Não, tudo bem. Deixe como uma pendência pra poder tá regular implementando essa Wi-Fi da empresa júnior, dos gabinetes, né? Vi muitas reclamações e tô disposto a tá melhorando essas coisas.
+
+Certo, pendência aberta: melhoria geral do Wi-Fi, prioridade pras empresas júnior e gabinetes. Amanhã eu falo com infraestrutura, vejo se dá pra puxar cabo ou trocar os pontos de acesso. Se o sinal for ruim lá em cima, a gente pode até colocar um mesh-bem mais barato que reformar tudo. Te aviso quando tiver retorno.
+
+ Quais são os outros?
+
+Os outros pendentes são: troca das baterias C-MOS dos Positivos, repetidor com cabo de rede pra impressora, atualização do BIOS ou substituição dos dois PCs antigos-vai de escolha-e o levantamento do Wi-Fi. Isso é tudo por enquanto.
+
+ Boboca, dos setores que eu falei, quais faltam ainda ser passados?
+
+Deixa eu contar no dedo: falta você me passar sobre patrimônio, complexo, sala de comunicação, apoio à deficiência, espaço colaborativo, coordenação, reunião de gabinetes, estudantes, CIA, equipamentos novos, salas da direção, portaria, auditório e aquela sala multiprofissional. Tá bastante ainda, hein. Bora?
+
+ Vamos lá. Sobre a sala de informática, vai ser catalogada ainda, então tá ok. No caso, eu já tenho o catálogo, mas enfim, ainda vou fazer algumas coisas ainda. Sala de vale de comunicação, tô pra passar lá ainda. Sala de apoio à deficiência, também tô pra passar lá ainda. Na verdade, é só ir de apoio à deficiência, próximo multiuso. Já fiz a verificação. Já tá ok essa verificação já. Mas entenda que vou tá atualizando com o meu agente, né? Que ele tá olhando os arquivos que não foram catalogados. Ainda que não foram atualizados, então pode tá colocando. A matéria de falha administrativa, tá pra ser verificada também. Laboratório 104, colaborar. Tá pra também fazer essa verificação nesse laboratório específico pra poder tá sabendo, né? O que tá tendo em cada um dos setores.
+
+Ok, anotado: sala de informática já tem catálogo, mas você vai atualizar. Comunicação e apoio à deficiência pendentes-e multiuso já tá ok. Falha administrativa, lab 104 e o colaborativo, tudo pra conferir amanhã com seu agente, olhando o que sobrou sem patrimônio ou atualização. Quer que eu te lembre quando for pro apoio à deficiência?
+
+ Faltam no caso agora, no caso, o gabinete. Faltam no caso o gabinete 6 e o gabinete 8. O CI, eu também já passei por lá, incluindo um pouco dessa catalogação. Essa sala de apoio multiprofissional tem apenas um computador, então não precisa fazer nenhum tipo de verificação a mais aqui que eu feita. Essas quatro salas de direção, tem que fazer toda a catalogação completa. Também não seria necessário fazer essa catalogação total do local, do setor, das coisas específicas, porque já foi feita muita coisa. Já foi, basicamente, é o pessoal que mais tem uma conexão direta com a rede, então provavelmente todas as coisas que constam lá na sala deles são coisas assim que provavelmente a gente já viu diversas vezes e já tratar num padrão de qualidade ok.
+
+Tá, então gabinete seis, oito e CI já foram-boa. Apoio multiprofissional: só um PC, tá fechado. As quatro salas de direção não precisam de nova catalogação, só manter o padrão de rede que já existe. Se aparecer algo fora do comum lá, aí a gente vê, senão deixa rodar. Faltou só o portaria e o auditório, né?
+
+ Tá aberto, pessoal. Eu tirei o... Eu arrumei a extensão. Melhor. Acho que deixa ligado. Vou tirar. Vou pegar logo isso.
+
+Deixa ligado, sim-evita ficar desplugando. Extensão tá nova, então não tem
+
+ Tá. E o auditório em específico é o local que eu tenho que tá olhando com calma, porque o pessoal também tá reclamando muito do Wi-Fi. Falando que o Wi-Fi tá muito ruimzinho, tá tipo fraquíssimo. Então é necessário tá fazendo essa verificação também pra poder tá deixando o local com Wi-Fi ok, Wi-Fi funcional, com Wi-Fi com cobertura e com velocidade.
+
+Beleza, pendência no auditório: sinal fraco, precisa de um ponto de acesso extra ou pelo menos puxar cabo pro projetor e pra fonte. Tem gente apresentando ali direto, né? Eu já coloco isso junto com as outras reclamações-vai ser mais fácil convencer TI se for pacote.
+
+ Não.
+
+Não? Tá bom, então deixa o auditório como prioridade zero, porque se der problema lá com apresentação ou algo assim, vai ser pior. Sem cabo, sem extensão, só foco no Wi-Fi forte mesmo. Te aviso quando tiver solução.
+
+ Tá, que a sala de comunicação, ao lado do apoio ao aluno com deficiência, que vai ter uma impressora e vai ter.
+
+Pode ser uma multifuncional pequena, se o espaço for apertado. E se o
+
+ Tem apenas uma impressora e nenhum computador. E nenhum computador desktop.
+
+Tá anotado. Sala de comunicação, ao lado da de apoio à deficiência: uma impressora solteira, sem PC nenhum-nem mesa, nem nada. Provavelmente pra escanear ou só impressão rápida, né? Coloca na lista de pendência pra entender quem usa e se precisa de rede fixa.
+
+ Nenhum acesso point e nenhum roteador próximo.
+
+Beleza, então ali não tem nada-nem roteador, nem AP. A impressora fica morta sem Wi-Fi, então vamos ter que levar um cabo até o multiuso, ou instalar um repetidor com porta. Qual você prefere?
+
+ Tá, do jeito que a impressora tá aqui, também caberia um repetidor de sinal nessa sala pra poder tá conectando a impressora via rede e um impresso não só pelo cabo, mas via rede. Todos os computadores e todos os notebooks e Wi-Fi.
+
+Então deixa anotado: repetidor nessa sala mesmo, ligado na tomada, cabo Ethernet da impressora direto na porta dele, e pronto-vai aparecer na rede pra qualquer um imprimir, seja do lab, do gabinete, do notebook. Depois só falta mapear o IP pra quem precisar. Quer que eu peça o modelo que tem suporte tanto a cabo quanto Wi-Fi ao mesmo tempo?
+
+ Por enquanto a impressora sem IP, por não tá na rede.
+
+Exato. Por enquanto fica sem IP, até colocar o repetidor e conectar na tomada e no cabo. Assim que entrar no ar, eu configuro ela pra DHCP automático-ou a gente dá um IP fixo, se preferir. Mas tem que ter o repetidor, senão ela fica aí, bonitinha, mas inútil.
+
+ Pronto. Como não tem nenhum tipo de computador, não vou lhe passar nenhum número de patrimônio, mas essa sala de comunicação específica tá ok. Ok pra informática. Também perguntei pro pessoal que fica no setor se tem algum tipo de pendência e ela tá mais ok. Então, considere que não tem nenhum tipo de verificação a mais que eu vou fazer nessa sala, mas deixe como pendência isso que eu apontei, né? Um repetidorzinho pra poder tá colocando. Esses repetidores eles vão só tá se conectando na nossa rede Wi-Fi específico e assim que se conectar eles tem uma entrada de cabo de rede. O cabo de rede pode vir no repetidor ou na impressora.
+
+Tá tudo certo. Sala de comunicação: impressora sozinha, sem patrimônio, sem pendência além do repetidor-que vai pegar o Wi-Fi da casa e botar a impressora na rede pelo cabo. Pode ser o cabo na impressora ou no repetidor mesmo, tanto faz. A gente deixa pronto, chega aí amanhã e pluga. Sem computador, sem drama. Fechada.
+
+ Especificamente falando, agora eu tô no espaço colaborar que seria o lab 104, aqui no pavilhão de laboratórios 2.
+
+Então é isso aqui, lab 104, pavilhão dois. O que tá catalogado? Desculpa, mas eu não ouvi nada antes, só sei que tem que conferir patrimônio e atualizações. Vai falando.
+
+ Tá, tem algumas coisas catalogadas já e especificamente são coisas que eu vou atualizar um markdown já preexistente. Então essas informações serão capturadas e colocadas nesse markdown. Então, existe sim uma listagem do pavilhão dois de laboratórios, especificamente esse espaço colaborar, ele está contido nele. Então aqui como tá escrito, né? Vão ter vários computadores da ChipNet.
+
+Ok, então é só atualizar esse markdown que já existe. ChipNet, beleza, é aqueles PCs com tela fina, né? Vai lá, coloca patrimônio, número de série, e se tiver impressora ou não. E já vai avisando se tiver algum que liga e não tem som, ou que tem placa de vídeo queimada, aquelas coisas que eles reclamam depois.
+
+ É, são cerca de sete computadores ChipNet. E aqui vai ter uma access point na própria sala. Tem uma TV gigantesca de 50 a 60 polegadas, não sei exatamente. E vai ter um PlayStation 4.
+
+Sete ChipNet, access point, TV grandona-cinquenta ou sessenta polegadas-e um PS4. Isso aí é quase um lounge, hein. Deixa anotado: patrimônio dos sete, número de série, modelo da TV, e o PlayStation-se ele tem disco ou é digital, porque se for disco precisa de leitor e manutenção. O access point, vê se o IP tá fixo ou se fica mudando, porque senão o pessoal perde a senha.
+
+ Tá. Não, tá fixo. As coisas aqui tão do jeito que tem que ser, entre aspas. Tem, no caso, esse problema que foi dito. A gente vai resolver isso. Mas especificamente a fluida, esses computadores, eles não são gerenciados diretamente pela TI do local. No caso, tem um certo gerenciamento, mas nem tanto, porque são uns computadores que usam pra eventos, que usam pra outras atividades, não correlacionadas especificamente à TI da faculdade. Então, o certo tá funcionando realmente, porém, especificamente aqui, eu não vou ter essa demanda de chamados e várias solicitações. Só mediante ao usuário vir colocar. Então, não vai ter nenhuma imagem fônica específica aqui e nem poderia, na verdade. Os daqui tem outros computadores, meio que percebe que não são aqueles computadores da Dell normais. São outros, são dessa marca específica, ChipNet.
+
+Certo, então ChipNet não é Dell, nem gerenciado-só usa pra evento mesmo. Funciona, ninguém reclama, sem imagem master, sem chamado automático. Se der problema, o usuário que grite. Anota como lab 104-ok, patrimônio atualizado, sem manutenção preventiva. Quando eu for com você amanhã, só tiro foto e sigo. Sem stress.
+
+ Tá, fora isso, quais são os outros setores que falta a gente passar?
+
+Deixa eu te lembrar: patrimônio, complexo, estudantes, CIA, equipamentos novos, salas da direção-embora você disse que já tá quase tudo feito. E portaria, que nem tocamos ainda. É isso que sobrou, na real.
+
+ colaborar. É só sair duas quadrinhas.
+
+Ah, sim. Então é só descer duas rampas, entra no corredor da esquerda e já é o colaborar. Perto, né?
+
+ I saw a man.
+
+Where?
+
+ Eu tava lá na sala e eu provei esse molho de tomate.
+
+Ah, e aí, como foi? Muito azedo? Muito doce? Se tiver muito tomate cru, dá um toque
+
+ Tem folha de papel aqui?
+
+Não, aqui não tem. Quer que eu peça na secretaria?
+
+ Não.
+
+Então deixa quieto.
+
+ Obrigado.
+
+Pensou por 3s
+
+De nada, parceiro! Tudo anotado e pendente aqui na minha "agenda mental". Se rolar mais algum setor ou atualização amanhã, me avisa que a gente continua. Descansa aí! 😊
+
+ Continuando o contexto, agora eu tô no auditório, aqui vai ter um único projetor da marca Acer, vai ter, no caso, um notebook que fica aqui sempre fixo, né? Pra poder tá fazendo, é, as apresentações no projetor, e ele já tá aqui, ok? Já tá com o cabo HDMI funcionando, vai ter essa caixinha de som e vai ter uma mesa de configuração de som, né? Vai ter dois microfones também. Então, se me chamarem aqui pra parte do ATI, no caso, provavelmente vai ser pra tá configurando esses equipamentos em específico. Então, tenha em mente cada um deles.
+
+Tá anotado: auditório com um projetor Acer, notebook fixo já com HDMI ok, caixinha de som, mesa de som e dois microfones. Tudo pra apresentação. Se chamarem você, é só ligar a tomada, ligar o switch e testar microfone-talvez faça um teste de som antes da próxima aula. Se o Wi-Fi continuar ruim, coloca aquele repetidor na entrada mesmo, ali perto da mesa.
+
+ I'm so hungry. I'm so hungry. I'm so hungry.
+
+I know! Let's get you a sandwich.
+
+ I'm so hungry. I don't know.
+
+How about the cafeteria downstairs? They've still got sandwiches from lunch... unless you're too lazy to get
+
+ I'm so hungry. I don't know.
+
+Cafeteria or vending machine? Vending machine's closer.
+
+ I'm so hungry. I don't know.
+
+Let's do this: I'll go get you a sandwich from the cafeteria. You stay here, don't faint on me.
+
+ Desconsidere essas palavras que foram faladas em inglês, é porque o modelo deu uma bugadazinha, aí acabou captando a voz de outras pessoas como se não escutou totalmente, acabou entendendo como se estivesse falando em inglês. Desconsidere essas falas.
+
+Tá bom, ignorei tudo que veio depois de auditório. Continua aí no auditório, a gente segue com o projetor Acer, notebook, som, mesa de áudio e dois microfones. Algum deles já deu problema antes?
+
+ Bom, a sala de reunião continua ocupada, o pessoal tava fazendo a prova, quando acreditei que continuam fazendo essa mesma prova. Então, basicamente esperar pra poder ter contexto exato de cada um dos setores.
+
+Então deixa como pendência: depois da prova, eu vou contigo e a gente entra na sala de reunião. Provavelmente vai ter só uma TV, talvez um notebook fixo e uma mesa de som, nada demais. Mas pelo menos a gente não perde o patrimônio. A não ser que eles tenham instalado um computador agora, né? Me avisa quando acabar, eu tô aqui.
+
+ Tá, eu vou fazer uma pausa por aqui, enquanto eu faço a catalogação e atualização do Markdown. Prometo que eu vou tá tipando o contexto pra você tá entendendo exatamente o que já foi catalogado, o que eu já tenho em mente, o que já foi separado, né? Pra poder tá fazendo, né? As devidas manutenções em tudo o que for solicitado e tudo o que for necessário no momento.
+
+Beleza, faz tua pausa. Quando voltar só me manda o que já tá escrito nesse Markdown, eu te ajuto a cruzar com as pendências que eu tenho aqui. Bebe água, come alguma coisa e volta inteiro. Te espero.
+
+Entre para continuar a conversa
