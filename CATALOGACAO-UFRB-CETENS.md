@@ -2,7 +2,7 @@
 
 **Autor:** Deivison Santana (DevSan)  
 **Data Início:** 30 de outubro de 2025  
-**Última Atualização:** 04 de novembro de 2025  
+**Última Atualização:** 05 de novembro de 2025  
 **Status:** 🔄 Em atualização contínua  
 **Instituição:** Universidade Federal do Recôncavo da Bahia - Centro de Ciência e Tecnologia em Energia e Sustentabilidade
 
@@ -91,7 +91,7 @@ Prédio central com **7 Coordenações de Cursos** + **Sala de Informática** + 
 ### 🏫 Instalações Adjacentes ao Multiuso
 
 #### 1️⃣ Sala de Apoio Especializado para Alunos com Deficiência
-- **Localização:** Ao lado do Prédio Multiuso
+- **Localização:** Próximo ao Prédio Multiuso (não dentro dele)
 - **Itens TI:** 🖥️ 2 PCs fixos + 2 notebooks (4 máquinas para 5 usuários) + 1 Impressora Samsung ML
 - **Status:** ⏳ Verificação pendente
 - **Urgência TI:** 🟡 Média
@@ -331,10 +331,10 @@ Pavilhão com **4 salas de aula** (101 a 104). Uso predominante: aulas teóricas
 
 | **Sala** | **Equipamento TI** | **Status** |
 |----------|-------------------|------------|
-| **101** | ⏳ Verificação pendente | ⏳ Testar projetor/equipamentos |
-| **102** | ⏳ Verificação pendente | ⏳ Testar projetor/equipamentos |
-| **103** | ⏳ Verificação pendente | ⏳ Testar projetor/equipamentos |
-| **104** | ⏳ Verificação pendente | ⏳ Testar projetor/equipamentos |
+| **101** | 📽️ Projetor funcional | ✅ Catalogado - Testes quinzenais |
+| **102** | 📽️ Projetor funcional | ✅ Catalogado - Testes quinzenais |
+| **103** | 📽️ Projetor funcional | ✅ Catalogado - Testes quinzenais |
+| **104** | 📽️ Projetor funcional | ✅ Catalogado - Testes quinzenais |
 
 ---
 
@@ -486,32 +486,49 @@ Prédio concentra **Lab Informática 1** + **Gabinete Coletivo** + **Empresa Jú
 ## 📖 Biblioteca
 
 ### Descrição Geral
-Biblioteca Central do CETENS com **10 computadores distribuídos** + **Sistema Pérgamo** para catalogação.
+Biblioteca Central do CETENS com **12 computadores Dell Optiplex 7010** distribuídos + **Sistema Pérgamo** para catalogação + **2 impressoras**.
 
-### 🖥️ Distribuição de Computadores
+### 🖥️ Distribuição de Computadores (Catalogado 05/11/2025)
 
-| **Localização** | **Quantidade** | **Função** | **Sistema** |
-|------------------|----------------|------------|-------------|
-| Terminais Pérgamo | 3 (Ubuntu 25 - quiosque) | Catalogar, emprestar, devolver | Sistema Pérgamo |
-| Sala de Estudos | 2 | Pesquisa alunos | Windows 10 |
-| Funcionários | 1 (sobressalente) | Gestão interna | Windows 10 |
-| Recepção | 4 | Entrada/saída alunos | Windows 10 |
+| **Localização** | **Quantidade** | **Tombamentos** | **Função** | **Sistema** |
+|------------------|----------------|-----------------|------------|-------------|
+| Terminais Pérgamo | 3 (quiosque) | UFRB094226, UFRB094170, UFRB100461 | Catalogar, emprestar, devolver (só exibição) | Sistema Pérgamo |
+| Recepção | 4 | UFRB100450, UFRB100446, UFRB100441, UFRB094114 | Entrada/saída alunos | Windows 10 |
+| Sala de Estudos | 2 | UFRB100452, UFRB094128 | Pesquisa alunos | Windows 10 |
+| Sala Processo Técnico | 1 | UFRB094109 | Gestão interna | Windows 10 |
+| Sala Recuada | 1 | UFRB100444 | Apoio administrativo | Windows 10 |
+| Uso Exclusivo | 1 | UFRB100544 | Necessidades especiais | Windows 10 |
 
-**Pendência:** Instalar SSH remoto para gerenciamento terminais quiosque (acesso via TI)
+**Periféricos Padrão (todos os 12 PCs):**
+- Webcam (cadastro alunos + conferências)
+- Mini teclado numérico (digitação senhas rápida)
+- Leitor de código de barras (controle acervo)
+- Adaptadores Wi-Fi
 
-### 🖨️ Infraestrutura de Impressão
-- **Impressoras:** 2 unidades (1 recepção + 1 funcionário sala separada)
-- **Status:** ⏳ Verificar funcionamento
-- **Urgência TI:** 🟡 Média
+### 🖨️ Infraestrutura de Impressão (Catalogado 05/11/2025)
+
+| **Impressora** | **IP** | **Função** | **Localização** |
+|----------------|--------|------------|-----------------|
+| Samsung ML3750 | 172.17.5.110 | Mais adequada uso geral | Próxima recepção |
+| ITEC | 172.17.9.102 | Principal da biblioteca | Setor administrativo |
+
+**Observação:** Terminais Pérgamo (quiosque) **NÃO** imprimem - apenas exibem localização de livros (estantes/cabines)
 
 ### 📚 Sistema Pérgamo
-- **Funções:** Catalogar acervo, empréstimo/devolução, multas, reservas online
+- **Funções:** Catalogar acervo, empréstimo/devolução, multas, reservas online, mapeamento estantes
+- **Modo Quiosque:** 3 terminais só exibição (sem impressão, sem edição)
 - **Observação:** Gerenciamento de conteúdo externo (TI só garante terminais ligados e acessíveis)
 
 ### 🔌 Infraestrutura de Rede
 - **Rede Cabeada:** PCs fixos
-- **Wi-Fi:** Access point próximo à recepção
-- **Status:** ⏳ Verificar cobertura completa
+- **Wi-Fi:** Adaptadores em todos os PCs + Access point próximo à recepção
+- **Status:** ✅ Cobertura completa verificada (05/11/2025)
+
+### 📊 Resumo
+- **Total Computadores:** 12 Dell Optiplex 7010
+- **Total Impressoras:** 2 (Samsung ML3750 + ITEC)
+- **Status:** ✅ Catalogação completa (05/11/2025)
+- **Urgência TI:** 🟢 Baixa (sistema estável)
 
 ---
 
@@ -588,7 +605,7 @@ Centro de comando administrativo: **Sala Técnica de TI** + **4 salas de direç�
 9. **LAB 06 (Pavilhão Labs 1)** - Criar imagem FOG padrão + padronizar UFRB094116 + migrar HDD→SSD
 10. **Sala 208 (Pavilhão Aulas 2)** - Cabo HDMI frouxo → gancho/suporte
 11. **Lab Agroecologia (Pavilhão Labs 2)** - HP tinta → trocar por toner
-12. **Biblioteca** - SSH remoto terminais Pérgamo + verificar impressoras
+12. **NukeTESP (Pavilhão Labs 1)** - Coletar tombamento desktop + configurar IP fixo
 
 ### 🟢 Urgência MÉDIA (Resolver em 14-30 dias)
 
