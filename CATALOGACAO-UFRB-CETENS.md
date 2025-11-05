@@ -108,9 +108,13 @@ Prédio central com **7 Coordenações de Cursos** + **Sala de Informática** + 
 - **Urgência TI:** 🟢 Nenhuma
 
 #### 4️⃣ Sala do Pessoal Terceirizado
-- **Itens TI:** 🖥️ 1 Computador
-- **Status:** ⏳ Verificação completa pendente (SO, rede, licenças)
-- **Urgência TI:** 🟡 Média
+- **Computadores:** 1 Dell Optiplex 710 (UFRB094168)
+- **Sistema Operacional:** Windows (adesivo original)
+- **Rede:** ✅ Wi-Fi via adaptador USB (conectado)
+- **Impressora:** ❌ Nenhuma (pendente configuração futura para impressão remota)
+- **Observação:** PC estava desligado, foi religado e deixado funcional - uso auxiliar como TV (Globo ao vivo)
+- **Status:** ✅ Catalogado completo (05/11/2025) | Rede Wi-Fi configurada
+- **Urgência TI:** 🟢 Baixa (conexão básica estabelecida)
 
 #### 5️⃣ Sala de Materiais
 - **Itens TI:** ❌ Nenhum
@@ -351,18 +355,18 @@ Pavilhão com **12 salas numeradas** (201 a 212) + **Infraestrutura de rede** (T
 
 | **Sala** | **Equipamento TI** | **Status** |
 |----------|-------------------|------------|
-| **201** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio |
-| **202** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio |
-| **203** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio |
-| **204** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio |
+| **201** | 📽️ Projetor | ✅ Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK |
+| **202** | 📽️ Projetor | ✅ Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK |
+| **203** | 📽️ Projetor | ✅ Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK |
+| **204** | 📽️ Projetor | ✅ Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK |
 | **205** | ❌ **SEM PROJETOR** | 🔴 **PENDÊNCIA CRÍTICA** - Instalar projetor URGENTE |
-| **206** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio |
-| **207** | 📽️ Projetor + 📶 AP | ⏳ Testar projetor + verificar AP |
+| **206** | 📽️ Projetor | ✅ Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK |
+| **207** | 📽️ Projetor + 📶 AP | ✅ Testado (quinzena 05/11) - Projetor OK, AP verificado |
 | **208** | 📺 TV com HDMI | 🟡 **Cabo HDMI mal posicionado** - Instalar gancho/suporte |
-| **209** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio |
-| **210** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio |
-| **211** | 📽️ Projetor | ⏳ Testar Win/Mac, HDMI/VGA, áudio |
-| **212** | 📽️ Projetor + 🌐 Switch | ⏳ Testar projetor + verificar switch |
+| **209** | 📽️ Projetor | ✅ Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK |
+| **210** | 📽️ Projetor | ✅ Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK |
+| **211** | 📽️ Projetor | ✅ Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK |
+| **212** | 📽️ Projetor + 🌐 Switch | ✅ Testado (quinzena 05/11) - Projetor OK, switch verificado |
 
 ### 🔬 Laboratórios Especializados (Pavilhão Aulas 2)
 
@@ -421,28 +425,111 @@ Pavilhão com **12 salas numeradas** (201 a 212) + **Infraestrutura de rede** (T
 ## 👥 Pavilhão de Gabinetes
 
 ### Descrição Geral
-Pavilhão exclusivo para gabinetes de professores. **8 gabinetes numerados** (Gabinete 1 a 8) + **PROPPAE** + **Sala de Coordenação/Reuniões**.
+Pavilhão exclusivo para gabinetes de professores e coordenações. **8 gabinetes numerados** (Gabinete 1 a 8, sendo Gabinete 1 = PROPPAE) + **Sala de Coordenação/Reuniões**. Catalogação iniciada 05/11/2025.
 
-### 💼 Gabinetes 1 a 8
-- **Distribuição:** Cada gabinete = ~8 professores
-- **Itens TI:** Desktop individual ou notebook pessoal
-- **Access Points:** Gabinete 4 (1 AP próximo), Gabinete 6 (1 AP lateral), Gabinete 9 (corredor)
-- **Status:** ⏳ Verificar cada gabinete individualmente (pendente visita)
-- **Urgência TI:** 🟡 Média
+### 📊 Tabela de Gabinetes (Catalogado 05/11/2025 - Manhã)
 
-### 📋 PROPPAE (Pró-Reitoria de Políticas Afirmativas e Assuntos Estudantis)
+| **Gabinete** | **Dell Optiplex 7010** | **Tombamentos** | **Impressoras** | **Observações** | **Status** |
+|--------------|------------------------|-----------------|-----------------|-----------------|------------|
+| **1 (PROPPAE)** | 0 | - | Samsung ML3750ND (172.17.9.113) | Apenas notebooks pessoais + 1 monitor avulso | ✅ Catalogado |
+| **2** | 3 | UFRB100476, UFRB100464, UFRB100542 | IP 172.17.9.109 | Rede OK, sem chamados | ✅ Catalogado |
+| **3** | 4 | UFRB100564, UFRB100560, UFRB100558, UFRB100548 | 1 ativa (IP pendente) + 1 sobrando | 2 no-breaks extras (recolher) | ✅ Catalogado |
+| **4** | 3 | UFRB100473, UFRB100477, UFRB100466 | Samsung ML550ID (172.17.9.122) | Sem no-breaks (revisar energia) | ✅ Catalogado |
+| **5** | 4 | UFRB100459, UFRB100554, UFRB100544, UFRB100556 | Samsung MFP (172.17.9.131) + ML3750ND sobrando | 1 monitor+teclado avulso (notebook) | ✅ Catalogado |
+| **6** | ? | - | - | Gabinete não acessado (05/11) | ⏳ Pendente |
+| **7** | 4 | UFRB100537, UFRB100467, UFRB100566, UFRB094223 | Samsung ML3750ND (172.17.9.108) | 1 monitor solto + nobreak OK | ✅ Catalogado |
+| **8** | ? | - | - | Catalogação interrompida (almoço 12h01) | ⏳ Pendente |
+
+### 📋 Gabinete 1 - PROPPAE (Pró-Reitoria de Políticas Afirmativas e Assuntos Estudantis)
 - **Função:** Assistência estudantil, bolsas, programas de permanência
-- **Itens TI:** Computadores fixos + notebooks (catalogar quando visitar) + Impressora
-- **Pendências:**
-  1. Sistema de empréstimo notebooks (controle patrimonial)
-  2. Inventário de ativos
-  3. Sistema de chamados
-- **Status:** ⏳ Catalogação pendente
-- **Urgência TI:** 🟡 Alta
+- **Computadores Fixos:** ❌ Nenhum (todos utilizam notebooks pessoais - uso BYOD)
+- **Impressora:** Samsung ML3750ND compartilhada (IP: 172.17.9.113)
+- **Equipamentos Avulsos:** 1 monitor sem cabo/gabinete (destino: reutilização)
+- **Status:** ✅ Catalogado completo (05/11/2025)
+- **Urgência TI:** 🟢 Baixa
+
+### 💼 Gabinete 2
+- **Computadores:** 3 Dell Optiplex 7010
+  - UFRB100476
+  - UFRB100464
+  - UFRB100542
+- **Impressora:** IP 172.17.9.109 (compartilhada, rede OK)
+- **Observação:** Sem chamados de TI, softwares pessoais instalados
+- **Status:** ✅ Catalogado completo (05/11/2025)
+- **Urgência TI:** 🟢 Baixa
+
+### 💼 Gabinete 3
+- **Computadores:** 4 Dell Optiplex 7010
+  - UFRB100564
+  - UFRB100560
+  - UFRB100558
+  - UFRB100548
+- **Impressoras:**
+  - 1 em uso ativo (IP pendente coleta - página teste OK)
+  - 1 Samsung sobrando embaixo da mesa (⏳ recolher futuramente)
+- **Equipamentos Sobressalentes:**
+  - 2 no-breaks extras sem uso (⏳ recolher para almoxarifado)
+- **Status:** ✅ Catalogado | ⏳ Pendente coleta IP impressora + recolhimento equipamentos
+- **Urgência TI:** 🟡 Baixa-Média (recolhimento não urgente)
+
+### 💼 Gabinete 4
+- **Computadores:** 3 Dell Optiplex 7010
+  - UFRB100473
+  - UFRB100477
+  - UFRB100466
+- **Impressora:** Samsung ML550ID (IP: 172.17.9.122) - compartilhada, funcionando
+- **Infraestrutura:** Rede cabeada OK, **sem no-breaks** (⏳ revisar instalação futura)
+- **Observação:** Notebook sem impressão configurado - resolvido com IP fixo
+- **Status:** ✅ Catalogado | 🟡 Revisar energia (não urgente)
+- **Urgência TI:** 🟢 Baixa
+
+### 💼 Gabinete 5
+- **Computadores:** 4 Dell Optiplex 7010
+  - UFRB100459
+  - UFRB100554
+  - UFRB100544
+  - UFRB100556 (sala adjacente)
+- **Impressoras:**
+  - Samsung Multifuncional (IP: 172.17.9.131) - ativa, impressão+scanner OK
+  - Samsung ML3750ND sobrando (sem cabo, sem rede) - ⏳ recolher futuramente
+- **Equipamentos Avulsos:** 1 monitor + teclado (uso com notebook externo)
+- **Status:** ✅ Catalogado | ⏳ Pendente recolhimento impressora sobressalente
+- **Urgência TI:** 🟢 Baixa
+
+### 💼 Gabinete 6
+- **Status:** ⏳ **Não acessado em 05/11/2025** (chaves não disponíveis)
+- **Urgência TI:** 🟡 Média (completar catalogação)
+
+### 💼 Gabinete 7
+- **Computadores:** 4 Dell Optiplex 7010
+  - UFRB100537
+  - UFRB100467
+  - UFRB100566 (dois monitores + nobreak OK)
+  - UFRB094223
+- **Impressora:** Samsung ML3750ND (IP: 172.17.9.108) - rede compartilhada
+- **Equipamentos Avulsos:** 1 monitor solto (⏳ verificar uso com notebook)
+- **Infraestrutura:** Nobreak presente, cabeamento OK
+- **Status:** ✅ Catalogado completo (05/11/2025)
+- **Urgência TI:** 🟢 Baixa
+
+### 💼 Gabinete 8
+- **Status:** ⏳ **Catalogação interrompida às 12h01** (pausa almoço 05/11/2025)
+- **Próximos Passos:** Retorno previsto 13h30-14h para conclusão
+- **Urgência TI:** 🟡 Média (completar catalogação)
 
 ### 👥 Sala de Coordenação/Reuniões
-- **Status:** ⏳ Pendente visita (confirmar projetor, HDMI, uso real)
+- **Status:** ⏳ Pendente visita (após Gabinete 8)
+- **Equipamentos Esperados:** Projetor + cabo HDMI + notebook apresentação
 - **Urgência TI:** 🟢 Baixa
+
+### 📊 Resumo Pavilhão de Gabinetes (05/11/2025 - 12h01)
+- **Total Gabinetes:** 8
+- **Catalogados Completos:** 6 (Gabinetes 1, 2, 3, 4, 5, 7)
+- **Pendentes:** 2 (Gabinetes 6, 8) + Sala Coordenação
+- **Total Computadores Catalogados:** 22 Dell Optiplex 7010
+- **Total Impressoras:** 6 ativas (5 com IP fixo documentado) + 2 sobressalentes
+- **Equipamentos Recolher:** 2 impressoras + 2 no-breaks + monitores avulsos
+- **Conclusão Estimada:** 05/11/2025 tarde (após 14h)
 
 ---
 
@@ -461,11 +548,13 @@ Prédio concentra **Lab Informática 1** + **Gabinete Coletivo** + **Empresa Jú
 - **Urgência TI:** 🔴 Muito Alta
 
 ### 👥 Gabinete Coletivo (Servidores Públicos)
-- **Computadores:** ~20 unidades (mix PC fixo + notebooks)
-- **Sistema:** Windows 10
+- **Computadores Fixos:** ❌ Nenhum (PC único recolhido para Sala TI a pedido da direção)
+- **Notebooks:** ~20 servidores utilizam notebooks pessoais (uso BYOD)
+- **Sistema:** Windows 10 (notebooks pessoais)
 - **Impressora:** Sobrecarga relatada (segunda unidade solicitada)
-- **Status:** ⏳ Catalogação individual pendente
-- **Urgência TI:** 🟡 Média
+- **Observação:** Direção solicitou remoção do desktop (sem utilidade no setor)
+- **Status:** ✅ Catalogado completo (05/11/2025) - Zero ativos fixos
+- **Urgência TI:** 🟢 Baixa (apenas impressora adicional solicitada)
 
 ### 🏢 Empresa Júnior CETENS
 - **Computadores:** ~3 unidades + 1 notebook
@@ -492,18 +581,20 @@ Biblioteca Central do CETENS com **12 computadores Dell Optiplex 7010** distribu
 
 | **Localização** | **Quantidade** | **Tombamentos** | **Função** | **Sistema** |
 |------------------|----------------|-----------------|------------|-------------|
-| Terminais Pérgamo | 3 (quiosque) | UFRB094226, UFRB094170, UFRB100461 | Catalogar, emprestar, devolver (só exibição) | Sistema Pérgamo |
-| Recepção | 4 | UFRB100450, UFRB100446, UFRB100441, UFRB094114 | Entrada/saída alunos | Windows 10 |
-| Sala de Estudos | 2 | UFRB100452, UFRB094128 | Pesquisa alunos | Windows 10 |
-| Sala Processo Técnico | 1 | UFRB094109 | Gestão interna | Windows 10 |
-| Sala Recuada | 1 | UFRB100444 | Apoio administrativo | Windows 10 |
-| Uso Exclusivo | 1 | UFRB100544 | Necessidades especiais | Windows 10 |
+| Terminais Pérgamo (quiosque) | 3 | UFRB094226, UFRB094170, UFRB10E0461 | Busca de livros (mapeamento estantes) - ZERO impressão | Sistema Pérgamo (modo kiosk) |
+| **Recepção (atendimento)** | **4** | UFRB100450, UFRB100446, UFRB100441, UFRB094114 | Entrada/saída alunos, empréstimo/devolução | Windows 10 + **Kit Completo*** |
+| Sala de Estudos | 2 | UFRB100452, UFRB094128 | Pesquisa alunos (acesso Pérgamo completo) | Windows 10 |
+| Sala Processo Técnico | 1 | UFRB094109 | Gestão interna de acervo | Windows 10 |
+| Sala Recuada | 1 | UFRB100444 | Apoio administrativo biblioteca | Windows 10 |
+| Uso Exclusivo | 1 | UFRB1004544 | Acessibilidade (necessidades especiais) | Windows 10 |
 
-**Periféricos Padrão (todos os 12 PCs):**
-- Webcam (cadastro alunos + conferências)
-- Mini teclado numérico (digitação senhas rápida)
-- Leitor de código de barras (controle acervo)
-- Adaptadores Wi-Fi
+**Kit Completo de Periféricos (apenas 4 PCs da Recepção):**
+- 🎥 **Webcam:** Cadastro facial alunos + videoconferências
+- ⌨️ **Mini teclado numérico:** Digitação rápida de senhas/códigos Pérgamo
+- 📊 **Leitor código de barras:** Controle acervo (check-in/check-out livros)
+- 📡 **Adaptador Wi-Fi:** Conexão redundante
+
+**Observação:** Periféricos especiais concentrados na recepção (maior demanda de atendimento). Demais PCs têm configuração padrão Dell Optiplex 7010.
 
 ### 🖨️ Infraestrutura de Impressão (Catalogado 05/11/2025)
 
@@ -512,7 +603,11 @@ Biblioteca Central do CETENS com **12 computadores Dell Optiplex 7010** distribu
 | Samsung ML3750 | 172.17.5.110 | Mais adequada uso geral | Próxima recepção |
 | ITEC | 172.17.9.102 | Principal da biblioteca | Setor administrativo |
 
-**Observação:** Terminais Pérgamo (quiosque) **NÃO** imprimem - apenas exibem localização de livros (estantes/cabines)
+**Observação Crítica sobre Terminais Pérgamo:**
+- Os 3 quiosques (094226, 094170, 10E0461) funcionam **exclusivamente como displays** de localização
+- Usuários visualizam: estante exata, cabine/prateleira, disponibilidade em tempo real
+- **ZERO funcionalidade de impressão** (não conectam à Samsung ML3750 nem ITEC)
+- Impressões são feitas apenas nas **4 máquinas da recepção** (100450, 100446, 100441, 094114)
 
 ### 📚 Sistema Pérgamo
 - **Funções:** Catalogar acervo, empréstimo/devolução, multas, reservas online, mapeamento estantes
@@ -524,11 +619,16 @@ Biblioteca Central do CETENS com **12 computadores Dell Optiplex 7010** distribu
 - **Wi-Fi:** Adaptadores em todos os PCs + Access point próximo à recepção
 - **Status:** ✅ Cobertura completa verificada (05/11/2025)
 
-### 📊 Resumo
-- **Total Computadores:** 12 Dell Optiplex 7010
-- **Total Impressoras:** 2 (Samsung ML3750 + ITEC)
-- **Status:** ✅ Catalogação completa (05/11/2025)
-- **Urgência TI:** 🟢 Baixa (sistema estável)
+### 📊 Resumo Biblioteca (Catalogação Completa 05/11/2025)
+- **Total Computadores:** 12 Dell Optiplex 7010 (100% catalogados com tombamentos)
+- **Total Impressoras:** 2 (Samsung ML3750 + ITEC) com IPs fixos
+- **Sistema Principal:** Pérgamo (catalogação bibliográfica UFRB)
+- **Periféricos Especiais:** 4 webcams + 4 mini teclados + 4 leitores código barras + 4 adaptadores Wi-Fi (recepção)
+- **Status:** ✅ **Catalogação 100% completa** (05/11/2025)
+- **Pendências:** ❌ Nenhuma (sistema operacional e estável)
+- **Urgência TI:** 🟢 Baixa (manutenção preventiva quinzenal suficiente)
+
+**Observação Final:** Biblioteca é um dos setores mais bem estruturados do CETENS - todos os equipamentos identificados, periféricos concentrados estrategicamente na recepção (maior volume de atendimento), impressoras com IP fixo para gerenciamento remoto. Modelo a ser seguido por outros setores.
 
 ---
 

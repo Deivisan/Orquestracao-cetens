@@ -1,0 +1,76 @@
+Entrar
+Criar conta
+
+ Ah, vou continuar a catalogação que eu tava fazendo ontem.
+
+Beleza, pode continuar. Se precisar de ajuda com nomes, datas ou organizar as pastas, é só falar.
+
+ grave no seu contexto, biblioteca Setens, é, tem duas empresárias aqui que seriam Samsung e ML3750.
+
+Beleza, anotei aqui no contexto: na biblioteca Setens, as duas empresárias são Samsung e ML3750. Alguma outra info pra adicionar?
+
+ especificamente seria 172.17.5.110, que seria a impressora mais adequada. E tem o ITEC também, 172.17.9.102, que seria a impressora principal da biblioteca.
+
+Certo, peguei: 172 point 17 dot 5 dot 110 é a impressora Samsung, ML3750 – mais adequada pra Setens. E 172 point 17 dot 9 dot 102 é o ITEC, impressora principal da biblioteca. Quer que eu liste isso depois ou já tá bom assim?
+
+ Aqui todas as computadoras vão ser a Dell Optiplex 7010. Vai ter aqui os três que são do terminal Pergamos, que seria basicamente o sistema de quiosque que a gente tem aqui pros alunos. Os tombamentos dos três computadores seriam, no caso, seis números lógicos, seguidos do nome UFRB. No caso, seria o próprio UFRB e o nome do tombamento seria também o próprio nome do próprio computador que tá salvo no domínio. Os tombamentos são 094226, 094170, 10E0461.
+
+Entendi: na biblioteca Setens, todas as máquinas são Dell Optiplex 7010. Os três do terminal Pergamos - aquele quiosque pros alunos - têm tombamento assim: zero nine four two two six U-F-R-B, zero nine four one seven zero U-F-R-B, e dez E zero quatro seis um U-F-R-B. E cada um leva o mesmo nome do domínio. Quer que eu repita pra confirmar, ou já gravo direto?
+
+ Tá. Tem um computador aqui de uso exclusivo, provavelmente pra alguém que tem necessidades especiais, que é basicamente o número do tombamento é 1004544.
+
+Beleza, anotei: Dell Optiplex 7010, tombamento um milhão e quatro mil quinhentos e quarenta e quatro - uso exclusivo, talvez pra necessidades especiais. Quer adicionar mais detalhes sobre esse ou pros outros?
+
+ Tá. Tem outro computador aqui que é o 094109. Ele fica numa sala aqui que é o processo técnico.
+
+Certo, 094109, Dell Optiplex 7010 também - localizado na sala de processo técnico. Quer que eu organize tudo numa lista depois, tipo com nomes, IPs e tombamentos?
+
+ Vai ser atualizado, então vai ser adaptado, vai ser atualizado todas essas informações pra os próximos computadores, né?
+
+Exato, tudo que a gente tá falando agora vai servir de base - Samsung impressora, ITEC principal, Dell Optiplex 7010 em todas, os quiosques com Pergamos... tudo isso vai ser o modelo pros próximos. Quando aparecer novo
+
+ Vai ser adaptado pro modelo atualizado na planilha já pré-existente.
+
+Certo, adapto pro modelo da planilha
+
+ Vai ser adaptado pra poder atualizar a planilha já 3 existentes. Considere também o tombamento do computador que fica numa sala recuada da biblioteca, que é o 100444.
+
+Ah, certo - então o 100444, Dell Optiplex 7010, fica na sala recuada. Já adianto que quando você atualizar a planilha, posso te passar tudo rapidinho: impressoras com IPs, tombamentos, nomes, setores. Só pedir.
+
+ Considere também o tombamento de mais dois computadores que ficam na sala de aula de estudos da biblioteca, que é o 100452 e também aqui vai ser 094128.
+
+Beleza, anotei: sala de estudos tem dois Optiplex 7010 - 100452 e zero nine four one two eight. Tá ficando bem organizada essa lista, hein. Precisa de mais alguma localização ou já dá pra montar o relatório?
+
+ Na parte da recepção fica quatro computadores, os tombamentos deles também são da marca Dell, que seria o 100450.
+
+Tá bom, recepção: quatro Optiplex 7010, todos com tombamento um milhão e quatrocentas e cinquenta. Tá parecendo um exército de Dell aqui, hein. Quer que eu resuma tudo agora ou continua?
+
+ 100446.
+
+E mais um - recepção tem ainda o 100446. Tá tudo anotado, Deivison. Se quiser, eu monto uma tabela falada: nome, IP, tombamento, setor.
+
+ 100441. E o tombamento da outra máquina que vai ser 094114. Todas elas têm um número aqui específico e todas elas vão ter câmeras, vão ter outros equipamentos também que possam ou não haver e dar problema futuramente. Não coloque como se fosse uma pendência, até você tá verificando eles. Vai ter os adaptadores Wi-Fi, vai ter um mini tecladozinho e um leitor de scanner de código de barra.
+
+Perfeito - recepção completa então: 100450, 100446, 100441 e 094114. Todas Dells, com Wi-Fi adaptador, mini teclado, leitor de código de barra e câmeras no pacote. Nada pendente, só itens que podem precisar manutenção um dia. Quer que eu grave isso direto como kit padrão pra cada estação?
+
+ Biblioteca, se atendido pela própria recepção, ao lado deles eles têm uma impressora e do lado também da própria impressora vai ter três computadores. Eles não imprimem diretamente nessa impressora e não é pra ser assim. Esses três computadores servem de quiosque. Eles funcionam apenas pra ser uma tela de exibição pro Pergamos.
+
+Certo - na recepção, a impressora tá ali só pra quem precisa, mas os três quiosques, 100450, 100446 e 100441, não usam ela. Ficam do
+
+ ... de compêndios de livros e informações, como se fosse um mapeamento de toda a biblioteca onde as pessoas poderem estar encontrando o livro exato na vitrine, na cabine exata. Na estante, na verdade.
+
+...exato - esses três quiosques são só pra mostrar onde cada exemplar tá, tipo um mapa vivo: estante, cabine, tudo. Não imprimem, não mexem fora disso. Se a galera da recepção quiser imprimir, usa a própria impressora ali do lado. Quer que eu separe eles como modo kiosk na lista?
+
+ ...
+
+...própria impressora. Os quiosques ficam ali do lado, funcionando só pra exibição do Pergamos, mostrando onde cada livro tá. Tipo um GPS da biblioteca. Imagina só - chega alguém procurando edição rara, e o aluno já vê: terceiro andar, estante azul, terceiro prateleiro. Nada de impressão, nada de confusão.
+
+ Entendo a importância das impressoras, entendo é que basicamente eu quero que elas funcionem, quero que estejam ok, quero que estejam, enfim, sempre no funcionamento. Então, entenda até o posicionamento do que eu falei de cada coisa pra poder estar de uma forma lógica e pensada. Por exemplo, eu quero saber, eu quero ter tipo uma planilha com um número de informação, informando o número de cada impressora, sua localização e seus IPs pra poder remotamente, então à distância, eu poder estar gerenciando cada uma dessas impressoras.
+
+Entendi perfeitamente - você quer tudo lógico, com foco nas impressoras sempre rodando liso, e uma planilha pra gerenciar remotamente por IP, localização, tombamento. Montei uma aqui rapidinho, baseada no que a gente catalogou. É simples, mas cobre o essencial. Se quiser exportar pro Excel ou ajustar, só fala. Localização | Tipo | Tombamento | IP | Observações | | | | Biblioteca Setens - Principal | Impressora ITEC | N/A | 172 point 17
+
+ Você vai fazer essa montagem. Em específico, eu terminei a catalogação da biblioteca. Lá são esses itens, no caso. Eu tô até me atentando nos computadores que eu falei, os equipamentos periféricos, porque especificamente lá é onde eu colocava em que eles têm essa obrigatoriedade de ter um tecladozinho a mais só pra numeração. Então, alguma senha, algo que o próprio aluno tem que digitar. Uma câmera webcam, porque eles fazem diversas conferências às vezes. Enfim, é isso. E também pra estar registrando o rosto dos alunos, caso vá fazer algum tipo de cadastro.
+
+Tá, então fechando a biblioteca Setens: todos os Dells têm o mesmo kit - webcam pra cadastro e conferências, mini teclado numérico pra senha rápida, e leitor de código de barra pra controle. Nada opcional, tudo padrão. E os IPs das impressoras vão na planilha assim: Samsung-ML3750 em 172 dot 17 dot 5 dot 110, ITEC principal em 172 dot 17 dot 9 dot 102. Quando eu montar, coloco coluna de necessário: sim/não pra cada periférico - já fica pronto pra manutenção. Quer que eu leia ela agora ou mando depois?
+
+Entre para continuar a conversa
