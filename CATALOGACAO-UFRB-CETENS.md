@@ -442,9 +442,9 @@ Pavilhão com **12 salas numeradas** (201 a 212) + **Infraestrutura de rede** (T
 ## 👥 Pavilhão de Gabinetes
 
 ### Descrição Geral
-Pavilhão exclusivo para gabinetes de professores e coordenações. **8 gabinetes numerados** (Gabinete 1 a 8, sendo Gabinete 1 = PROPPAE) + **Sala de Coordenação/Reuniões**. Catalogação iniciada 05/11/2025.
+Pavilhão exclusivo para gabinetes de professores e coordenações. **8 gabinetes numerados** (Gabinete 1 a 8, sendo Gabinete 1 = PROPPAE) + **Sala de Coordenação/Reuniões**. Catalogação completa 05/11/2025.
 
-### 📊 Tabela de Gabinetes (Catalogado 05/11/2025 - Manhã)
+### 📊 Tabela de Gabinetes (Catalogado 05/11/2025)
 
 | **Gabinete** | **Dell Optiplex 7010** | **Tombamentos** | **Impressoras** | **Observações** | **Status** |
 |--------------|------------------------|-----------------|-----------------|-----------------|------------|
@@ -455,7 +455,7 @@ Pavilhão exclusivo para gabinetes de professores e coordenações. **8 gabinete
 | **5** | 4 | UFRB100459, UFRB100554, UFRB100544, UFRB100556 | Samsung MFP (172.17.9.131) + ML3750ND sobrando | 1 monitor+teclado avulso (notebook) | ✅ Catalogado |
 | **6** | ? | - | - | Gabinete não acessado (05/11) | ⏳ Pendente |
 | **7** | 4 | UFRB100537, UFRB100467, UFRB100566, UFRB094223 | Samsung ML3750ND (172.17.9.108) | 1 monitor solto + nobreak OK | ✅ Catalogado |
-| **8** | ? | - | - | Catalogação interrompida (almoço 12h01) | ⏳ Pendente |
+| **8** | 3 | UFRB100559, UFRB100539, UFRB085829 | IP 172.17.9.107 | Catalogado tarde 05/11 | ✅ Catalogado |
 
 ### 📋 Gabinete 1 - PROPPAE (Pró-Reitoria de Políticas Afirmativas e Assuntos Estudantis)
 - **Função:** Assistência estudantil, bolsas, programas de permanência
@@ -530,23 +530,28 @@ Pavilhão exclusivo para gabinetes de professores e coordenações. **8 gabinete
 - **Urgência TI:** 🟢 Baixa
 
 ### 💼 Gabinete 8
-- **Status:** ⏳ **Catalogação interrompida às 12h01** (pausa almoço 05/11/2025)
-- **Próximos Passos:** Retorno previsto 13h30-14h para conclusão
-- **Urgência TI:** 🟡 Média (completar catalogação)
+- **Computadores:** 3 Dell Optiplex 7010
+  - UFRB100559
+  - UFRB100539
+  - UFRB085829
+- **Impressora:** IP 172.17.9.107 (compartilhada)
+- **Observação:** Catalogação concluída 05/11/2025 tarde
+- **Status:** ✅ Catalogado completo (05/11/2025)
+- **Urgência TI:** 🟢 Baixa
 
 ### 👥 Sala de Coordenação/Reuniões
 - **Status:** ⏳ Pendente visita (após Gabinete 8)
 - **Equipamentos Esperados:** Projetor + cabo HDMI + notebook apresentação
 - **Urgência TI:** 🟢 Baixa
 
-### 📊 Resumo Pavilhão de Gabinetes (05/11/2025 - 12h01)
+### 📊 Resumo Pavilhão de Gabinetes (05/11/2025)
 - **Total Gabinetes:** 8
-- **Catalogados Completos:** 6 (Gabinetes 1, 2, 3, 4, 5, 7)
-- **Pendentes:** 2 (Gabinetes 6, 8) + Sala Coordenação
-- **Total Computadores Catalogados:** 22 Dell Optiplex 7010
-- **Total Impressoras:** 6 ativas (5 com IP fixo documentado) + 2 sobressalentes
+- **Catalogados Completos:** 7 (Gabinetes 1, 2, 3, 4, 5, 7, 8)
+- **Pendentes:** 1 (Gabinete 6 - chaves indisponíveis)
+- **Total Computadores Catalogados:** 25 Dell Optiplex 7010
+- **Total Impressoras:** 7 ativas (6 com IP fixo documentado) + 2 sobressalentes
 - **Equipamentos Recolher:** 2 impressoras + 2 no-breaks + monitores avulsos
-- **Conclusão Estimada:** 05/11/2025 tarde (após 14h)
+- **Conclusão:** 87.5% completo (7/8 gabinetes)
 
 ---
 
