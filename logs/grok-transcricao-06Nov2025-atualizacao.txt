@@ -1,0 +1,839 @@
+Entrar
+Criar conta
+
+Transcreva tudo aqui, linha a linha. iremos iterar
+
+Anexo oculto
+Pensou por 4s
+­ƒÅø´©Å CATALOGA├ç├âO TI - UFRB CETENS (FEIRA DE SANTANA)
+
+Autor: Deivison Santana (DevSan)
+Data In├¡cio: 30 de outubro de 2025
+├Ültima Atualiza├º├úo: 05 de novembro de 2025
+Status: ­ƒöä Em atualiza├º├úo cont├¡nua
+Institui├º├úo: Universidade Federal do Rec├┤ncavo da Bahia - Centro de Ci├¬ncia e Tecnologia em Energia e Sustentabilidade
+
+­ƒôï ├ìndice
+Vis├úo Geral
+­ƒÅó Pr├®dio Multiuso
+­ƒÅ½ Pavilh├úo de Laborat├│rios 1
+­ƒö¼ Pavilh├úo de Laborat├│rios 2
+­ƒÄô Pavilh├úo de Aulas 1
+­ƒôÜ Pavilh├úo de Aulas 2
+­ƒæÑ Pavilh├úo de Gabinetes
+­ƒÅø´©Å Pr├®dio Administrativo
+­ƒôû Biblioteca
+­ƒÅó Diretoria
+­ƒÜ¬ Outros Setores
+­ƒÜ¿ Pend├¬ncias Cr├¡ticas
+­ƒÄ» Vis├úo Geral
+Objetivo da Cataloga├º├úo
+
+Mapear todos os setores e itens de inform├ítica do UFRB CETENS para:
+
+Ô£à Invent├írio completo de equipamentos (PCs, projetores, switches, TVs)
+Ô£à Verifica├º├úo de funcionamento (testes Win/Mac, rede, ├íudio)
+Ô£à Identifica├º├úo de pend├¬ncias (equipamentos ausentes, defeituosos, mal posicionados)
+Ô£à Base para sistema de chamados (painel TI departamental futuro)
+Ô£à Planejamento de manuten├º├úo (rotinas semanais/mensais)
+Padr├úo de Software UFRB (Universal - Todos os Computadores)
+
+Obrigat├│rio em TODAS as m├íquinas do campus:
+
+LibreOffice 7.6+
+Microsoft Edge, Google Chrome, Mozilla Firefox
+Java 17 ou 21 LTS
+7-Zip
+NVDA (acessibilidade)
+RustDesk (acesso remoto)
+UltraVNC (acesso remoto - experimento em teste)
+
+Observa├º├úo: Softwares espec├¡ficos de cada laborat├│rio s├úo documentados nas se├º├Áes correspondentes.
+
+Contexto Institucional
+
+O CETENS (Centro de Ci├¬ncia e Tecnologia em Energia e Sustentabilidade) ├® um campus da UFRB em Feira de Santana, focado em engenharias, licenciaturas e tecnologias sustent├íveis.
+
+Metodologia de Coleta
+Mapeamento f├¡sico - Caminhada presencial nos setores
+Verifica├º├úo presencial - Entrada em salas dispon├¡veis
+Testes pr├íticos - Conex├úo de notebooks Win/Mac em projetores/TVs
+Documenta├º├úo estruturada - Markdown com contexto t├®cnico
+
+Observa├º├úo sobre infraestrutura de rede:
+
+TI possui 30+ repetidores Wi-Fi em estoque para realocar conforme necessidade
+Cada setor documenta se h├í Access Point pr├│ximo ou cobertura fraca
+Prioridade: Labs com pesquisa > Salas de aula > Administrativo
+­ƒÅó Pr├®dio Multiuso
+Descri├º├úo Geral
+
+Pr├®dio central com 7 Coordena├º├Áes de Cursos + Sala de Inform├ítica + Impressora coletiva Samsung ML (compartilhada por todas as coordena├º├Áes).
+
+­ƒôì Coordena├º├Áes Mapeadas (Sem Impressora Local)
+
+Todas as coordena├º├Áes usam a impressora coletiva Samsung ML localizada no Pr├®dio Multiuso.
+
+Sala	Curso	Itens TI	Status
+Coord. 1	Engenharia de Energias Renov├íveis	­ƒûÑ´©Å 1 PC	Ô£à Verificado
+Coord. 2	Tecnologia em Alimentos	­ƒûÑ´©Å 1 PC	Ô£à Verificado
+Coord. 3	Bacharelado em Engenharia de Materiais	­ƒûÑ´©Å 1 PC	Ô£à Verificado
+Coord. 4	Eng. Tecnologia Assistiva + Lic. Educa├º├úo Especial Inclusiva	­ƒûÑ´©Å 1 PC	Ô£à Verificado (sala compartilhada)
+Coord. 5	Engenharia de Produ├º├úo	­ƒûÑ´©Å 1 PC	Ô£à Verificado
+Coord. 6	Bacharelado Interdisciplinar em Energia e Sustentabilidade	­ƒûÑ´©Å 1 PC	Ô£à Verificado
+Coord. 7	LEDOC - Lic. Educa├º├úo do Campo (Matem├ítica e Ci├¬ncias Naturais)	­ƒûÑ´©Å 1 PC	Ô£à Verificado
+
+Impressora Coletiva: 1 Samsung ML (localiza├º├úo central do pr├®dio, acesso todas as coordena├º├Áes)
+
+­ƒÆ╗ Sala de Inform├ítica
+Localiza├º├úo: Final do corredor
+Status: ÔÅ│ Cataloga├º├úo detalhada pendente (ser├í expandida com upload Markdown patrim├┤nio completo)
+­ƒÅ½ Instala├º├Áes Adjacentes ao Multiuso
+1´©ÅÔâú Sala de Apoio Especializado para Alunos com Defici├¬ncia
+Localiza├º├úo: Pr├│ximo ao Pr├®dio Multiuso (n├úo dentro dele)
+Computadores: 3 Dell Optiplex 7010
+UFRB100449
+UFRB104509
+UFRB094173
+Impressora: 1 Samsung ML (IP: 172.17.9.155)
+Observa├º├úo: Catalogado 05/11/2025 durante visita aos gabinetes
+Status: Ô£à Catalogado completo (05/11/2025)
+Urg├¬ncia TI: ­ƒƒó Baixa
+2´©ÅÔâú Sala de Comunica├º├úo
+Localiza├º├úo: Ao lado do Pr├®dio Multiuso (pr├│ximo Sala Apoio Defici├¬ncia)
+Computadores: ÔØî Nenhum
+Impressora: 1 (modelo n├úo especificado)
+Rede: ÔØî Sem Access Point, sem roteador, sem cabo Ethernet
+Problema: Impressora isolada (sem IP, sem conectividade)
+Pend├¬ncia (05/11/2025): Repetidor Wi-Fi com porta Ethernet para conectar impressora
+Status: Ô£à Catalogado (05/11/2025) | ÔÅ│ Pendente conex├úo impressora
+Urg├¬ncia TI: ­ƒƒí M├®dia
+3´©ÅÔâú Refeit├│rio dos Alunos
+Itens TI: ÔØî Nenhum
+Infraestrutura: Ô£à Diversas tomadas em paredes amplas
+Potencial futuro: ­ƒô║ Instala├º├úo de TV informativa (avisos, calend├írio)
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+4´©ÅÔâú Sala do Pessoal Terceirizado
+Computadores: 1 Dell Optiplex 710 (UFRB094168)
+Sistema Operacional: Windows (adesivo original)
+Rede: Ô£à Wi-Fi via adaptador USB (conectado)
+Impressora: ÔØî Nenhuma (pendente configura├º├úo futura para impress├úo remota)
+Observa├º├úo: PC estava desligado, foi religado e deixado funcional - uso auxiliar como TV (Globo ao vivo)
+Status: Ô£à Catalogado completo (05/11/2025) | Rede Wi-Fi configurada
+Urg├¬ncia TI: ­ƒƒó Baixa (conex├úo b├ísica estabelecida)
+5´©ÅÔâú Sala de Materiais
+Itens TI: ÔØî Nenhum
+Fun├º├úo: Estoque de materiais de limpeza (├ílcool isoprop├¡lico, panos, luvas)
+Observa├º├úo: Suporte log├¡stico para limpeza de equipamentos TI
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+­ƒÅ½ Pavilh├úo de Laborat├│rios 1
+Descri├º├úo Geral
+
+Pavilh├úo com 9 laborat├│rios especializados (LAB 01 a LAB 09) + NUGTESP + Almoxarifado Administrativo. Foco em ci├¬ncias b├ísicas, engenharias e tecnologia assistiva.
+
+­ƒôì Laborat├│rios Mapeados
+­ƒº¬ LAB 01 - Qu├¡mica Geral, Org├ónica e Inorg├ónica
+Computadores: ÔØî Nenhum
+Projetor: Acer (122889)
+Wi-Fi: Ô£à Funcional
+Status: Ô£à Zero TI (lab experimental puro)
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+ÔÜù´©Å LAB 02 - An├ílise F├¡sico-Qu├¡mica
+Computadores: ÔØî Nenhum
+Projetor: Gen├®rico (94719)
+Wi-Fi: Ô£à Funcional
+Status: Ô£à Zero TI (lab experimental puro)
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+ÔÖ┐ LAB 03 - NETA-A (Laborat├│rio de Tecnologia Assistiva)
+Computadores: 3 Dell Optiplex (UFRB100543, UFRB094478, UFRB100481)
+Software: NVDA (padr├úo), Windows Copilot (narrador + IA)
+Equipamentos Especiais: Teclados braille, mouses oculares, headsets vibrat├│rios, display Braille (funcional)
+Impressora: Samsung ML 3750 (093236 - conectada via cabo, pendente rede)
+Status: Ô£à Mouse substitu├¡do (31/10/2025) + Sem reformata├º├úo necess├íria (visita recente completa)
+Pend├¬ncia cr├¡tica: Conectar impressora Samsung na rede (3 PCs compartilhados) - trocar cabo PC para impressora, PCs usam Wi-Fi
+Urg├¬ncia TI: ­ƒƒí M├®dia (equipe local ├® TI tamb├®m)
+ÔÜø´©Å LAB 04 - F├¡sica
+Computadores: 6 Dell Optiplex 7010 (todos com HDD) - Tombamentos: UFRB094468, UFRB094166, UFRB094107, UFRB094115, UFRB094132, UFRB094125
+Projetor: Vivitek (112549)
+Access Point: 1 TP-Link na porta
+Switch: 102310
+Software Obrigat├│rio (Imagem Master):
+Tracker, SciDAVis, RStudio, CidepeLab V6
+Arduino IDE 2.0, PVsol Premium 2019, AutoCAD LT 2000
+MATLAB, Python (NumPy, SciPy, Anaconda), OriginPlot, GeoGebra, Audacity
+Pend├¬ncia: Verificar licen├ºas ativas antes de clonar imagem FOG (evitar perda de chaves)
+Status: Ô£à Todos funcionais com HDD | ÔÅ│ Imagem FOG aguarda valida├º├úo licen├ºas
+Urg├¬ncia TI: ­ƒƒí M├®dia-Alta
+­ƒº¼ LAB 05 - Biologia
+Computadores: ÔØî Nenhum
+Projetor: Acer (2023122890)
+Wi-Fi: Ô£à Funcional
+Status: Ô£à Zero TI (lab experimental puro)
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+ÔÜí LAB 06 - F├¡sica 2
+Computadores: 7 Dell Optiplex 7010 (4GB RAM, HDD)
+Tombamentos: UFRB094471, UFRB094134, UFRB094228, UFRB094116, UFRB094129, UFRB094179, UFRB094169 (projetor)
+Sistemas: Windows 10 (maioria) + 1 Windows 7 (UFRB094279)
+Projetor: Gen├®rico (110491) - Conectado via UFRB094169
+Software Padr├úo (Imagem Master FOG):
+Base Universal: LibreOffice, RustDesk, UltraVNC, Chrome, Firefox, Edge
+F├¡sica Experimental: Tracker, CIDEPLab V6, RStudio
+Engenharia: Arduino IDE, Google Earth, AutoCAD LT 2020, PyCharm (Python)
+Suporte: AMD Catalyst, Autodesk Desktop App, Material Library 2020
+Pend├¬ncias Detectadas (04/11/2025):
+UFRB094116: Sem padr├úo completo (s├│ LibreOffice, RustDesk, navegadores) - Instalar todos os softwares
+UFRB094279: Windows 7 (avaliar migra├º├úo Win 10 ou manter imagem pr├│pria)
+Todos os PCs: Migrar HDD ÔåÆ SSD (4GB RAM + HDD = lentid├úo cr├┤nica)
+Desinstalar: Flash Player, Spotify, Skype, PDF Creator, PhotoPrint, DingBar, Clean
+Status: Ô£à Todos 7 funcionais (nenhum inoperante confirmado) | ÔÅ│ Padroniza├º├úo e upgrade pendentes
+Urg├¬ncia TI: ­ƒƒí M├®dia-Alta (criar imagem FOG + migrar SSD)
+­ƒÆ╗ LAB 07 - Laborat├│rio de Inform├ítica 2
+Quantidade: 20 computadores Ryzen 7 5700G + RX 550 4GB
+Tombamentos: UFRB119860-119875 (20 unidades catalogadas)
+Infraestrutura: Switch 102309, Ar-condicionado Komeco 099969, Projetor 110448
+Status: ­ƒö┤ PEND├èNCIA CR├ìTICA - Criar imagem padr├úo FOG para replica├º├úo
+Software: GCC, Clang, Python, VS Code, IntelliJ, Android Studio, Arduino IDE, RStudio, AutoCAD, FreeCAD, FlexSim, PVSOL, Apache, OBS Studio
+Urg├¬ncia TI: ­ƒö┤ Muito Alta
+­ƒöº LAB 08 - Desenho T├®cnico
+Computadores: ÔØî Nenhum (confirmado visita 04/11/2025)
+Projetor: Gen├®rico (2023122894)
+Status: Ô£à Zero TI confirmado (laborat├│rio experimental puro)
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+­ƒûÑ´©Å LAB 09 - LAPSE (Laborat├│rio de Projetos e Simula├º├úo em Engenharia)
+Esta├º├Áes: 18 totais (16 PCs Positivo funcionais + 2 esta├º├Áes sem gabinete)
+Computadores: 16 Positivo (Core i5 3┬¬ gera├º├úo) + GPU dedicada
+Monitores: 18 (alguns ruins/n├úo funcionais)
+Infraestrutura: 1 Access Point TP-Link
+Software: ANSYS, SolidEdge, CFD, SolidWorks
+Pend├¬ncias:
+2 esta├º├Áes sem gabinete (gabinetes dispon├¡veis na sala TI - transferir)
+Windows 7 em m├║ltiplos PCs (atualizar para Windows 10)
+~5 monitores ruins/mortos (trocar com estoque TI/Admin)
+Status: Ô£à 16 PCs funcionais | ÔÅ│ Padroniza├º├úo pendente
+Urg├¬ncia TI: ­ƒƒí M├®dia-Alta
+­ƒÅó NUGTESP (N├║cleo de Gest├úo T├®cnica e Suporte Pedag├│gico)
+Localiza├º├úo: Pavilh├úo de Laborat├│rios 1 (confirmado 04/11/2025)
+Equipamentos:
+1 Desktop fixo (tombamento pendente)
+Notebooks (equipe t├®cnica)
+1 Impressora Samsung (IP: 172.17.215.203)
+1 Rack (cabeamento backbone)
+1 Access Point TP-Link (porta)
+Infraestrutura: Rede Wi-Fi + cabeada, impress├úo via rede
+Pend├¬ncias:
+Coletar tombamento desktop
+Instalar padr├úo UFRB (LibreOffice, RustDesk, UltraVNC, drivers impressoras)
+Configurar IP fixo desktop no rack
+Status: Ô£à Catalogado | ÔÅ│ Patrim├┤nio desktop pendente
+Urg├¬ncia TI: ­ƒƒí M├®dia
+­ƒôª Almoxarifado Administrativo
+Fun├º├úo: Dep├│sito de equipamentos TI defeituosos
+Itens: Computadores Positivo antigos, monitores queimados, nobreaks com bateria inchada, switches sem cabo SFP
+Status: ÔÅ│ Verificar componentes soltos reutiliz├íveis (RAM, HDs, fontes)
+Urg├¬ncia TI: ­ƒƒó Baixa
+­ƒö¼ Pavilh├úo de Laborat├│rios 2
+Descri├º├úo Geral
+
+Pavilh├úo com 5 laborat├│rios especializados (LAB 101 a LAB 105) + Almoxarifado de Reagentes + Laborat├│rio de Agroecologia. Foco em engenharias avan├ºadas, maker, agronomia e metrologia.
+
+­ƒôì Laborat├│rios Mapeados
+­ƒöº LAB 101 - Maker (Espa├ºo Maker/Fabrica├º├úo Digital)
+Computadores: 1 Dell OptiPlex 7010 (adicional instalado) + 1 Positivo (UFRB3747117)
+Impressoras 3D: 5 unidades (Creality, GTMax)
+Projetor: BenQ (confirmado)
+Software: Cura, Blender, TinkerCAD (Windows apenas)
+Status: Ô£à PC adicional instalado (pend├¬ncia resolvida)
+Urg├¬ncia TI: ­ƒƒó Baixa
+ÔÜÖ´©Å LAB 102 - LAMAV (Laborat├│rio de Manufatura Avan├ºada)
+Computadores: ÔØî Nenhum (s├│ m├íquinas industriais n├úo gerenciadas por TI)
+Status: Ô£à Sem pend├¬ncias TI
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+­ƒö¼ LAB 103 - Engenharia de Superf├¡cie
+Computadores: 2 (1 Dell inoperante, 1 Positivo com SSD funcionando)
+Projetor: Acer (2023122897)
+Software (Positivo funcionando):
+Desenvolvimento: Apache NetBeans, DevC++, Falcon C++ 3.3, Visual Studio Code
+CAD/Design: AutoDesk Fusion, AutoLaser, FreeCAD, LibreCAD
+Database: PostgreSQL
+An├ílise: Python 3.11, R Studio for Windows
+Outros: FitxT, drivers industriais, UltraVNC, pacote Microsoft Office
+Pend├¬ncias (04/11/2025):
+Dell: Recolher para TI (poss├¡vel fonte ou placa-m├úe), trocar gabinete mantendo HD intacto
+Positivo: Coletar tombamento, verificar se precisa padroniza├º├úo adicional
+Status: Ô£à 1 funcional | ­ƒö┤ 1 para reparo urgente
+Urg├¬ncia TI: ­ƒö┤ Alta (Dell cr├¡tico)
+­ƒº¬ LAB Agroecologia/Ci├¬ncias do Solo
+Computadores: 2 Dell (ambos com SSD, funcionando)
+Tombamentos: UFRB100546, UFRB100565
+Impressora: HP Smart Tank 581 (multifuncional tinta - INCOMPAT├ìVEL com estoque TI)
+Software Espec├¡fico:
+Geolocaliza├º├úo: Google Earth Pro, GPS TrackMaker, GPSU 5.51 (GPS Utility)
+Padr├úo: Pacote Microsoft Office, navegadores
+Equipamentos: Estufas, balan├ºas anal├¡ticas, peneiras, amostras de solo
+Observa├º├úo: Uso massivo de programas GPS para mapeamento de campo e coleta de amostras
+Sugest├úo Open Source: Viking, QGIS, LandPKS, Traccar (alternativas livres para GPS)
+Pend├¬ncia: Verificar origem HP Smart Tank 581, se garantia ativa ÔåÆ avaliar troca por toner laser
+Status: Ô£à 2 funcionais | ­ƒƒí Impressora incompat├¡vel estoque
+Urg├¬ncia TI: ­ƒƒí M├®dia
+­ƒÄ« LAB 104 - Espa├ºo Colaborar
+Computadores: 7 ChipNet (UFRB65743, UFRB65758, UFRB65766, UFRB65761, UFRB65732, UFRB65739, UFRB65736)
+Uso: Eventos, atividades extracurriculares, gamifica├º├úo (n├úo gerenciado por TI)
+PlayStation 4: 1 console para atividades gamificadas
+TV: 1 Smart TV 50-60 polegadas
+Access Point: 1 na sala (IP fixo)
+Observa├º├Áes (05/11/2025):
+ÔØî Sem imagem FOG (n├úo aplic├ível - uso aut├┤nomo)
+ÔØî Sem chamados TI autom├íticos (manuten├º├úo sob demanda)
+Ô£à Equipamentos funcionais (verificado)
+Status: Ô£à Catalogado completo (05/11/2025)
+Urg├¬ncia TI: ­ƒƒó Baixa (uso independente)
+­ƒôè LAB 105 - LIMM (Laborat├│rio de Instrumenta├º├úo Mecatr├┤nica e Metrologia)
+Computadores: 6 total (4 Ubuntu alunos + 2 adicionais)
+Tombamentos Alunos Ubuntu: UFRB094118, UFRB094187, UFRB094182, UFRB094123
+Tombamentos Adicionais: UFRB100465, UFRB100551
+Sistema Operacional: Ubuntu 20.04 LTS (todos os 6)
+Projetor: BenQ (110485)
+Software Instalado: Arduino IDE, Visual Studio Code
+Projeto Especial: Carapreta (TV Boxes apreendidas convertidas em minicomputadores educacionais - CETENS/UFRB)
+Observa├º├Áes T├®cnicas:
+Monitor da 4┬¬ bancada: compat├¡vel VGA ou Serial (cabo pendente verifica├º├úo)
+Sugest├Áes Software Adicional: Proteus, Tinkercad, Gazebo, OpenSCAD, Cura/PrusaSlicer (mecatr├┤nica)
+Pend├¬ncias (04/11/2025):
+­ƒö┤ CR├ìTICO: Atualizar Ubuntu 20.04 ÔåÆ 24.04 LTS (vers├úo 20 depreciada)
+Verificar necessidades software com professor (Arduino web, utilit├írios TI)
+Avaliar cabo monitor 4┬¬ bancada
+Status: Ô£à 6 funcionais Ubuntu 20.04 | ­ƒö┤ Atualiza├º├úo LTS urgente
+Urg├¬ncia TI: ­ƒö┤ Muito Alta
+­ƒº¬ Almoxarifado de Reagentes
+Itens TI: ÔØî Nenhum
+Status: Ô£à Setor OK, sem pend├¬ncias TI
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+­ƒÄô Pavilh├úo de Aulas 1
+Descri├º├úo Geral
+
+Pavilh├úo com 4 salas de aula (101 a 104). Uso predominante: aulas te├│ricas.
+
+­ƒöî Infraestrutura de Rede
+Access Point TP-Link: Pr├│ximo ├á Sala 102 (cobre todo o pavilh├úo)
+­ƒôè Tabela de Salas
+Sala	Equipamento TI	Status
+101	­ƒô¢´©Å Projetor funcional	Ô£à Catalogado - Testes quinzenais
+102	­ƒô¢´©Å Projetor funcional	Ô£à Catalogado - Testes quinzenais
+103	­ƒô¢´©Å Projetor funcional	Ô£à Catalogado - Testes quinzenais
+104	­ƒô¢´©Å Projetor funcional	Ô£à Catalogado - Testes quinzenais
+­ƒôÜ Pavilh├úo de Aulas 2
+Descri├º├úo Geral
+
+Pavilh├úo com 12 salas numeradas (201 a 212) + Infraestrutura de rede (TP-Link access points). Padr├úo: cada sala possui 1 projetor, exceto Sala 205.
+
+­ƒöî Infraestrutura de Rede
+Access Points TP-Link: 2 unidades identificadas (corredor geral + pr├│ximo Sala 207)
+Switch de Rede: Localizado na Sala 212 (cascateia rede para os APs)
+­ƒôè Tabela de Salas
+Sala	Equipamento TI	Status
+201	­ƒô¢´©Å Projetor	Ô£à Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK
+202	­ƒô¢´©Å Projetor	Ô£à Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK
+203	­ƒô¢´©Å Projetor	Ô£à Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK
+204	­ƒô¢´©Å Projetor	Ô£à Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK
+205	ÔØî SEM PROJETOR	­ƒö┤ PEND├èNCIA CR├ìTICA - Instalar projetor URGENTE
+206	­ƒô¢´©Å Projetor	Ô£à Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK
+207	­ƒô¢´©Å Projetor + ­ƒôÂ AP	Ô£à Testado (quinzena 05/11) - Projetor OK, AP verificado
+208	­ƒô║ TV com HDMI	­ƒƒí Cabo HDMI mal posicionado - Instalar gancho/suporte
+209	­ƒô¢´©Å Projetor	Ô£à Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK
+210	­ƒô¢´©Å Projetor	Ô£à Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK
+211	­ƒô¢´©Å Projetor	Ô£à Testado (quinzena 05/11) - Win/Mac/HDMI/VGA OK
+212	­ƒô¢´©Å Projetor + ­ƒîÉ Switch	Ô£à Testado (quinzena 05/11) - Projetor OK, switch verificado
+­ƒö¼ Laborat├│rios Especializados (Pavilh├úo Aulas 2)
+­ƒöï LAB 201 - LEM (Laborat├│rio de Energias)
+Computadores: 2
+Positivo: Doado Receita Federal (pr├®-configurado, gerenciamento limitado)
+Dell Optiplex 3000: Intel Core i5 + monitor (conjunto)
+Equipamento Cr├¡tico: LC2060C 3D (conectado ao Dell - OPERA├ç├âO ININTERRUPTA)
+Equipamentos Adicionais: Diversas amostras, dispositivos eletr├┤nicos, experimentos energ├®ticos
+RESTRI├ç├òES CR├ìTICAS (04/11/2025):
+­ƒö┤ Experimentos rodando 1-2 meses cont├¡nuos - Qualquer interrup├º├úo = perda total
+­ƒö┤ ZERO autonomia TI - N├úo ligar, desligar, reiniciar ou modificar sem autoriza├º├úo expressa
+­ƒö┤ Manuten├º├úo SOMENTE com aval do respons├ível do laborat├│rio
+Observa├º├úo: Sem reclama├º├Áes recorrentes = sistema est├ível, n├úo mexer sem necessidade
+Status: Ô£à Catalogado | ­ƒö┤ ATIVO CR├ìTICO - Interven├º├úo controlada
+Urg├¬ncia TI: ­ƒƒí M├®dia (monitoramento passivo)
+­ƒôÉ LAB 202 - Laborat├│rio de Ensino da Matem├ítica e Ci├¬ncias
+Computadores: 2 (ambos inoperantes)
+Projetor: Acer (guardado no arm├írio - sem estrutura para instala├º├úo)
+Decora├º├úo: Barro, gr├úos, cobras empalhadas (contexto educacional criativo)
+Pend├¬ncias CR├ìTICAS (04/11/2025):
+PC 1: Cabos de for├ºa incompat├¡veis (estabilizador americano 3 pinos, cabos europeus) - trocar 2 cabos
+PC 2: Trava na tela de logon (corrup├º├úo de usu├írio) - formatar sistema completo
+Projetor Acer: Sem estrutura, avaliar realoca├º├úo para outro lab (103, 105 ou sala aulas)
+Itens Recolhidos: Cabo verde, 2 cabos verde-A, caixinha de som (guardados)
+Status: ­ƒö┤ CR├ìTICO - 2 PCs completamente parados, laborat├│rio inoperante
+Urg├¬ncia TI: ­ƒö┤ Muito Alta (resolver at├® sexta-feira)
+­ƒº¬ LAB 203 - LACAM (Laborat├│rio de Caracteriza├º├úo de Materiais)
+Itens TI: 1 TV com cabo VGA (monitor externo)
+Uso: Transmiss├úo de dados via notebook externo (alunos conectam)
+Equipamentos: Balan├ºas de precis├úo (n├úo gerenciadas por TI)
+Status: Ô£à OK - Apenas monitor externo, sem computadores fixos
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+ÔÜí LAB 204 - Laborat├│rio de El├®trica e Eletr├┤nica
+Computadores: 1
+Problema Cr├¡tico: Lado esquerdo inteiro - todas as tomadas n├úo funcionam (circuito desligado/queimado)
+Pend├¬ncias (04/11/2025):
+Formatar PC
+Verificar se PC vira m├íquina de rede
+Acionar manuten├º├úo el├®trica para religar tomadas lado esquerdo
+Observa├º├úo: Bancada abandonada por falta de energia
+Status: ÔÅ│ Cataloga├º├úo parcial | ­ƒö┤ Problema el├®trico cr├¡tico
+Urg├¬ncia TI: ­ƒƒí M├®dia-Alta
+­ƒì¢´©Å Laborat├│rio de Processamento de Alimentos
+Localiza├º├úo: Pr├®dio separado, pr├│ximo ao Pr├®dio Multiuso
+Itens TI: ÔØî Nenhum (confirmado visita 04/11/2025)
+Status: Ô£à Zero TI confirmado (laborat├│rio experimental puro)
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+­ƒæÑ Pavilh├úo de Gabinetes
+Descri├º├úo Geral
+
+Pavilh├úo exclusivo para gabinetes de professores e coordena├º├Áes. 8 gabinetes numerados (Gabinete 1 a 8, sendo Gabinete 1 = PROPPAE) + Sala de Coordena├º├úo/Reuni├Áes. Cataloga├º├úo completa 05/11/2025.
+
+­ƒôè Tabela de Gabinetes (Catalogado 05/11/2025)
+Gabinete	Dell Optiplex 7010	Tombamentos	Impressoras	Observa├º├Áes	Status
+1 (PROPPAE)	0	-	Samsung ML3750ND (172.17.9.113)	Apenas notebooks pessoais + 1 monitor avulso	Ô£à Catalogado
+2	3	UFRB100476, UFRB100464, UFRB100542	IP 172.17.9.109	Rede OK, sem chamados	Ô£à Catalogado
+3	4	UFRB100564, UFRB100560, UFRB100558, UFRB100548	1 ativa (IP pendente) + 1 sobrando	2 no-breaks extras (recolher)	Ô£à Catalogado
+4	3	UFRB100473, UFRB100477, UFRB100466	Samsung ML550ID (172.17.9.122)	Sem no-breaks (revisar energia)	Ô£à Catalogado
+5	4	UFRB100459, UFRB100554, UFRB100544, UFRB100556	Samsung MFP (172.17.9.131) + ML3750ND sobrando	1 monitor+teclado avulso (notebook)	Ô£à Catalogado
+6	?	-	-	Gabinete n├úo acessado (05/11)	ÔÅ│ Pendente
+7	4	UFRB100537, UFRB100467, UFRB100566, UFRB094223	Samsung ML3750ND (172.17.9.108)	1 monitor solto + nobreak OK	Ô£à Catalogado
+8	3	UFRB100559, UFRB100539, UFRB085829	IP 172.17.9.107	Catalogado tarde 05/11	Ô£à Catalogado
+­ƒôï Gabinete 1 - PROPPAE (Pr├│-Reitoria de Pol├¡ticas Afirmativas e Assuntos Estudantis)
+Fun├º├úo: Assist├¬ncia estudantil, bolsas, programas de perman├¬ncia
+Computadores Fixos: ÔØî Nenhum (todos utilizam notebooks pessoais - uso BYOD)
+Impressora: Samsung ML3750ND compartilhada (IP: 172.17.9.113)
+Equipamentos Avulsos: 1 monitor sem cabo/gabinete (destino: reutiliza├º├úo)
+Status: Ô£à Catalogado completo (05/11/2025)
+Urg├¬ncia TI: ­ƒƒó Baixa
+­ƒÆ╝ Gabinete 2
+Computadores: 3 Dell Optiplex 7010
+UFRB100476
+UFRB100464
+UFRB100542
+Impressora: IP 172.17.9.109 (compartilhada, rede OK)
+Observa├º├úo: Sem chamados de TI, softwares pessoais instalados
+Status: Ô£à Catalogado completo (05/11/2025)
+Urg├¬ncia TI: ­ƒƒó Baixa
+­ƒÆ╝ Gabinete 3
+Computadores: 4 Dell Optiplex 7010
+UFRB100564
+UFRB100560
+UFRB100558
+UFRB100548
+Impressoras:
+1 em uso ativo (IP pendente coleta - p├ígina teste OK)
+1 Samsung sobrando embaixo da mesa (ÔÅ│ recolher futuramente)
+Equipamentos Sobressalentes:
+2 no-breaks extras sem uso (ÔÅ│ recolher para almoxarifado)
+Status: Ô£à Catalogado | ÔÅ│ Pendente coleta IP impressora + recolhimento equipamentos
+Urg├¬ncia TI: ­ƒƒí Baixa-M├®dia (recolhimento n├úo urgente)
+­ƒÆ╝ Gabinete 4
+Computadores: 3 Dell Optiplex 7010
+UFRB100473
+UFRB100477
+UFRB100466
+Impressora: Samsung ML550ID (IP: 172.17.9.122) - compartilhada, funcionando
+Infraestrutura: Rede cabeada OK, sem no-breaks (ÔÅ│ revisar instala├º├úo futura)
+Observa├º├úo: Notebook sem impress├úo configurado - resolvido com IP fixo
+Status: Ô£à Catalogado | ­ƒƒí Revisar energia (n├úo urgente)
+Urg├¬ncia TI: ­ƒƒó Baixa
+­ƒÆ╝ Gabinete 5
+Computadores: 4 Dell Optiplex 7010
+UFRB100459
+UFRB100554
+UFRB100544
+UFRB100556 (sala adjacente)
+Impressoras:
+Samsung Multifuncional (IP: 172.17.9.131) - ativa, impress├úo+scanner OK
+Samsung ML3750ND sobrando (sem cabo, sem rede) - ÔÅ│ recolher futuramente
+Equipamentos Avulsos: 1 monitor + teclado (uso com notebook externo)
+Status: Ô£à Catalogado | ÔÅ│ Pendente recolhimento impressora sobressalente
+Urg├¬ncia TI: ­ƒƒó Baixa
+­ƒÆ╝ Gabinete 6
+Status: ÔÅ│ N├úo acessado em 05/11/2025 (chaves n├úo dispon├¡veis)
+Urg├¬ncia TI: ­ƒƒí M├®dia (completar cataloga├º├úo)
+­ƒÆ╝ Gabinete 7
+Computadores: 4 Dell Optiplex 7010
+UFRB100537
+UFRB100467
+UFRB100566 (dois monitores + nobreak OK)
+UFRB094223
+Impressora: Samsung ML3750ND (IP: 172.17.9.108) - rede compartilhada
+Equipamentos Avulsos: 1 monitor solto (ÔÅ│ verificar uso com notebook)
+Infraestrutura: Nobreak presente, cabeamento OK
+Status: Ô£à Catalogado completo (05/11/2025)
+Urg├¬ncia TI: ­ƒƒó Baixa
+­ƒÆ╝ Gabinete 8
+Computadores: 3 Dell Optiplex 7010
+UFRB100559
+UFRB100539
+UFRB085829
+Impressora: IP 172.17.9.107 (compartilhada)
+Observa├º├úo: Cataloga├º├úo conclu├¡da 05/11/2025 tarde
+Status: Ô£à Catalogado completo (05/11/2025)
+Urg├¬ncia TI: ­ƒƒó Baixa
+­ƒæÑ Sala de Coordena├º├úo/Reuni├Áes
+Status: ÔÅ│ Pendente visita (ap├│s Gabinete 8)
+Equipamentos Esperados: Projetor + cabo HDMI + notebook apresenta├º├úo
+Urg├¬ncia TI: ­ƒƒó Baixa
+­ƒôè Resumo Pavilh├úo de Gabinetes (05/11/2025)
+Total Gabinetes: 8
+Catalogados Completos: 7 (Gabinetes 1, 2, 3, 4, 5, 7, 8)
+Pendentes: 1 (Gabinete 6 - chaves indispon├¡veis)
+Total Computadores Catalogados: 25 Dell Optiplex 7010
+Total Impressoras: 7 ativas (6 com IP fixo documentado) + 2 sobressalentes
+Equipamentos Recolher: 2 impressoras + 2 no-breaks + monitores avulsos
+Conclus├úo: 87.5% completo (7/8 gabinetes)
+­ƒÅø´©Å Pr├®dio Administrativo
+Descri├º├úo Geral
+
+Pr├®dio concentra Lab Inform├ítica 1 + Gabinete Coletivo + Empresa J├║nior CETENS + SIAE + Sala Apoio Multiprofissional.
+
+­ƒûÑ´©Å LAB Inform├ítica 1
+Quantidade: 20 computadores Dell Optiplex 7010 (Core i5/i7 3┬¬ gera├º├úo)
+Tombamentos: UFRB094110-094191 (20 unidades catalogadas)
+Sistema: Dual-boot Windows 10 + Ubuntu 20.04 ÔÜá´©Å PEND├èNCIA: Atualizar ÔåÆ Ubuntu 24.04 LTS
+Servidor FOG: Operacional (sala TI) - Pend├¬ncia: Criar imagem padr├úo de 1 PC para replica├º├úo
+Infraestrutura: Projetor BenQ 110484, 2 switches (102344, 102340), Nobreak 099399, Ar-condicionado 117790
+Status: ­ƒö┤ PEND├èNCIA CR├ìTICA - Criar imagem FOG padr├úo + atualizar Ubuntu 20.04 ÔåÆ 24.04
+Urg├¬ncia TI: ­ƒö┤ Muito Alta
+­ƒæÑ Gabinete Coletivo (Servidores P├║blicos)
+Computadores Fixos: ÔØî Nenhum (PC ├║nico recolhido para Sala TI a pedido da dire├º├úo)
+Notebooks: ~20 servidores utilizam notebooks pessoais (uso BYOD)
+Sistema: Windows 10 (notebooks pessoais)
+Impressora: Sobrecarga relatada (segunda unidade solicitada)
+Observa├º├úo: Dire├º├úo solicitou remo├º├úo do desktop (sem utilidade no setor)
+Status: Ô£à Catalogado completo (05/11/2025) - Zero ativos fixos
+Urg├¬ncia TI: ­ƒƒó Baixa (apenas impressora adicional solicitada)
+­ƒÅó Empresa J├║nior CETENS
+Computadores: 2 Positivo (sem tombamento, sem patrim├┤nio UFRB)
+Sistema: HDD (necessita upgrade para SSD)
+Rede: Apenas Wi-Fi (sem cabeamento Ethernet)
+Impressora: 1 Samsung Multifuncional (sem IP, sem rede)
+Problemas Identificados (05/11/2025):
+­ƒö┤ Bateria CMOS descarregada (ambos PCs) - solicita F1/F2 sempre ao ligar
+­ƒƒí Lentid├úo cr├┤nica (HDD antigo)
+­ƒƒí Impressora isolada (sem conex├úo rede)
+­ƒƒí Wi-Fi fraco (reclama├º├Áes recorrentes)
+Pend├¬ncias:
+Trocar 2 baterias CR2032 (CMOS)
+Upgrade HDD ÔåÆ SSD ou substitui├º├úo completa dos PCs
+Repetidor Wi-Fi com porta Ethernet (conectar impressora ├á rede)
+Melhorar sinal Wi-Fi geral
+Status: Ô£à Catalogado completo (05/11/2025) | ­ƒƒí M├║ltiplas pend├¬ncias
+Urg├¬ncia TI: ­ƒƒí M├®dia (equipamentos funcionais mas problem├íticos)
+­ƒîì SIAE / ST Libras (Setor de Interven├º├úo, Tradu├º├úo/LIBRAS e Atividades Culturais)
+Computadores: 1 Dell Optiplex 7010 (UFRB094121)
+Impressora: 1 Samsung Multifuncional (sem IP, sem rede)
+Problema: Impressora isolada (sem conectividade)
+Pend├¬ncias (05/11/2025):
+Verificar utiliza├º├úo do scanner com respons├ível do setor
+Substituir por 2 impressoras simples (s├│ impress├úo) no lugar da multifuncional
+Configurar IP fixo ap├│s conex├úo
+Observa├º├úo: ST Libras = mesmo setor que SIAE (confirmado 05/11/2025)
+Status: Ô£à Catalogado (05/11/2025) | ÔÅ│ Pendente substitui├º├úo impressoras
+Urg├¬ncia TI: ­ƒƒí M├®dia (impressora inutilizada)
+­ƒÅÑ Sala de Apoio Multiprofissional/Sa├║de
+Computadores: 1 (Windows 10)
+Observa├º├úo: Verificado 05/11/2025 - apenas 1 PC, sem demanda adicional
+Status: Ô£à Catalogado (05/11/2025)
+Urg├¬ncia TI: ­ƒƒó Baixa
+­ƒôû Biblioteca
+Descri├º├úo Geral
+
+Biblioteca Central do CETENS com 12 computadores Dell Optiplex 7010 distribu├¡dos + Sistema P├®rgamo para cataloga├º├úo + 2 impressoras.
+
+­ƒûÑ´©Å Distribui├º├úo de Computadores (Catalogado 05/11/2025)
+Localiza├º├úo	Quantidade	Tombamentos	Fun├º├úo	Sistema
+Terminais P├®rgamo (quiosque)	3	UFRB094226, UFRB094170, UFRB10E0461	Busca de livros (mapeamento estantes) - ZERO impress├úo	Sistema P├®rgamo (modo kiosk)
+Recep├º├úo (atendimento)	4	UFRB100450, UFRB100446, UFRB100441, UFRB094114	Entrada/sa├¡da alunos, empr├®stimo/devolu├º├úo	Windows 10 + Kit Completo*
+Sala de Estudos	2	UFRB100452, UFRB094128	Pesquisa alunos (acesso P├®rgamo completo)	Windows 10
+Sala Processo T├®cnico	1	UFRB094109	Gest├úo interna de acervo	Windows 10
+Sala Recuada	1	UFRB100444	Apoio administrativo biblioteca	Windows 10
+Uso Exclusivo	1	UFRB1004544	Acessibilidade (necessidades especiais)	Windows 10
+
+Kit Completo de Perif├®ricos (apenas 4 PCs da Recep├º├úo):
+
+­ƒÄÑ Webcam: Cadastro facial alunos + videoconfer├¬ncias
+Ôî¿´©Å Mini teclado num├®rico: Digita├º├úo r├ípida de senhas/c├│digos P├®rgamo
+­ƒôè Leitor c├│digo de barras: Controle acervo (check-in/check-out livros)
+­ƒôí Adaptador Wi-Fi: Conex├úo redundante
+
+Observa├º├úo: Perif├®ricos especiais concentrados na recep├º├úo (maior demanda de atendimento). Demais PCs t├¬m configura├º├úo padr├úo Dell Optiplex 7010.
+
+­ƒû¿´©Å Infraestrutura de Impress├úo (Catalogado 05/11/2025)
+Impressora	IP	Fun├º├úo	Localiza├º├úo
+Samsung ML3750	172.17.5.110	Mais adequada uso geral	Pr├│xima recep├º├úo
+ITEC	172.17.9.102	Principal da biblioteca	Setor administrativo
+
+Observa├º├úo Cr├¡tica sobre Terminais P├®rgamo:
+
+Os 3 quiosques (094226, 094170, 10E0461) funcionam exclusivamente como displays de localiza├º├úo
+Usu├írios visualizam: estante exata, cabine/prateleira, disponibilidade em tempo real
+ZERO funcionalidade de impress├úo (n├úo conectam ├á Samsung ML3750 nem ITEC)
+Impress├Áes s├úo feitas apenas nas 4 m├íquinas da recep├º├úo (100450, 100446, 100441, 094114)
+­ƒôÜ Sistema P├®rgamo
+Fun├º├Áes: Catalogar acervo, empr├®stimo/devolu├º├úo, multas, reservas online, mapeamento estantes
+Modo Quiosque: 3 terminais s├│ exibi├º├úo (sem impress├úo, sem edi├º├úo)
+Observa├º├úo: Gerenciamento de conte├║do externo (TI s├│ garante terminais ligados e acess├¡veis)
+­ƒöî Infraestrutura de Rede
+Rede Cabeada: PCs fixos
+Wi-Fi: Adaptadores em todos os PCs + Access point pr├│ximo ├á recep├º├úo
+Status: Ô£à Cobertura completa verificada (05/11/2025)
+­ƒôè Resumo Biblioteca (Cataloga├º├úo Completa 05/11/2025)
+Total Computadores: 12 Dell Optiplex 7010 (100% catalogados com tombamentos)
+Total Impressoras: 2 (Samsung ML3750 + ITEC) com IPs fixos
+Sistema Principal: P├®rgamo (cataloga├º├úo bibliogr├ífica UFRB)
+Perif├®ricos Especiais: 4 webcams + 4 mini teclados + 4 leitores c├│digo barras + 4 adaptadores Wi-Fi (recep├º├úo)
+Status: Ô£à Cataloga├º├úo 100% completa (05/11/2025)
+Pend├¬ncias: ÔØî Nenhuma (sistema operacional e est├ível)
+Urg├¬ncia TI: ­ƒƒó Baixa (manuten├º├úo preventiva quinzenal suficiente)
+
+Observa├º├úo Final: Biblioteca ├® um dos setores mais bem estruturados do CETENS - todos os equipamentos identificados, perif├®ricos concentrados estrategicamente na recep├º├úo (maior volume de atendimento), impressoras com IP fixo para gerenciamento remoto. Modelo a ser seguido por outros setores.
+
+­ƒÅó Diretoria
+Descri├º├úo Geral
+
+Centro de comando administrativo: Sala T├®cnica de TI + 4 salas de dire├º├úo + Mini-almoxarifado.
+
+­ƒûÑ´©Å Sala T├®cnica de TI
+Fun├º├úo: Sala de servidores, switches principais, cabeamento backbone
+Equipamentos: Servidor master do campus, switches principais gerenci├íveis, rack fechado, nobreak enterprise
+Rotina: Check-up semanal obrigat├│rio (temperatura, logs, backup)
+Status: ­ƒö┤ CR├ìTICO - Infraestrutura central do campus
+Urg├¬ncia TI: ­ƒö┤ Di├íria
+­ƒôä 4 Salas de Dire├º├úo
+Itens TI: Cada sala com computador/notebook + 1 Impressora Samsung (compartilhada)
+Status: ÔÅ│ Catalogar presencialmente
+Urg├¬ncia TI: ­ƒƒó Baixa
+­ƒôª Mini-Almoxarifado
+Fun├º├úo: Papel A4, copos, Aquaplak, material de escrit├│rio
+Itens TI: ÔØî Nenhum
+Status: Ô£à Sem demanda TI
+­ƒÜ¬ Outros Setores
+­ƒôÜ Setor Acad├¬mico
+Fun├º├úo: Matr├¡cula, hist├│rico escolar, documenta├º├úo estudantil
+Computadores: 1 desktop (UFRB085543)
+Notebooks: 1 (uso t├®cnicos/administrativo)
+Impressora: Samsung ML 3750 (093238) - Conectada via rede
+Access Point: 1 TP-Link (cobertura Wi-Fi setor)
+Uso Principal: Notebooks (chamados TI para manuten├º├úo recorrentes)
+Status: Ô£à Catalogado completo (04/11/2025)
+Urg├¬ncia TI: ­ƒƒí M├®dia (impressora central cr├¡tica)
+­ƒÄô Salas de P├│s-Gradua├º├úo 1 e 2
+Computadores: ÔØî Nenhum (confirmado reverifica├º├úo 04/11/2025)
+Projetores: 1 por sala (2 total)
+Status: Ô£à Zero TI para manuten├º├úo (apenas projetores)
+Urg├¬ncia TI: ­ƒƒó Nenhuma
+­ƒÜ¬ Portaria
+Itens TI: 1 computador + 1 Access Point + sistema monitoramento c├ómeras
+Status: ÔÅ│ Verificar monitoramento central
+Urg├¬ncia TI: ­ƒƒí M├®dia
+­ƒÄ¡ Audit├│rio
+Projetor: 1 Acer (funcionando)
+Notebook: 1 fixo (cabo HDMI OK)
+Sistema de Som:
+1 Caixinha de som
+1 Mesa de som/configura├º├úo
+2 Microfones
+Problemas Identificados (05/11/2025):
+­ƒö┤ Sinal Wi-Fi fraco/fraq├¡ssimo (reclama├º├Áes recorrentes)
+Impacto: apresenta├º├Áes/eventos com conectividade ruim
+Pend├¬ncias:
+Melhorar cobertura Wi-Fi (Access Point adicional ou extensor)
+Verificar tombamentos de equipamentos (projetor, mesa som, microfones)
+Status: Ô£à Catalogado (05/11/2025) | ­ƒö┤ Wi-Fi cr├¡tico
+Urg├¬ncia TI: ­ƒö┤ Alta (eventos frequentes afetados)
+­ƒÜ¿ Pend├¬ncias Cr├¡ticas
+­ƒö┤ Urg├¬ncia M├üXIMA (Resolver Imediatamente)
+LAB 202 (Pavilh├úo Aulas 2) - 2 PCs parados (1 cabo errado, 1 corrup├º├úo) - Laborat├│rio inoperante
+LAB 103 (Pavilh├úo Labs 2) - Dell recolher para reparo (fonte/placa-m├úe)
+Sala 205 (Pavilh├úo Aulas 2) - Sem projetor ÔåÆ Instalar URGENTE
+LAB 07 (Pavilh├úo Labs 1) - Servidor FOG criar imagem padr├úo
+Lab Inf 1 (Pr├®dio Adm) - Criar imagem FOG padr├úo + Ubuntu 20.04 ÔåÆ 24.04
+LAB 105 (Pavilh├úo Labs 2) - Ubuntu 20.04 ÔåÆ 24.04 LTS (6 PCs depreciados)
+Sala T├®cnica TI (Diretoria) - Monitoramento temperatura 24/7
+­ƒƒí Urg├¬ncia ALTA (Resolver em 5-10 dias)
+LAB 03 (Pavilh├úo Labs 1) - Impressora Samsung: cabo ÔåÆ rede (3 PCs compartilhados)
+LAB 04 (Pavilh├úo Labs 1) - Verificar licen├ºas antes FOG
+LAB 06 (Pavilh├úo Labs 1) - Criar imagem FOG padr├úo + padronizar UFRB094116 + migrar HDDÔåÆSSD
+Sala 208 (Pavilh├úo Aulas 2) - Cabo HDMI frouxo ÔåÆ gancho/suporte
+Lab Agroecologia (Pavilh├úo Labs 2) - HP tinta ÔåÆ trocar por toner
+NukeTESP (Pavilh├úo Labs 1) - Coletar tombamento desktop + configurar IP fixo
+­ƒƒó Urg├¬ncia M├ëDIA (Resolver em 14-30 dias)
+LAB 09 (Pavilh├úo Labs 1) - 2 sem gabinete, Win7 atualizar, monitores trocar
+Gabinete Coletivo (Pr├®dio Adm) - Segunda impressora solicitada
+Pavilh├úo Gabinetes - Catalogar 8 gabinetes + PROPPAE
+Visitas Pendentes: Salas Aulas 1 (101-104), Almoxarifado Administrativo (Pav Labs 1)
+LAB 104 (Pavilh├úo Labs 2) - Verifica├º├úo completa pendente
+LAB 204 (Pavilh├úo Aulas 2) - Problema el├®trico cr├¡tico (tomadas lado esquerdo)
+LAB 201 (Pavilh├úo Aulas 2) - Ativo cr├¡tico: Manuten├º├úo SOMENTE com aval respons├ível
+
+­ƒæñ Respons├ível: Deivison Santana (T├®cnico TI - UFRB CETENS)
+Atualiza├º├úo: Documento atualizado continuamente conforme novos setores catalogados
+
+­ƒÜÇ Cataloga├º├úo organizada por ordem l├│gica dos pr├®dios!
+
+┬áTestando. Boa tarde, Grok. Vamos continuar iterando o que mandei, uma documenta├º├úo, o markdown completo. E eu pedi para voc├¬ tamb├®m transcrever aqui para poder voc├¬ ter no seu contexto. Ent├úo, me d├¬ s├│ algumas palavras-chave para saber se voc├¬ entendeu.
+
+Boa tarde, Deivison. Palavras-chave: CETENS, invent├írio TI, Dell Optiplex, projetores, pend├¬ncias cr├¡ticas, FOG, Ubuntu, impressoras Samsung, gabinetes, labs.
+
+┬áPronto, vamos l├í. Vamos fazer algumas edi├º├Áes.
+
+Certo, Deivison. Me diz o que quer ajustar primeiro.
+
+┬áVamos editar.
+
+Tudo bem, Deivison. Onde come├ºamos?
+
+┬áTestando voz, o ├íudio t├í chamado, acabei n├úo te ouvindo direito.
+
+Desculpa, Deivison. Fala de novo, que eu escuto bem agora.
+
+┬áT├í, eu t├┤ te ouvindo. T├┤ com o arquivo aberto aqui e a gente vai fazer as edi├º├Áes bem a linha, tudo bem?
+
+Tudo bem, Deivison, vamos linha por linha, como voc├¬ quiser. S├│ me guia.
+
+┬áT├í, essa... no arquivo em si vai ter a cataloga├º├úo, vai ter algumas informa├º├Áes, a data de in├¡cio, a ├║ltima atualiza├º├úo, alguns status. ├ë, nesses status eu quero que voc├¬ coloque a porcentagem. Considere as pend├¬ncias, vai ter uma porcentagem tamb├®m. S├│ some tudo e coloca uma porcentagem nisso. No caso, n├úo ├® pra gente t├í fazendo nada agora. Nada especificamente assim de edi├º├Áes fortes.
+
+Certo, entendi. Vou calcular a porcentagem baseada nas pend├¬ncias que j├í temos listadas, tipo as cr├¡ticas e as altas, e coloco no topo, perto do status geral. Quando voc├¬ quiser ver o n├║mero, ├® s├│ pedir.
+
+┬áVai ter o ├¡ndice, isso a├¡ t├í ok, tem que continuar. Essa vis├úo geral, essa vis├úo geral falta um texto em linguagem natural, falando sobre algumas coisas, n├®? ├ë... tem v├írios checklists, v├írias coisas marcadas em verde, n├úo ├® necess├írio, eu quero uma em linguagem natural, como se fosse uma mini reda├º├úozinha, uma descri├º├úo de, de fato, do que seria a vis├úo geral de todo o projeto.
+
+Na vis├úo geral, a ideia ├® termos um retrato fiel de todo o CETENS, mapeando cada computador, projetor, impressora e ponto de rede para garantir que nada fique esquecido no invent├írio. O foco ├® identificar o que est├í rodando liso, o que precisa de manuten├º├úo r├ípida e planejar upgrades como SSD ou novas imagens FOG, sempre priorizando os laborat├│rios de pesquisa que n├úo podem parar. ├ë um trabalho que vai virando base pra um painel de chamados interno, pra gente resolver as coisas antes que virem dor de cabe├ºa.
+
+┬áT├í, essa parte com as anota├º├Áes t├í ok. Essa parte aqui de sala de inform├ítica ainda vou upar os ativos daqui, mas aqui funciona um estoque de computadores e notebooks.
+
+Ah, entendi, Deivison. Ent├úo a sala de inform├ítica ├® tipo um hub, n├®, n├úo s├│ pra uso di├írio mas tamb├®m pro estoque de equipamentos sobressalentes, pronto pra quando precisar realocar ou substituir algo r├ípido.
+
+┬áPronto. Tem a parte aqui que seria as instala├º├Áes adjacentes ao multiuso. Tem a sala de apoio especializada pra alunos com defici├¬ncia. L├í t├í ok, j├í foi catalogado os computadores, n├®? E especificamente l├í, o pessoal j├í tem ci├¬ncia, n├®, de como abrir chamado pra TI, como falar com a gente, ent├úo todo e qualquer chamado relacionado a eles, eles v├úo t├í abrindo contato com a gente.
+
+Sim, l├í na sala de apoio para alunos com defici├¬ncia tudo catalogado, e o bom ├® que o time j├í sabe o caminho pra nos acionar rapidinho, ent├úo qualquer contratempo vira chamado direto, sem perda de tempo.
+
+┬áT├í, a sala de comunica├º├úo realmente n├úo tem nenhum computador. Eles t├¬m, eles t├¬m uma impressora, ├® aquela impressora Samsung. ├ë, ela n├úo vai ter IP, n├®? No caso, ela n├úo, n├úo, n├úo t├í na rede, mas ainda ├® uma pend├¬ncia, t├í resolvendo isso com um repetidor. Ent├úo, mantenha isso.
+
+Na sala de comunica├º├úo, mesmo sem um pc, a impressora Samsung t├í l├í isolada, sem ip, e ainda ├® pend├¬ncia pra gente conectar com o repetidor, ent├úo continua na lista pra resolver logo.
+
+┬áSobre o laborat├│rio 4 de f├¡sica, que fica no pavilh├úo de laborat├│rios 1, tem umas excentricidades em cima desse laborat├│rio 4 de f├¡sica e laborat├│rio 6 de f├¡sica.
+
+Ah, os labs 4 e 6 de f├¡sica, n├®? Me conta mais sobre essas excentricidades ÔÇô tipo, equipamentos malucos, setups improvisados ou algo que sempre d├í pau? Eu lembro que o 4 tem um monte de software pesado como MATLAB e Arduino, e o 6 t├í com aqueles HDDs lentos e um Win7 teimoso... o que rolou de espec├¡fico
+
+10 p├íginas web
+
+┬áEu fiz uma mini cataloga├º├úozinha, t├í escrito tamb├®m pra voc├¬ do Markdown, dos programas que est├úo instalados l├í, n├®, que o pessoal usa e utiliza. Continuam sendo esses programas a├¡, mas em espec├¡fico sobre a cria├º├úo da imagem FOG, n├úo ├® mais uma prioridade. Isso porque tem licen├ºas espec├¡ficas inseridas nesses computadores que se formatado vai ter que fazer toda, vai ser um pouco mais burocr├ítico, n├®, pra poder reabilitar cada programa pra ele voltar a funcionar do jeito que deveria. Ent├úo, a pend├¬ncia l├í ├® mais pra t├í atualizando software, atualizando os programas, atualizando as coisas do computador e deixar ok, n├®? Falta ainda a ├║ltima atualiza├º├úo do Windows 10, acabou meio que o licenciamento dele de uma forma gratuita. Falta essa ├║ltima atualiza├º├úo ainda. Ent├úo coloca como pend├¬ncia deixar o Windows em si ok pra utiliza├º├úo desses seis computadores do laborat├│rio 4 de f├¡sica e no laborat├│rio de f├¡sica 2 tamb├®m.
+
+Nas pend├¬ncias do lab 4 de f├¡sica, esquece a imagem FOG por enquanto ÔÇô o foco agora ├® manter os softwares atuais em dia, resolver as licen├ºas e garantir que o Windows 10 receba aquela atualiza├º├úo final pra n├úo ficar travado. O mesmo vale pro lab 6, pra tudo rodar suave sem precisar formatar nada.
+
+┬áEspecificamente esses a├¡ n├úo tem nenhum tipo de pend├¬ncia. No caso, tudo funciona, n├úo tem reclama├º├Áes dos alunos relacionadas a isso. O ruim ├® o fato deles todos eles ainda terem HD. Ent├úo coloca como se fosse uma miss├úo, uma pend├¬ncia, como se fosse tamb├®m um chamado pra mim, pra t├í catalogando, descobrindo, encontrando, ou seja m├íquinas paradas ou SSDs pra poder t├í colocando. L├í seria uma pend├¬ncia porque s├úo laborat├│rios muito utilizados. Tem outros locais da pr├│pria institui├º├úo que n├úo tem tanto uso assim, ou ent├úo que n├úo ├® uma frequ├¬ncia de todo uso de dia a dia aula. Ent├úo seria uma prioridade tanto pro laborat├│rio 4 de f├¡sica pro laborat├│rio 6 tamb├®m. Eles terem pelo menos um SSD pra poder deixar as coisas mais r├ípidas l├í.
+
+Nas pend├¬ncias dos labs quatro e seis, o grande lance ├® trocar esses HDs por SSDs, porque eles s├úo super usados e qualquer lentid├úo atrapalha o fluxo das aulas. Vou ca├ºar m├íquinas paradas ou SSDs no estoque pra priorizar isso a├¡, j├í que em outros lugares o uso ├® mais espor├ídico.
+
+┬áEsse laborat├│rio 9, esse laborat├│rio 9 em espec├¡fico, coloque em observa├º├úo. Pause todos os chamados nesse laborat├│rio espec├¡fico, porque vai ser feita uma reimagina├º├úo nele. As m├íquinas, tanto os monitores quanto os gabinetes v├úo ser substitu├¡dos por outros, que v├úo vir t├í ficando no local deles e essas m├íquinas que est├úo l├í atualmente, elas v├úo ficar no local em espec├¡fico por um tempo, at├® a gente t├í criando, n├®, reimaginando como elas poderiam ser utilizadas. Mas basicamente todo esse laborat├│rio 9 vai ser reimaginado com outros computadores que n├úo v├úo nem t├í rodando o Windows em si. Voc├¬ pode fazer uma pesquisa r├ípida sobre o que seria o Rock Linux e algum tipo de projeto de t├í usando isso em universidades. Entenda que vai ser remanejado cada um desses arquivos. Ent├úo todos os chamados nesse local tamb├®m voc├¬ pode deixar em pausa at├® informa├º├Áes mais precisas da dire├º├úo.
+
+T├í, Deivison, no lab 09, vou pausar todas as pend├¬ncias por enquanto ÔÇô vai rolar uma reimagina├º├úo completa, com troca de m├íquinas, monitores e gabinetes por setups novos que nem v├úo usar Windows, provavelmente migrando pra algo como Rocky Linux, que ├® uma distro enterprise open-source, bug-for-bug compat├¡vel com Red Hat, e j├í t├í sendo adotada em universidades como a University of Washington pra clusters de pesquisa e servidores est├íveis. As m├íquinas atuais ficam l├í de reserva at├® a dire├º├úo dar o ok final pro remanejamento, sem mexer em nada agora.
+
+5 p├íginas web
+
+┬áT├í, essa amostra ├® para administrativo tamb├®m, o recolhimento do das pe├ºas dos computadores que ainda funcionam, n├®? Coloque isso como se fosse um projeto Frankenstein. Tem alguns computadores que funcionam l├í, tem outros que n├úo. Ent├úo vai basicamente colocar todas as pe├ºas que n├úo funcionam nos computadores, em alguns computadores em espec├¡fico, e os que funcionam ser removidos, n├®? Vamos supor que tenha um que o processador funcione e o outro n├úo. Vai obviamente deixar o computador totalmente funcional, processador, mem├│ria RAM, HD, CPU, o que for.
+
+No almoxarifado administrativo,
+
+┬áEsse pavilh├úo de laborat├│rios 2, especificamente falando aqui, o 101 Lab Maker, o computador do professor j├í foi colocado l├í e eles ainda est├úo utilizando. J├í fiz a vistoria dos computadores l├í, a maioria usa notebook tamb├®m, que eles mesmo trazem, n├úo s├úo da institui├º├úo, porque s├úo alunos. Ent├úo t├í ok tamb├®m, n├úo tem chamados l├í, n├úo tem pend├¬ncias.
+
+No 101, o Lab Maker, tudo rodando liso com o pc do professor no lugar, e os alunos trazendo seus pr├│prios notebooks, ent├úo sem pend├¬ncias nem chamados, vistoriei e t├í tranquilo.
+
+┬áNo laborat├│rio 103, engenharia de superf├¡cie, ainda tem a pend├¬ncia de t├í fazendo reparo em um computador. Vai ser feito hoje ├á tarde.
+
+No 103, engenharia de superf├¡cie, ainda tem esse reparo no Dell pendente, mas j├í fica resolvido hoje ├á tarde, ent├úo em breve sai da lista.
+
+┬áT├í, esse lab de agroecologia, ci├¬ncias do solo, ele em espec├¡fico usa uma impressora, n├®, que ├® de cor de tinta, a gente n├úo tem aqui o tuner. Foi colocado como se fosse uma pend├¬ncia pra eu resolver relacionado a TI, mas essa impressora nem sequer foi dada pela institui├º├úo, eles mesmos adquiriram eles pra poder t├í utilizando e a gente n├úo teria essa obrigatoriedade de t├í fornecendo a tinta, como a gente j├í n├úo tem. Ent├úo remova isso como se fosse um chamado. Mas deixe, no caso, essa informa├º├úo constando no Markdown pra conhecimento.
+
+No lab de agroecologia, a impressora de cor com tinta foi comprada pela pr├│pria equipe, n├úo veio da institui├º├úo, ent├úo tirei da lista de pend├¬ncias ÔÇô n├úo ├® nosso chamado. Mas deixo anotado no documento s├│ pra refer├¬ncia.
+
+┬áSobre esse laborat├│rio 104, espa├ºo colaborar, l├í espec├¡fico vai ter sete chipnet, que s├úo sete computadores dessa marca espec├¡fico, eles s├úo Ryzen 3 com HDD. Elas s├úo m├íquinas que foram consideradas t├úo lentas que elas est├úo de lado, elas n├úo est├úo sendo utilizadas, n├úo tem nenhum tipo de ativamento delas. Ent├úo, coloque como se fosse tamb├®m uma pend├¬ncia pra reimagina├º├úo, que poderia ser feito com esses computadores, que uso espec├¡fico pra uma institui├º├úo poderia ser utilizado eles.
+
+No espa├ºo colaborar, esses sete Chipnet Ryzen tr├¬s com HD est├úo l├í parados, considerados lentos demais pra uso normal, ent├úo vale a pena pensar numa reimagina├º├úo pra eles ÔÇô talvez como esta├º├Áes de teste, thin clients ou servidores leves pra tarefas internas da institui├º├úo, algo que d├¬ um destino ├║til sem precisar trocar tudo.
+
+┬áDiz uma coisa, considere computadores com Ubuntu 20.04. Qual o procedimento pra eu poder t├í colocando ele no 25.04? Isso sem uma formata├º├úo completa, isso pra n├úo perder os dados do aluno. Eu falo isso em relacionado ao laborat├│rio 105, laborat├│rio de instrumenta├º├úo mecatr├┤nica e metrologia.
+
+Pra subir do Ubuntu 20 pro 24 ponto 04 no LIMM sem formatar e perder os dados dos alunos, usa o comando do sistema mesmo. Primeiro atualiza tudo que tem agora com sudo apt update e sudo apt upgrade. Depois roda o do-release-upgrade, confirma que quer ir pra vers├úo LTS e deixa ele baixar, reiniciar e ajustar os pacotes sozinho. Quando terminar, s├│ testa se os programas deles ainda abrem direitinho. Se algo berrar, a gente reinstala o pacote espec├¡fico.
+
+┬áSalve aqui no contexto o comando espec├¡fico pra poder t├í fazendo isso e coloque como se fosse uma pend├¬ncia pra t├í realizando esse comando em todos os seis computadores de l├í. Eles usam Ubuntu, tem alguns outros que ficam recuados, mas s├úo dos professores. Eles usam servidores, alguns com placa de v├¡deo, provavelmente pra algum tipo de projeto.
+
+Salvei aqui: sudo apt update, sudo apt upgrade, sudo do-release-upgrade. A pend├¬ncia ├® rodar isso nos seis computadores do LIMM, focando nos que os alunos usam, e deixar os dos professores em segundo plano, j├í que eles mexem com servidores e placas de v├¡deo pra projetos espec├¡ficos.
+
+┬áT├í, no pavilh├úo de aulas 2, a sala 205 ainda continua sem projetor, mas n├úo chega a ser uma pend├¬ncia da TI. J├í falei com o pessoal respons├ível, eles j├í abriram um chamado com o setor respons├ível, que seria em cruz, pra poder t├í verificando essa quest├úo do projetor em si. E da sala 210, infelizmente sumiu um projetor, ent├úo pode colocar como pend├¬ncia tamb├®m pra t├í notificando o pr├│prio setor espec├¡fico pra tamb├®m t├í abrindo um chamado relacionado a isso.
+
+No pavilh├úo de aulas 2, a sala 205 segue sem projetor, mas isso j├í t├í com o pessoal certo abrindo chamado fora da TI. J├í na 210, o projetor sumiu, ent├úo a├¡ sim ├® pend├¬ncia nossa notificar o setor pra abrir um chamado e resolver.
+
+┬áT├í. Eu falei com o respons├ível do laborat├│rio 201, que seria laborat├│rio de energias. L├í em espec├¡fico n├úo tem nenhum tipo de chamado pendente, n├®? A gente colocou aqui que tem algumas coisas pra ser feita, mas especificamente com o pr├│prio respons├ível do setor, ele falou que n├úo teria. Que l├í eles est├úo sob controle, n├®? N├úo tem nenhum tipo de atividade que a gente possa fazer l├í.
+
+T├í certo, Deivison. Ent├úo tiro qualquer pend├¬ncia do laborat├│rio de energias 201 ÔÇô o respons├ível confirmou que t├í tudo sob controle, nada pra gente mexer ou acionar.
+
+┬áEsse laborat├│rio 202 tinha dois computadores l├í, n├®? Voc├¬ pode t├í vendo que tinha um que tem um cabo de for├ºa incompat├¡vel, n├®? Que n├úo tava nem ligando e tinha outro que tava com a trava na tela, n├®? Ambos os computadores foram trazidos pra TI e j├í foram formatados e est├úo funcionando. Eles est├úo l├í na linha de frente em funcionamento.
+
+Ah, perfeito. No laborat├│rio 202, os dois PCs foram pra TI, formatamos, resolvemos o cabo errado e a tela travada, e j├í voltaram pra linha de frente funcionando direitinho. Pend├¬ncia zerada a├¡.
+
+┬áT├í, laborat├│rio 203, lacan, a gente n├úo tem nenhum tipo de pend├¬ncia l├í. No laborat├│rio 204, em espec├¡fico, l├í tem um computador. Ele, essa quest├úo do lado cr├¡tico das tomadas j├í foi tamb├®m relatado ao pessoal respons├ível. O computador foi movido pra um local onde que funciona a parte el├®trica e ele t├í em pend├¬ncia de uma formata├º├úo. Falta ainda uma confirma├º├úo dos professores e do pessoal que utiliza l├í pra poder saber se as coisas que est├úo nesse computador podem ser exclu├¡das ou n├úo. Considere que ele t├í inoperante. Atualmente nossa rede ├® incompat├¡vel com o Windows 7, ent├úo eles n├úo conseguem utilizar a internet de forma nenhuma e tamb├®m tem alguns programas, receita federal, alguns arquivos em espec├¡ficos que n├úo seria tipo coisas, dados de aluno, mas coisas que teriam que ser verificadas por quem utilizava o computador. Ent├úo coloque como se fosse uma pend├¬ncia o computador que se encontra na sala da TI atualmente, por├®m falta essa verifica├º├úo do pessoal respons├ível pra saber se eles se ainda vai ser necess├írio estar l├í ou n├úo e o que eles v├úo utilizar nesse computador.
+
+No laborat├│rio 204, o pc t├í aqui na TI, j├í fora da ├írea de tomadas ruins, mas ainda precisa de formata├º├úo ÔÇô s├│ que antes disso, tem que confirmar com os professores o que tem nele, se os arquivos da receita e esses dados podem ir embora ou precisam ser salvos. Como roda Windows sete, a rede nem pega, ent├úo fica inoperante at├® essa libera├º├úo chegar.
+
+┬áSobre os gabinetes, eu vou fazer uma confirma├º├úo com o pessoal respons├ível, eu te passo aqui o que seria o que seria pendente e o que seria colocado em cada um deles, mas realmente tem diversos itens sobressalentes.
+
+Nos gabinetes, tem mesmo um monte de itens sobressalentes ÔÇô impressoras extras, no-breaks parados, monitores soltos. Quando voc├¬ confirmar com os respons├íveis, a gente define o que reutiliza, o que recolhe pro estoque, pra n├úo virar bagun├ºa.
+
+┬áT├í, no laborat├│rio de inform├ítica 1, continua sendo uma pend├¬ncia, criou a imagem fog, l├í no caso pode ser feito dessa forma. O laborat├│rio de coletivo n├úo tem nenhum tipo de info, n├®? Que a gente poderia t├í colocando a mais, todo mundo usa notebook. A empresa j├║nior, eles v├úo ter esses dois notebooks positivos l├í, fica pendente tamb├®m de t├í fazendo upgrade com SSD, caso necess├írio, n├®? E tamb├®m fazer a coloca├º├úo de um repetidor Wi-Fi pra t├í melhorando a conex├úo de l├í. Claro que vai ser feita uma verifica├º├úo antes, porque o pessoal tava reclamando do Wi-Fi, mas isso a├¡ tamb├®m pode ser verificado de outra forma.
+
+No laborat├│rio de inform├ítica 1, a cria├º├úo da imagem FOG segue pendente, d├í pra fazer sem problema. O coletivo t├í tranquilo, s├│ notebooks pessoais mesmo, nada fixo pra registrar. Na j├║nior, os dois Positivo ficam na mira pra upgrade de SSD se precisar, e o repetidor Wi-Fi vai entrar em teste pra resolver as reclama├º├Áes, mas a gente checa antes se n├úo ├® outra coisa causando o sinal fraco.
+
+┬áNo CIA ST Libras em espec├¡fico, acabei conversando com mais uma pessoa de l├í, que tamb├®m utiliza notebook, n├®? Ent├úo n├úo teria nenhum tipo de pend├¬ncia nesse setor.
+
+No CIA ST Libras, com essa confirma├º├úo, o neg├│cio t├í resolvido ÔÇô todo mundo usa notebook mesmo, sem pend├¬ncias pra gente aqui.
+
+┬áNa biblioteca, voc├¬ colocou aqui que uma impressora Samsung M2750 e a outra ├® uma E-Tec. Na verdade, as duas s├úo Samsung ML3750.
+
+Ah, entendi. Corrigi aqui na biblioteca: as duas impressoras s├úo Samsung ML3750, sem E-Tec. Atualiza├º├úo anotada, Deivison.
+
+┬áT├í, voc├¬ criou na linha 656, mas algumas informa├º├Áes sobre o sistema P├®gamo. N├úo ├® necess├írio t├í constando essas informa├º├Áes porque basicamente a gente n├úo presta suporte a esse site.
+
+T├í bom, Deivison, tirei as infos extras do P├®rgamo, j├í que o suporte pra isso n├úo ├® nosso. Deixo s├│ o essencial sobre os terminais e pronto.
+
+┬áVoc├¬ tamb├®m criou aqui um resumo desnecess├írio do setor da biblioteca. Tamb├®m n├úo ├® necess├írio esse resumo, porque as informa├º├Áes j├í constam na pr├│pria cataloga├º├úo.
+
+Certo, removi esse resumo extra da biblioteca ÔÇô as infos principais j├í t├úo l├í na cataloga├º├úo mesmo, n├úo precisa repetir.
+
+┬áT├í, na diretoria, s├│ a sala t├®cnica que fica como se fosse uma pend├¬ncia 15 anual pra poder t├í verificando, n├®, as coisas de l├í, se t├í tudo ok.
+
+Na diretoria, s├│ deixo a sala t├®cnica com essa manuten├º├úo anual de checagem, pra garantir que temperatura, backups e equipamentos centrais continuem est├íveis.
+
+┬áT├í, eu descobri qual seria o tombamento do computador da portaria, que ├® o 094167.
+
+Ah, ├│timo, anotei aqui o tombamento da portaria como zero nove quatro um seis sete. Agora t├í tudo no lugar pra catalogar certinho.
+
+┬áPronto. Reimagine essa parte de pend├¬ncias cr├¡ticas, como eu lhe falei aqui, o que ├® pend├¬ncia e o que n├úo ├® pend├¬ncia. Reimagine isso de uma forma coesa e reestruture. No caso, algumas coisas v├úo ser editadas e outras n├úo. Algumas pend├¬ncias aqui voc├¬ pode t├í mantendo e outras n├úo tamb├®m, com base no que tudo que foi falado.
+
+Certo, Deivison. Vou reorganizar as pend├¬ncias cr├¡ticas de forma mais limpa. Foco no que realmente precisa ir pra frente: cria├º├úo da imagem FOG pro Lab Inf 1 e pro Lab 07, atualiza├º├úo do Ubuntu pra 24.04 nos seis PCs do LIMM, troca de HD por SSD nos labs de F├¡sica 4 e 6, o computador do Lab 204 ainda aguardando libera├º├úo pra formata├º├úo, e a instala├º├úo de um projetor na sala 210. O resto, como reposi├º├Áes e manuten├º├Áes pontuais, fica em m├®dia, sem urg├¬ncia imediata. Assim fica coeso e priorizado.
+
+┬áS├│ um momento. Vou t├í upando aqui algumas instru├º├Áes sobre o pavilh├úo de gabinetes.
+
+T├í tranquilo, Deivison. Pode upar as instru├º├Áes sobre os gabinetes quando quiser, que a gente ajusta na hora.
+
+┬áTestando voz.
+
+Testando tamb├®m, Deivison. ├üudio t├í fluindo bem aqui.
+
+┬áFa├ºa uma atualiza├º├úo sobre o pavilh├úo de gabinetes, gabinete 3. Especificamente l├í vai ter realmente esses dois no-breaks. Tava pra testes. Fiz o teste, aparentemente eles n├úo t├úo funcionando. Deixei os dois na tomada, amanh├ú fa├ºo a verifica├º├úo se seguraram ou n├úo algum tipo de carga.
+
+No gabinete tr├¬s, confirmei os dois no-breaks que tavam pra testes ÔÇô liguei na tomada, mas n├úo seguraram a carga ainda, vou deixar rodando durante a noite e amanh├ú cedo testo de novo pra ver se algum revive ou se vamos descartar de vez.
+
+┬áPronto, as atualiza├º├Áes foram essas. Eu vou t├í atualizando aqui tamb├®m a marca da principal. Esse todo esse texto a├¡ que foi colocado, na verdade, ├® uma marca j├í pr├®-existente. Voc├¬ vai fazer as atualiza├º├Áes com base de uma forma que for correspondente. No caso, se eu texto aqui, sua voz vai ser transcrita e vou t├í colocando l├í pra ele t├í fazendo essas altera├º├Áes. Algo mais que voc├¬ queira me dizer ou ent├úo algum tipo de outra pend├¬ncia que eu possa t├í te atualizando aqui?
+
+S├│ pra confirmar, Deivison, tudo que a gente conversou at├® agora t├í salvo no meu contexto, incluindo esses testes dos no-breaks no gabinete tr├¬s. Se surgir algo novo enquanto voc├¬ atualiza o arquivo, me avisa que eu ajusto na hora. T├í tudo fluindo bem por aqui.
+
+Entre para continuar a conversa
