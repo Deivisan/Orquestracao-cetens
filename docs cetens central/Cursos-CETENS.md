@@ -6,11 +6,12 @@
 
 ## 📋 Visão Geral
 
-O CETENS oferece uma gama diversificada de cursos de graduação e pós-graduação, com foco em engenharias sustentáveis, tecnologias assistivas e formação interdisciplinar. Os cursos combinam teoria e prática, preparando profissionais para o mercado de energia limpa e inclusão social.
+O CETENS oferece uma gama diversificada de cursos de graduação e pós-graduação, com foco em engenharias sustentáveis, tecnologias assistivas, educação do campo e formação interdisciplinar. Os cursos combinam teoria e prática, preparando profissionais para o mercado de energia limpa, inclusão social e educação.
 
 **Fatos-Chave:**
-- **Graduação:** 6 cursos (bacharelados + tecnologia)
+- **Graduação:** 7 cursos (1 licenciatura + 5 bacharelados em engenharia + 1 tecnológico)
 - **Pós-Graduação:** 2 especializações
+- **Primeiro Curso:** LEDOC (2014)
 - **Avaliação MEC:** Nota 4 para BES
 - **Metodologia:** Interdisciplinar, prática, inovadora
 
@@ -18,7 +19,18 @@ O CETENS oferece uma gama diversificada de cursos de graduação e pós-graduaç
 
 ## 🎓 Cursos de Graduação
 
-### 1. Bacharelado Interdisciplinar em Energia e Sustentabilidade (BES)
+### 1. Licenciatura em Educação do Campo (LEDOC)
+- **Início:** 2014 (primeiro curso do CETENS)
+- **Duração:** 4 anos
+- **Habilitações:** Matemática OU Ciências Naturais
+- **Turno:** Regime de alternância (Tempo Universidade + Tempo Comunidade)
+- **Modalidade:** Presencial
+- **Público:** Educadores do campo, agricultores familiares, assentados, quilombolas
+- **Objetivo:** Formar professores para escolas rurais, valorizando saberes tradicionais e cultura camponesa
+- **Metodologia:** Alternância pedagógica (períodos intensivos no campus + aplicação nas comunidades)
+- **Instagram:** @ledoc.cetens
+
+### 2. Bacharelado Interdisciplinar em Energia e Sustentabilidade (BES)
 - **Duração:** 3 anos (integralização mínima)
 - **Carga horária mínima:** 2.990 horas
 - **Turno:** Integral
@@ -56,7 +68,7 @@ O CETENS oferece uma gama diversificada de cursos de graduação e pós-graduaç
 - **Duração:** 5 anos
 - **Turno:** Integral
 - **Modalidade:** Presencial
-- **Curso Pioneiro:** ⭐ **Primeira graduação em Engenharia de Tecnologia Assistiva do Brasil** (UFRB iniciativa pioneira)
+- **Curso Pioneiro:** Primeira graduação em Engenharia de Tecnologia Assistiva do Brasil
 - **Foco:** Tecnologias para inclusão social
 - **Perfil:** Profissionais em acessibilidade
 - **Destaque:** Inovação para pessoas com deficiência
@@ -125,10 +137,11 @@ O CETENS oferece uma gama diversificada de cursos de graduação e pós-graduaç
 ## 📊 Estatísticas dos Cursos
 
 ### Graduação
-- **Total:** 6 cursos
-- **Bacharelados:** 5 (energia, produção, tecnologia assistiva, materiais)
-- **Tecnólogo:** 1 (alimentos)
-- **Duração Média:** 4-5 anos
+- **Total:** 7 cursos
+- **Licenciatura:** 1 (LEDOC - Educação do Campo)
+- **Bacharelados:** 5 (BES, engenharias de energia, produção, tecnologia assistiva, materiais)
+- **Tecnológico:** 1 (alimentos)
+- **Duração Média:** 3-5 anos
 
 ### Pós-Graduação
 - **Total:** 2 especializações

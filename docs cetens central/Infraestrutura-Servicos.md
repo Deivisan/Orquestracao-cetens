@@ -109,13 +109,13 @@ O CETENS está localizado em sede provisória em Feira de Santana, com estrutura
 - **Equipamentos:** Estufas, análise de solos
 - **Uso:** Pesquisa em agricultura sustentável
 
-### 🆕 Laboratório de Ensino de Eletroeletrônica (Novo - Abril 2025)
+### Laboratório de Ensino de Eletroeletrônica (Inaugurado em Abril 2025)
 - **Inauguração:** Semestre 2025.1
 - **Equipamentos:** Osciloscópios, fontes de alimentação, kits de circuitos
 - **Uso:** Práticas de circuitos eletrônicos e sistemas digitais
 - **Cursos atendidos:** Engenharias do CETENS
 
-### 🆕 Novos Laboratórios (Outubro 2024)
+### Laboratórios Inaugurados em Outubro 2024
 - **Quantidade:** 2 novos laboratórios inaugurados
 - **Investimento:** R$ 700 mil (Emenda parlamentar - Deputado Zé Neto)
 - **Objetivo:** Fortalecimento da infraestrutura de pesquisa e ensino

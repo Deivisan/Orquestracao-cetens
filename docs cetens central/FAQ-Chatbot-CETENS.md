@@ -154,19 +154,20 @@ Este FAQ consolida as dúvidas mais frequentes sobre o CETENS-UFRB, estruturado 
 
 ### Quais cursos o CETENS oferece?
 **R:** 
-**Graduação (6):**
-1. Bacharelado Interdisciplinar em Energia e Sustentabilidade (BES)
-2. Engenharia de Energias
-3. Engenharia de Produção
-4. Engenharia de Tecnologia Assistiva e Acessibilidade
-5. Engenharia de Materiais
-6. Tecnologia em Alimentos
+**Graduação (7):**
+1. Licenciatura em Educação do Campo (LEDOC) - Matemática e Ciências Naturais (primeiro curso, 2014)
+2. Bacharelado Interdisciplinar em Energia e Sustentabilidade (BES)
+3. Engenharia de Energias Renováveis
+4. Engenharia de Produção
+5. Engenharia de Tecnologia Assistiva e Acessibilidade
+6. Engenharia de Materiais
+7. Tecnologia em Alimentos na Educação do Campo
 
 **Pós-Graduação (2):**
 1. Especialização em Ambiente, Tecnologia e Sustentabilidade
-2. Especialização em Agroecologia
+2. Especialização em Agroecologia e Tecnologias Sociais na Educação do Campo
 
-**Palavras-chave:** cursos, graduação, pós-graduação, engenharia
+**Palavras-chave:** cursos, graduação, pós-graduação, engenharia, LEDOC
 
 ---
 

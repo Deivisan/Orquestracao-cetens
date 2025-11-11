@@ -6,14 +6,15 @@
 
 ## 📋 Visão Geral
 
-O **Centro de Ciência e Tecnologia em Energia e Sustentabilidade (CETENS)** é um campus da Universidade Federal do Recôncavo da Bahia (UFRB) localizado em Feira de Santana. Fundado para promover a integração entre ciência, tecnologia e sustentabilidade, o CETENS se destaca como referência em engenharias aplicadas e cursos interdisciplinares voltados para o desenvolvimento sustentável.
+O **Centro de Ciência e Tecnologia em Energia e Sustentabilidade (CETENS)** é um dos centros acadêmicos da Universidade Federal do Recôncavo da Bahia (UFRB), localizado em Feira de Santana. Fundado em 2014 para promover a integração entre ciência, tecnologia, sustentabilidade e educação do campo, o CETENS se destaca como referência em engenharias aplicadas, licenciaturas e cursos interdisciplinares voltados para o desenvolvimento sustentável.
 
-**Fatos-Chave:**
+**Informações Institucionais:**
 - **Localização:** Feira de Santana, Bahia
-- **Fundação:** Parte da expansão da UFRB (campus inaugurado em período recente)
-- **Foco:** Energia renovável, sustentabilidade, tecnologias assistivas
-- **Idade:** 12 anos de história (completa em 2025)
-- **Comunidade:** Ciência, tecnologia e sustentabilidade
+- **Criação:** 2013 (aprovação institucional)
+- **Inauguração:** 2014 (primeiro curso: LEDOC)
+- **Primeiro Curso:** Licenciatura em Educação do Campo (LEDOC) - Matemática e Ciências Naturais
+- **Áreas de Atuação:** Energia renovável, sustentabilidade, engenharias, tecnologias assistivas, educação do campo
+- **Diretoria Atual (2019-2027):** Prof. Dr. Jacson Machado Nunes (Diretor) e Prof. Dr. Odair Vieira dos Santos (Vice-Diretor)
 
 ---
 
@@ -33,13 +34,15 @@ Promover a formação superior em áreas estratégicas como energia, sustentabil
 ## 📚 História e Contexto
 
 ### Origens
-O CETENS surge como resposta à demanda por formação superior em áreas emergentes como energias renováveis e sustentabilidade. Integrado à UFRB desde sua criação, representa a expansão da universidade para o interior baiano.
+O CETENS surge como resposta à demanda por formação superior em áreas emergentes como energias renováveis, sustentabilidade e educação do campo. Representa a expansão estratégica da UFRB para Feira de Santana, segunda maior cidade da Bahia.
 
-### Trajetória
-- **Fundação:** Como campus da UFRB em Feira de Santana
-- **Desenvolvimento:** Foco em cursos de engenharia e bacharelados interdisciplinares
-- **2025:** Completa 12 anos, consolidado como centro de referência
-- **Comunidade:** Forte presença em redes sociais (Instagram, Facebook) para divulgação
+### Marcos Históricos
+- **2013:** Aprovação da criação do CETENS pela UFRB
+- **2014:** Início das atividades com o primeiro curso - **LEDOC** (Licenciatura em Educação do Campo com Habilitações em Matemática e Ciências Naturais)
+- **2015-2019:** Gestão fundadora Profa. Dra. Susana Couto Pimentel (Diretora) e Profa. Dra. Jacira Teixeira Castro (Vice-Diretora)
+- **2019-2023:** Gestão Prof. Dr. Jacson Machado Nunes (Diretor) e Prof. Dr. Odair Vieira dos Santos (Vice-Diretor) - Posse em 19/06/2019
+- **2023-2027:** Renovação do mandato da mesma diretoria
+- **Outubro 2025:** CETENS completa **13 anos** de história em Feira de Santana
 
 ### Reconhecimento
 - Avaliações positivas do MEC (ex: BES com nota 4)
