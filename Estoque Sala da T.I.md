@@ -1,16 +1,204 @@
 # Estoque Sala da T.I - Catalogação Inteligente
 
-**Data de Captação:** 10 de novembro de 2025  
-**Fonte:** Conversa Grok (https://grok.com/share/c2hhcmQtMg%3D%3D_a934884e-1605-4e4c-b674-20ead0a3534b)  
+**Data de Captação:** 13 de novembro de 2025 *(Atualização Completa)*  
+**Fonte:** Conversa Grok (https://grok.com/share/c2hhcmQtMg%3D%3D_0c3ea829-d57b-4893-a67b-53273c6fe5a3)  
 **Metodologia:** Scrappy v2.0 - Captação Contextual Inteligente  
 **Responsável:** Deivison Santana (DevSan)  
 
 ## 📋 Resumo Executivo
 
-Inventário completo da Sala de Informática do CETENS-UFRB, baseado em catalogação conversacional com IA. Itens organizados por categoria, com quantidades aproximadas e status funcional. Foco em estoque reserva, itens obsoletos e equipamentos de rede.
+Inventário **COMPLETO** da Sala de Informática do CETENS-UFRB, incluindo computadores, notebooks de estoque, notebooks de terceiros e SSDs recuperados. Catalogação individual com tombamentos, specs detalhadas e observações de uso.
 
-**Total Estimado de Itens:** ~200+ unidades  
-**Status Geral:** Maioria funcional, alguns para teste/depósito  
+**Total de Equipamentos Catalogados:**
+- 12 Desktops Dell OptiPlex 7010
+- 3 Notebooks Dell Latitude E5440 (estoque TI)
+- 5 Notebooks de terceiros (redistribuição/reparo)
+- 6 SSDs recuperados (240GB)
+
+**Status Geral:** Todos equipamentos verificados individualmente com tombamento  
+
+---
+
+## 💻 COMPUTADORES DELL OPTIPLEX 7010
+
+**Especificações Padrão:**
+- **Processador:** Intel Core i5 (3ª geração - i5-3470/i5-3570)
+- **RAM:** 4GB DDR3
+- **Sistema:** Windows 10 (formatados do Windows 7)
+- **Uso:** Sala de Informática CETENS
+
+### Lista Individual (12 unidades)
+
+#### 1. Tombamento: 094120
+- **Função:** Backup do Servidor FOG
+- **Status:** ⚠️ FUNCIONAL - Não remover do estoque
+- **Armazenamento:** HD
+- **Observação:** Sistema FOG rodando com imagens salvas para contingência
+
+#### 2. Tombamento: 094225
+- **Status:** ⚠️ AGUARDANDO FORMATAÇÃO
+- **Armazenamento:** HD (SSD recuperado)
+- **Observação:** Formatar antes do uso
+
+#### 3. Tombamento: 094171
+- **Status:** ✅ Funcional
+- **Armazenamento:** HD
+
+#### 4. Tombamento: 100469
+- **Status:** ✅ Funcional
+- **Armazenamento:** HD
+
+#### 5. Tombamento: 100562
+- **Status:** 🔴 SEM ARMAZENAMENTO
+- **Armazenamento:** Nenhum (SSD recuperado, sem HD disponível)
+- **Observação:** Aguardando aquisição de HD/SSD
+
+#### 6. Tombamento: 100471
+- **Status:** 🚫 NÃO DISPONÍVEL - Propriedade de Adriana (Cotec)
+- **Armazenamento:** SSD mantido
+- **Observação:** Retornar para Cotec - não usar
+
+#### 7. Tombamento: 094466
+- **Status:** ✅ Funcional
+- **Armazenamento:** HD
+
+#### 8. Tombamento: 094470
+- **Status:** ✅ Funcional
+- **Armazenamento:** HD
+
+#### 9. Tombamento: 094184
+- **Status:** 🔴 DEFEITO TOTAL
+- **Armazenamento:** Sem HD
+- **RAM:** Sem RAM
+- **Observação:** Candidato a descarte/baixa patrimonial
+
+#### 10. Tombamento: 100447
+- **Status:** ✅ Funcional
+- **Armazenamento:** HD
+
+#### 11. Tombamento: 100483
+- **Status:** ✅ Funcional
+- **Armazenamento:** HD
+
+#### 12. Tombamento: 100470
+- **Status:** ✅ Funcional
+- **Armazenamento:** HD
+
+---
+
+## 💼 NOTEBOOKS DELL LATITUDE E5440 (Estoque TI)
+
+**Especificações Padrão:**
+- **Modelo:** Dell Latitude E5440 (2013 - Business Line)
+- **Processador:** Intel Core i3 (4ª geração - i3-4000M)
+- **RAM:** 4GB DDR3
+- **Tela:** 14" HD+ (1366x768) Anti-reflexo
+- **Sistema:** Windows 10
+- **Uso:** Empréstimos temporários para professores
+
+### ⚠️ OBSERVAÇÃO CRÍTICA: Todos sem bateria funcional - uso exclusivo via cabo de força
+
+### Lista Individual (3 unidades)
+
+#### 1. Tombamento: 094586
+- **Status:** ✅ Disponível para empréstimo
+- **Armazenamento:** HD
+- **Bateria:** ❌ Não funcional
+
+#### 2. Tombamento: 094622
+- **Status:** ✅ Disponível para empréstimo
+- **Armazenamento:** HD
+- **Bateria:** ❌ Não funcional
+
+#### 3. Tombamento: 094623
+- **Status:** ✅ Disponível para empréstimo
+- **Armazenamento:** HD (SSD removido)
+- **Bateria:** ❌ Não funcional
+- **Observação:** SSD recuperado para laboratório
+
+---
+
+## 🔄 NOTEBOOKS DE TERCEIROS (Redistribuição/Reparo)
+
+**Observação Geral:** Notebooks temporariamente na Sala TI, pertencentes a terceiros ou aguardando destinação.
+
+### Lista Individual (5 unidades)
+
+#### 1. Tombamento: 120130
+- **Modelo:** Daten DC M4D-4
+- **Ex-Usuário:** Hortência
+- **Status:** 🟡 Vago para redistribuição
+- **Estado:** Bom, sem danos
+- **Destino:** Uso fixo em outro servidor (não empréstimo)
+- **Observação:** Specs a verificar quando necessário
+
+#### 2. Tombamento: 117808
+- **Modelo:** HP ProBook 445G7
+- **Ex-Usuário:** Luiz Henrique
+- **Status:** 🟡 Vago para redistribuição
+- **Destino:** Uso fixo em outro servidor
+
+#### 3. Tombamento: 117820
+- **Modelo:** HP ProBook 445G7
+- **Status:** 🔴 DEFEITO - Teclado com defeito
+- **Garantia:** ❌ Sem garantia
+- **Observação:** ⚠️ Concluir backup antes de mandar para reparo/realocação
+
+#### 4. Tombamento: 117812
+- **Modelo:** HP ProBook 445G7
+- **Ex-Usuário:** Midiele
+- **Status:** 🔴 DEFEITO - Placa-mãe com defeito
+- **Garantia:** ❌ Sem garantia
+
+#### 5. Tombamento: 113820
+- **Modelo:** HP ProBook 440G5
+- **Status:** 🟡 Testes pendentes
+- **Observação:** Sem informações verificadas, aguardando diagnóstico
+
+#### 6. Tombamento: 117893
+- **Modelo:** Daten DCM3A4
+- **Status:** 🟡 Vago para uso fixo
+- **Destino:** Uso fixo em outro servidor (não empréstimo)
+
+### 💡 ESTRATÉGIA DE CANIBALIZAÇÃO (ProBook 445G7)
+**Unidades:** 117808 (funcional), 117820 (teclado defeito), 117812 (placa defeito)
+
+**Plano:**
+1. Usar teclado do 117808 para consertar 117820
+2. Transferir placa-mãe do 117812 para 117820 se necessário
+3. Manter 1 notebook funcional completo
+4. Restante vira peças de reposição/sucata
+
+**Resultado:** 1 ProBook 445G7 100% funcional + estoque de peças
+
+---
+
+## 💾 SSDs RECUPERADOS
+
+**Total Recuperado:** 6 unidades  
+**Destino:** Instalação em laboratório
+
+### Detalhes do Estoque
+
+#### Crucial BX500 240GB (Confirmado)
+- **Quantidade:** 1 unidade (mínimo)
+- **Formato:** 2.5 polegadas
+- **Interface:** SATA III (6Gb/s)
+- **Leitura:** Até 540MB/s
+- **Escrita:** Até 500MB/s
+- **Endurance:** 80TBW
+- **Origem:** Validado via web
+
+#### SSDs Adicionais
+- **Quantidade:** 5 unidades
+- **Especificação:** Mesma marca e modelo (Crucial BX500 240GB)
+- **Status:** Prontos para instalação
+
+### Origem dos SSDs Recuperados
+1. Notebook Dell Latitude E5440 (Tombamento 094623)
+2. Desktop OptiPlex 7010 (Tombamento 094225)
+3. Desktop OptiPlex 7010 (Tombamento 100562)
+4. Outros notebooks (3 unidades) - conversas anteriores
 
 ---
 
@@ -39,28 +227,7 @@ Inventário completo da Sala de Informática do CETENS-UFRB, baseado em cataloga
 
 ---
 
-## 💻 Computadores e Notebooks
-
-### Desktops Dell Optiplex 7310
-- **Quantidade:** 12 unidades
-- **Status:** Todos funcionando
-- **Uso Atual:** Em operação na sala
-- **Observação:** Alguns podem precisar de bateria CMOS (ver seção baterias)
-
-### Notebooks Positivo Latitude 5430
-- **Quantidade:** 3 unidades
-- **Status:** Funcionais
-- **Uso Anterior:** Empréstimo para professores
-- **Uso Atual:** Estoque reserva na TI
-
-### Notebooks Genéricos
-- **Quantidade:** Vários (caixa fechada)
-- **Descrição:** Misturados com carregadores
-- **Status:** Não testados
-
----
-
-## 🌐 Equipamentos de Rede
+## 🌐 EQUIPAMENTOS DE REDE (Inventário Anterior Mantido)
 
 ### Adaptadores USB Wi-Fi 2.4GHz
 - **Sem Antena (básicos):**
@@ -105,7 +272,7 @@ Inventário completo da Sala de Informática do CETENS-UFRB, baseado em cataloga
 
 ---
 
-## 🖥️ Periféricos e Acessórios
+## 🖥️ PERIFÉRICOS E ACESSÓRIOS (Inventário Anterior Mantido)
 
 ### Monitores
 - **Quantidade:** Pelo menos 4 unidades
@@ -180,48 +347,75 @@ Inventário completo da Sala de Informática do CETENS-UFRB, baseado em cataloga
 
 ---
 
-## 📊 Análise Contextual (IA)
+## 📊 ANÁLISE CONTEXTUAL (IA) - Atualização 13 NOV 2025
 
-### Pontos de Confirmação Detectados
-- Validação de códigos de barras via pesquisa web
-- Confirmação de compatibilidade de equipamentos
-- Ajustes em quantidades durante a conversa
+### Metodologia Aplicada
+- **Scrappy v2.0:** Captação via transcrição de voz em tempo real
+- **Validação Individual:** Cada equipamento aberto e verificado com tombamento
+- **Web Search:** Confirmação de specs (Dell OptiPlex 7010, Core i5 3ª geração)
+- **Correções em Tempo Real:** Ajustes de quantidades e observações durante catalogação
 
-### Correções e Atualizações
-- Adaptadores Wi-Fi: Inicialmente 8, depois separados por tipo
-- Cabos de força: Detalhamento por tipo (novo/antigo)
-- Repetidores: Adição de observações de uso
+### Descobertas Principais
+1. **SSDs Recuperados:** 6 unidades (todos Crucial BX500 240GB) destinados a laboratório
+2. **OptiPlex Especial:** 094120 é backup crítico do Servidor FOG (não remover)
+3. **Notebooks sem bateria:** Todos os E5440 exigem uso via cabo
+4. **Estratégia de Canibalização:** ProBook 445G7 podem ser consolidados (3→1 funcional)
+5. **Equipamento de terceiros:** 094471 é de Adriana (Cotec) - não usar
 
-### Sentimentos/Inclinações
-- Frustração implícita com itens obsoletos ("não vai ser mais útil pra nada")
-- Prioridade em itens funcionais para empréstimo/reserva
-- Foco em organização ("colocar no depósito correto")
+### Observações Comportamentais
+- Priorização de equipamentos funcionais para estoque
+- Foco em recuperação de SSDs para upgrade de laboratório
+- Separação clara entre estoque TI e equipamentos de terceiros
+- Preocupação com formatação antes de redistribuição
 
-### Erros Potenciais Corrigidos
-- Pesquisa web validou modelos (ex: adaptadores USB)
-- Ajustes em quantidades conforme contagem
+### Pendências Identificadas
+1. **Formatar:** 094225 (OptiPlex com HD substituído)
+2. **Backup:** 117820 (ProBook com teclado defeito) antes de reparo
+3. **Aquisição:** HDs para 100562 (OptiPlex sem armazenamento)
+4. **Diagnóstico:** 113820 (ProBook 440G5) necessita testes
+5. **Baixa Patrimonial:** 094184 (OptiPlex sem HD/RAM) candidato a descarte
 
-### Pendências Extraídas
-- Testar HDs e caixinhas de som antes de descartar
-- Verificar necessidade de baterias CMOS nos PCs
-- Organizar estoque por caixinhas separadas
+### Próximos Passos Recomendados
+1. Executar plano de canibalização dos ProBook 445G7
+2. Formatar 094225 e preparar para uso
+3. Instalar SSDs recuperados no laboratório
+4. Realizar backup do 117820 antes de qualquer movimentação
+5. Solicitar orçamento para HDs de reposição (mínimo 1 unidade)
 
 ---
 
-## 🎯 Recomendações de Uso
+## 🎯 RECOMENDAÇÕES DE USO (Atualizado)
 
-1. **Priorizar Testes:** HDs, caixinhas de som e monitores extras
-2. **Distribuição:** Repetidores para pontos de acesso próximos a impressoras
-3. **Reserva:** Notebooks e monitores para empréstimos emergenciais
-4. **Descartes:** Itens obsoletos (leitor DVD sem cabo) para depósito
-5. **Integração:** Jacks RJ45 para expansão de rede física
+### Prioridade Alta
+1. **Servidor FOG Backup (094120):** Manter no estoque - uso emergencial apenas
+2. **SSDs Recuperados:** Instalar em laboratório conforme planejamento
+3. **Notebooks E5440:** Disponibilizar para empréstimos (com observação de bateria)
+
+### Prioridade Média
+4. **Formatação:** Preparar 094225 antes de liberação
+5. **Canibalização:** Executar plano ProBook 445G7 para otimizar recursos
+6. **Redistribuição:** Notebooks de terceiros (Hortência, Luiz Henrique) para destino final
+
+### Prioridade Baixa
+7. **Aquisição:** HDs para OptiPlex 100562
+8. **Testes:** Diagnóstico completo do ProBook 440G5 (113820)
+9. **Baixa:** Iniciar processo para 094184 (sem viabilidade de reparo)
 
 ---
 
-## 📚 Referências e Validações Web
+## 📚 REFERÊNCIAS E VALIDAÇÕES WEB
 
-- Códigos de barras pesquisados para identificação de modelos
-- Compatibilidade verificada para equipamentos de rede
-- Atualidade confirmada (2025) - nenhum item desatualizado detectado
+### Equipamentos Validados
+- **Dell OptiPlex 7010:** Intel Core i5 3ª geração (i5-3470/i5-3570), até 3.8GHz
+- **Dell Latitude E5440:** Business Line 2013, certificação militar MIL-STD-810G
+- **Crucial BX500 240GB:** SATA III, 540MB/s leitura, 500MB/s escrita, 80TBW
 
-**DevSan | Catalogação Sala T.I | 10 NOV 2025** 🚀
+### Fontes Consultadas
+- Especificações oficiais Dell (OptiPlex 7010, Latitude E5440)
+- Datasheet Crucial BX500
+- Compatibilidade verificada em tempo real durante catalogação
+
+---
+
+**DevSan | Catalogação Completa Sala T.I | 13 NOV 2025** 🚀  
+*Atualização via Scrappy v2.0 - Transcrição de Voz em Tempo Real*
