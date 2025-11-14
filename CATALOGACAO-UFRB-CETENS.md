@@ -2,9 +2,58 @@
 
 **Autor:** Deivison Santana (DevSan)  
 **Data Início:** 30 de outubro de 2025  
-**Última Atualização:** 06 de novembro de 2025  
+**Última Atualização:** 14 de novembro de 2025  
 **Status:** 🔄 97% completo (32/33 setores catalogados)  
 **Instituição:** Universidade Federal do Recôncavo da Bahia - Centro de Ciência e Tecnologia em Energia e Sustentabilidade
+
+---
+
+## 📊 Estatísticas Gerais do Campus
+
+### 💻 Total de Computadores Catalogados: **147 unidades**
+
+**Distribuição por RAM:**
+- ✅ **8GB ou mais:** 40 PCs (27%)
+  - LAB 07 Informática 2: 20 PCs (Ryzen 7 5700G)
+  - LAB 01 Informática 1: 20 PCs (Dell Optiplex 7010)
+- 🔴 **Precisam upgrade para 8GB:** 126 PCs (73%)
+
+**Padrão CETENS:** 8GB RAM mínimo
+
+### 🏢 Estoque Sala da TI (Atualizado Dinamicamente)
+
+**📦 Equipamentos Disponíveis:**
+- **Desktops Dell OptiPlex 7010:** 12 unidades (4GB RAM cada)
+  - Funcionais: 8 unidades
+  - Backup Servidor FOG: 1 unidade (094120 - NÃO REMOVER)
+  - Aguardando formatação: 1 unidade (094225)
+  - Sem armazenamento: 1 unidade (100562)
+  - Defeito total: 1 unidade (094184 - candidato baixa)
+  - Propriedade terceiros: 1 unidade (100471 - Adriana/Cotec)
+
+- **Notebooks Dell Latitude E5430:** 3 unidades (estoque empréstimo)
+  - ⚠️ **Todos sem bateria funcional** - uso exclusivo via cabo
+
+- **Notebooks Terceiros:** 6 unidades (redistribuição/reparo)
+  - Vagos: 3 unidades (120130, 117808, 117893)
+  - Defeito: 2 unidades (117820 teclado, 117812 placa-mãe)
+  - Teste pendente: 1 unidade (113820)
+
+- **SSDs Recuperados Crucial BX500 240GB:** 6 unidades
+  - 📍 **Destino:** Instalação em laboratórios prioritários (LAB 04, LAB 06)
+
+**🔧 Componentes e Periféricos:**
+- Baterias CR2032 (CMOS): 19 unidades
+- Adaptadores USB Wi-Fi: 22 unidades (8 básicos + 14 com antena)
+- Repetidores Wi-Fi N300: 9 unidades
+- Cabos VGA: 33 unidades
+- Cabos de força novos (IEC C13): 19 unidades
+- Cabos de força antigos: 16 unidades
+- Monitores reserva: 4 unidades
+- Mouses (novos lacrados): 11 unidades
+- Hubs USB LEMOX (7 portas): 4 unidades
+
+**📋 Referência Completa:** `Estoque Sala da T.I.md`
 
 ---
 
