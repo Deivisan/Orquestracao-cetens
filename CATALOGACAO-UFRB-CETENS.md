@@ -53,7 +53,17 @@
 - Mouses (novos lacrados): 11 unidades
 - Hubs USB LEMOX (7 portas): 4 unidades
 
-**📋 Referência Completa:** `Estoque Sala da T.I.md`
+**📋 Referência Completa:** `Estoque Sala da T.I.md` | `LOTE-MEMORIAS-RAM.md`
+
+**💾 Lote de Memórias RAM Recebido (19/nov/2025):**
+- **DDR3 Notebook 4GB:** 5 unidades (SO-DIMM, 1280MHz)
+- **DDR3 PC 4GB:** 12 unidades (DIMM, 1280MHz) - **PRONTO PARA UPGRADE**
+- **DDR3 PC 2GB:** 30 unidades (DIMM, 1280MHz)
+- **DDR3 PC 1GB:** 72 unidades (DIMM, 1280MHz)
+- **DDR3 PC 512MB:** 1 unidade (DIMM, 1280MHz)
+- **DDR2 PC 512MB:** 2 unidades (incompatíveis)
+- **DDR2 PC 1GB:** 15 unidades (incompatíveis)
+- **Total:** 137 memórias (119 DDR3 compatíveis + 18 DDR2 incompatíveis)
 
 ---
 
