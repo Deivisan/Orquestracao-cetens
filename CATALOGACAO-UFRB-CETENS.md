@@ -58,7 +58,7 @@
 **💾 Lote de Memórias RAM Recebido (19/nov/2025):**
 - **DDR3 Notebook 4GB:** 5 unidades (SO-DIMM, 1280MHz)
 - **DDR3 PC 4GB:** 12 unidades (DIMM, 1280MHz) - **PRONTO PARA UPGRADE**
-- **DDR3 PC 2GB:** 30 unidades (DIMM, 1280MHz)
+- **DDR3 PC 2GB:** 30 unidades (DIMM, 1280MHz) - **VERIFICADAS FUNCIONAIS**
 - **DDR3 PC 1GB:** 72 unidades (DIMM, 1280MHz)
 - **DDR3 PC 512MB:** 1 unidade (DIMM, 1280MHz)
 - **DDR2 PC 512MB:** 2 unidades (incompatíveis)
