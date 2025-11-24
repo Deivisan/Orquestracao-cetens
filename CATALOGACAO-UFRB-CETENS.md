@@ -2,7 +2,7 @@
 
 **Autor:** Deivison Santana (DevSan)  
 **Data Início:** 30 de outubro de 2025  
-**Última Atualização:** 14 de novembro de 2025  
+**Última Atualização:** 24 de novembro de 2025  
 **Status:** 🔄 97% completo (32/33 setores catalogados)  
 **Instituição:** Universidade Federal do Recôncavo da Bahia - Centro de Ciência e Tecnologia em Energia e Sustentabilidade
 
@@ -13,10 +13,14 @@
 ### 💻 Total de Computadores Catalogados: **147 unidades**
 
 **Distribuição por RAM:**
-- ✅ **8GB ou mais:** 40 PCs (27%)
+- ✅ **8GB ou mais:** 61 PCs (41%)
   - LAB 07 Informática 2: 20 PCs (Ryzen 7 5700G)
   - LAB 01 Informática 1: 20 PCs (Dell Optiplex 7010)
-- 🔴 **Precisam upgrade para 8GB:** 126 PCs (73%)
+  - LAB 04 Física: 6 PCs (Dell Optiplex 7010 - upgrade 24/11/2025)
+  - LAB 06 Física 2: 7 PCs (Dell Optiplex 7010 - upgrade 24/11/2025)
+  - LAB 101 Maker: 2 PCs (upgrade 24/11/2025)
+  - LAB 105 LIMM: 6 PCs (upgrade 24/11/2025)
+- 🔴 **Precisam upgrade para 8GB:** 86 PCs (59%)
 
 **Padrão CETENS:** 8GB RAM mínimo
 
@@ -55,15 +59,15 @@
 
 **📋 Referência Completa:** `Estoque Sala da T.I.md` | `LOTE-MEMORIAS-RAM.md`
 
-**💾 Lote de Memórias RAM Recebido (19/nov/2025):**
+**💾 Lote de Memórias RAM Recebido (19/nov/2025 - Atualizado 24/nov/2025):**
 - **DDR3 Notebook 4GB:** 5 unidades (SO-DIMM, 1280MHz)
-- **DDR3 PC 4GB:** 12 unidades (DIMM, 1280MHz) - **PRONTO PARA UPGRADE**
-- **DDR3 PC 2GB:** 30 unidades (DIMM, 1280MHz) - **VERIFICADAS FUNCIONAIS**
-- **DDR3 PC 1GB:** 72 unidades (DIMM, 1280MHz)
-- **DDR3 PC 512MB:** 1 unidade (DIMM, 1280MHz)
+- **DDR3 PC 4GB:** 0 unidades (usadas em LAB 04/06 - 24/11/2025)
+- **DDR3 PC 2GB:** 18 unidades (usadas 12 em LAB 101/105 - 24/11/2025)
+- **DDR3 PC 1GB:** 72 unidades (não utilizadas)
+- **DDR3 PC 512MB:** 1 unidade (não utilizada)
 - **DDR2 PC 512MB:** 2 unidades (incompatíveis)
 - **DDR2 PC 1GB:** 15 unidades (incompatíveis)
-- **Total:** 137 memórias (119 DDR3 compatíveis + 18 DDR2 incompatíveis)
+- **Total:** 113 memórias restantes (95 DDR3 compatíveis + 18 DDR2 incompatíveis)
 
 ---
 
@@ -222,7 +226,7 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 - **Urgência TI:** 🟡 Média (equipe local é TI também)
 
 #### ⚛️ LAB 04 - Física
-- **Computadores:** 6 Dell Optiplex 7010 (todos com HDD) - Tombamentos: UFRB094468, UFRB094166, UFRB094107, UFRB094115, UFRB094132, UFRB094125
+- **Computadores:** 6 Dell Optiplex 7010 (8GB RAM, HDD) - Tombamentos: UFRB094468, UFRB094166, UFRB094107, UFRB094115, UFRB094132, UFRB094125
 - **Projetor:** Vivitek (112549)
 - **Access Point:** 1 TP-Link na porta
 - **Switch:** 102310
@@ -230,12 +234,12 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
   1. Tracker, SciDAVis, RStudio, CidepeLab V6
   2. Arduino IDE 2.0, PVsol Premium 2019, AutoCAD LT 2000
   3. MATLAB, Python (NumPy, SciPy, Anaconda), OriginPlot, GeoGebra, Audacity
-- **Pendências (06/11/2025):**
+- **Pendências (06/11/2025 - Atualizado 24/11/2025):**
   - ⚠️ **Imagem FOG NÃO É PRIORIDADE** (licenças específicas instaladas, formatação exige reativação burocrática)
-  - 🟡 Atualizar Windows 10 para última versão disponível
+  - ✅ **RAM UPGRADED:** 8GB instalados (24/11/2025) - pendência RAM resolvida
   - 🟡 Atualizar softwares existentes (manter licenças intactas)
   - 🔴 **ALTA PRIORIDADE:** Migrar HDD → SSD (lab muito utilizado, lentidão impacta aulas)
-- **Status:** ✅ Todos funcionais | 🔴 Upgrade SSD urgente (uso diário intenso)
+- **Status:** ✅ Todos funcionais com 8GB RAM | 🔴 Upgrade SSD urgente (uso diário intenso)
 - **Urgência TI:** 🔴 Alta (SSD prioritário)
 
 #### 🧬 LAB 05 - Biologia
@@ -246,7 +250,7 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 - **Urgência TI:** 🟢 Nenhuma
 
 #### ⚡ LAB 06 - Física 2
-- **Computadores:** 7 Dell Optiplex 7010 (4GB RAM, HDD)
+- **Computadores:** 7 Dell Optiplex 7010 (8GB RAM, HDD)
 - **Tombamentos:** UFRB094471, UFRB094134, UFRB094228, UFRB094116, UFRB094129, UFRB094179, UFRB094169 (projetor)
 - **Sistemas:** Windows 10 (maioria) + 1 Windows 7 (UFRB094279)
 - **Projetor:** Genérico (110491) - Conectado via UFRB094169
@@ -255,14 +259,14 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
   2. **Física Experimental:** Tracker, CIDEPLab V6, RStudio
   3. **Engenharia:** Arduino IDE, Google Earth, AutoCAD LT 2020, PyCharm (Python)
   4. **Suporte:** AMD Catalyst, Autodesk Desktop App, Material Library 2020
-- **Pendências (06/11/2025):**
+- **Pendências (06/11/2025 - Atualizado 24/11/2025):**
   - ⚠️ **Imagem FOG NÃO É PRIORIDADE** (mesmo motivo LAB 04 - licenças e configurações específicas)
   - UFRB094116: Instalar softwares faltantes (padrão incompleto)
   - UFRB094279: Avaliar migração Windows 7 → 10
-  - 🔴 **ALTA PRIORIDADE:** Migrar HDD → SSD todos os PCs (4GB RAM + HDD = lentidão crônica)
+  - ✅ **RAM UPGRADED:** 8GB instalados (24/11/2025) - pendência RAM resolvida
   - Limpeza: Desinstalar Flash Player, Spotify, Skype, PDF Creator, PhotoPrint, DingBar
   - 🟡 Atualizar Windows 10 para última versão disponível
-- **Status:** ✅ Todos 7 funcionais | 🔴 Upgrade SSD urgente (uso diário intenso)
+- **Status:** ✅ Todos 7 funcionais com 8GB RAM | 🔴 Upgrade SSD urgente (uso diário intenso)
 - **Urgência TI:** 🔴 Alta (SSD prioritário)
 
 #### 💻 LAB 07 - Laboratório de Informática 2
@@ -327,12 +331,12 @@ Pavilhão com **5 laboratórios especializados** (LAB 101 a LAB 105) + **Almoxar
 ### 📍 Laboratórios Mapeados
 
 #### 🔧 LAB 101 - Maker (Espaço Maker/Fabricação Digital)
-- **Computadores:** 1 Dell OptiPlex 7010 (professor) + 1 Positivo (UFRB3747117)
+- **Computadores:** 1 Dell OptiPlex 7010 (professor) + 1 Positivo (UFRB3747117) - **8GB RAM instalados (24/11/2025)**
 - **Impressoras 3D:** 5 unidades (Creality, GTMax)
 - **Projetor:** BenQ (confirmado)
 - **Software:** Cura, Blender, TinkerCAD (Windows apenas)
 - **Observação (06/11/2025):** Alunos utilizam notebooks próprios, vistoria completa realizada
-- **Status:** ✅ Catalogado completo | ❌ Sem pendências
+- **Status:** ✅ Catalogado completo | ✅ RAM upgraded (24/11/2025) | ❌ Sem pendências
 - **Urgência TI:** 🟢 Nenhuma
 
 #### ⚙️ LAB 102 - LAMAV (Laboratório de Manufatura Avançada)
@@ -385,7 +389,7 @@ Pavilhão com **5 laboratórios especializados** (LAB 101 a LAB 105) + **Almoxar
 - **Urgência TI:** 🟢 Baixa (uso independente, reimaginação não urgente)
 
 #### 📊 LAB 105 - LIMM (Laboratório de Instrumentação Mecatrônica e Metrologia)
-- **Computadores:** 6 total (4 Ubuntu alunos + 2 adicionais professores)
+- **Computadores:** 6 total (4 Ubuntu alunos + 2 adicionais professores) - **8GB RAM instalados (24/11/2025)**
 - **Tombamentos Alunos Ubuntu:** UFRB094118, UFRB094187, UFRB094182, UFRB094123
 - **Tombamentos Adicionais:** UFRB100465, UFRB100551 (servidores/placas de vídeo para projetos)
 - **Sistema Operacional:** Ubuntu 20.04 LTS (todos os 6)
@@ -396,7 +400,7 @@ Pavilhão com **5 laboratórios especializados** (LAB 101 a LAB 105) + **Almoxar
   - Monitor da 4ª bancada: compatível VGA ou Serial (cabo pendente verificação)
   - 2 PCs professores recuados: servidores com GPU para projetos específicos (não prioritários para upgrade)
 - **Sugestões Software Adicional:** Proteus, Tinkercad, Gazebo, OpenSCAD, Cura/PrusaSlicer (mecatrônica)
-- **Pendências (06/11/2025):**
+- **Pendências (06/11/2025 - Atualizado 24/11/2025):**
   - 🔴 **CRÍTICO:** Atualizar Ubuntu 20.04 → 24.04 LTS nos **6 PCs** (versão 20 depreciada)
   - 📋 **Comando upgrade sem formatar (preservar dados alunos):**
     ```bash
@@ -404,10 +408,11 @@ Pavilhão com **5 laboratórios especializados** (LAB 101 a LAB 105) + **Almoxar
     sudo apt upgrade -y
     sudo do-release-upgrade
     ```
+  - ✅ **RAM UPGRADED:** 8GB instalados (24/11/2025) - pendência RAM resolvida
   - Verificar necessidades software com professor (Arduino web, utilitários TI)
   - Avaliar cabo monitor 4ª bancada
   - PCs professores: atualizar em segundo plano (projetos específicos)
-- **Status:** ✅ 6 funcionais Ubuntu 20.04 | 🔴 Atualização LTS urgente (6 PCs)
+- **Status:** ✅ 6 funcionais Ubuntu 20.04 com 8GB RAM | 🔴 Atualização LTS urgente (6 PCs)
 - **Urgência TI:** 🔴 Muito Alta
 
 ### 🧪 Almoxarifado de Reagentes
@@ -858,12 +863,16 @@ Centro de comando administrativo: **Sala Técnica de TI** + **4 salas de direç�
 21. **LAB 09 (Pavilhão Labs 1)** - Reimaginação completa Rocky Linux (aguardando direção)
 22. **LAB 104 Espaço Colaborar** - Reimaginação 7 ChipNet (thin clients/servidores leves - não urgente)
 
-### ✅ RESOLVIDAS (06/11/2025)
+### ✅ RESOLVIDAS (24/11/2025)
 
 23. ~~**LAB 202**~~ - 2 PCs formatados e funcionando ✅
 24. ~~**LAB 201**~~ - Responsável confirmou sem pendências TI ✅
 25. ~~**Sala 205**~~ - Chamado aberto com setor Cruz (não TI) ✅
 26. ~~**Portaria**~~ - Tombamento catalogado (UFRB094167) ✅
+27. ~~**LAB 04 RAM**~~ - 6 PCs upgraded para 8GB ✅
+28. ~~**LAB 06 RAM**~~ - 7 PCs upgraded para 8GB ✅
+29. ~~**LAB 101 RAM**~~ - 2 PCs upgraded para 8GB ✅
+30. ~~**LAB 105 RAM**~~ - 6 PCs upgraded para 8GB ✅
 
 ### ⏸️ ADIADAS (Aguardando Oportunidade)
 
