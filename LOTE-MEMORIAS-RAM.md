@@ -9,15 +9,15 @@
 
 ## 📋 RESUMO DO LOTE
 
-**Total de Memórias Recebidas:** 137 unidades  
-**Compatíveis com Upgrade CETENS:** 119 unidades (DDR3)  
+**Total de Memórias Recebidas:** 130 unidades  
+**Compatíveis com Upgrade CETENS:** 112 unidades (DDR3)  
 **Incompatíveis:** 18 unidades (DDR2)  
-**Usadas até 24/11/2025:** 24 unidades (12x4GB + 12x2GB)  
-**Restantes:** 113 unidades (95 DDR3 compatíveis + 18 DDR2 incompatíveis)  
+**Usadas até 25/11/2025:** 29 unidades (16x4GB + 13x2GB + 0x1GB)  
+**Restantes:** 101 unidades (83 DDR3 compatíveis + 18 DDR2 incompatíveis)  
 
 **Distribuição por Tipo:**
 - **DDR3 Notebook (SO-DIMM):** 5 unidades (4GB cada)
-- **DDR3 PC (DIMM):** 114 unidades (diversas capacidades)
+- **DDR3 PC (DIMM):** 107 unidades (diversas capacidades)
 - **DDR2 PC (DIMM):** 18 unidades (incompatíveis)
 
 ---
@@ -29,12 +29,12 @@
 | **Tipo** | **Capacidade** | **Quantidade** | **Frequência** | **Compatibilidade** | **Uso Planejado** |
 |----------|----------------|----------------|---------------|---------------------|-------------------|
 | Notebook SO-DIMM | 4GB | 5 | 1280MHz | ✅ Notebooks Dell Latitude E5440 (estoque empréstimo) | Upgrade reserva ou substituição |
-| PC DIMM | 4GB | 0 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 12 em LAB 04/06 (24/11/2025) |
-| PC DIMM | 2GB | 18 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 12 em LAB 101/105 (24/11/2025) |
-| PC DIMM | 1GB | 72 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Reserva para setores secundários |
+| PC DIMM | 4GB | 0 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 16 em LAB 04/06/101/105/NETA-A/Apoio Deficiência/NUGTESP (25/11/2025) |
+| PC DIMM | 2GB | 5 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 13 em LAB 101/105 + outros (25/11/2025) |
+| PC DIMM | 1GB | 72 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Ainda não utilizadas |
 | PC DIMM | 512MB | 1 | 1280MHz | ⚠️ Limitada (baixa capacidade) | Reserva emergencial apenas |
 
-**Subtotal DDR3:** 98 unidades restantes (5 notebook + 93 PC)
+**Subtotal DDR3:** 83 unidades restantes (5 notebook + 78 PC)
 
 ---
 
@@ -63,7 +63,7 @@
 | DDR3 Notebook SO-DIMM | 4GB | 5 unidades | ✅ Funcionais | Compatíveis com Latitude E5440 |
 | DDR3 PC DIMM | 2GB | 30 unidades | ✅ Funcionais | Disponíveis para combinações |
 
-**Total Verificado:** 47/119 memórias DDR3 (39.5%)  
+**Total Verificado:** 47/112 memórias DDR3 (42%)  
 **Status Geral:** ✅ Lote aprovado para uso em produção
 
 ---
@@ -102,7 +102,7 @@
 ### 🟢 Prioridade 3 - Demais Setores (46 PCs)
 **Objetivo:** Coordenações, Labs secundários, etc.  
 **Memórias Necessárias:** 46 x 4GB DDR3 DIMM  
-**Disponível no Lote:** Reserva de 1GB/2GB para combinações  
+**Disponível no Lote:** Reserva de 1GB/2GB para combinações (5x2GB + 72x1GB)  
 
 **Ação:** Combinar módulos para atingir 4GB adicionais
 
@@ -128,10 +128,10 @@
 ## 📋 PRÓXIMOS PASSOS
 
 ### ✅ Ações Imediatas
-1. **✅ UPGRADE CONCLUÍDO:** LAB 04 (6 PCs), LAB 06 (7 PCs), LAB 101 (2 PCs), LAB 105 (6 PCs) - 21 PCs com 8GB RAM (24/11/2025)
+1. **✅ UPGRADE CONCLUÍDO:** LAB 04 (6 PCs), LAB 06 (7 PCs), LAB 101 (2 PCs), LAB 105 (6 PCs), LAB 03 NETA-A (3 PCs), Sala Apoio Deficiência (3 PCs), NUGTESP (1 PC) - 28 PCs com 8GB RAM (25/11/2025)
 2. **Verificação Física:** Testar PCs atualizados com MemTest86
 3. **Documentação:** Registrar tombamentos e IPs após instalação
-4. **Próximos Upgrades:** Usar memórias 2GB restantes (18 unidades) para combinações em outros setores
+4. **Próximos Upgrades:** Usar memórias 2GB restantes (5 unidades) + 1GB (72 unidades) para combinações em outros setores
 
 ### 🟡 Ações de Médio Prazo
 1. **Inventário Detalhado:** Catalogar cada módulo com etiqueta física
@@ -155,7 +155,7 @@
 ---
 
 **Responsável:** Deivison Santana  
-**Data de Catalogação:** 24 de novembro de 2025  
+**Data de Catalogação:** 25 de novembro de 2025  
 
 ---
 

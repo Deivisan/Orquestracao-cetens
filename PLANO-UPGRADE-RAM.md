@@ -1,38 +1,41 @@
 # 🚀 PLANO DE UPGRADE RAM - CETENS UFRB
 
-**Data:** 24 de novembro de 2025  
+**Data:** 25 de novembro de 2025  
 **Responsável:** Deivison Santana (DevSan)  
 **Analista:** Tiago Athayde  
 **Objetivo:** **Maximizar RAM com recursos atuais** (8GB onde possível, senão 6GB/7GB nos slots vazios)  
-**Status Atual:** 61/147 PCs com 8GB (41%) | 86 PCs pendentes (59%)
+**Status Atual:** 68/147 PCs com 8GB (46%) | 79 PCs pendentes (54%)
 
 ---
 
 ## 📊 INVENTÁRIO DE MEMÓRIAS DISPONÍVEIS
 
-### ✅ DDR3 Compatíveis (95 unidades restantes)
+### ✅ DDR3 Compatíveis (83 unidades restantes)
 | **Capacidade** | **Quantidade** | **Tipo** | **Compatibilidade** |
 |----------------|----------------|----------|---------------------|
 | 4GB SO-DIMM | 5 | Notebook | Dell Latitude E5440 |
-| 2GB DIMM | 18 | PC | Dell OptiPlex 7010 (máx. 4 slots) |
+| 2GB DIMM | 5 | PC | Dell OptiPlex 7010 (máx. 4 slots) |
 | 1GB DIMM | 72 | PC | Dell OptiPlex 7010 (máx. 4 slots) |
 | 512MB DIMM | 1 | PC | Reserva emergencial |
 
-**💡 Estratégia Inteligente:** Melhor cenário com 2GB+1GB: 36 PCs a 6GB (72x1GB) + 9 PCs a 8GB (18x2GB) = **45 PCs upgraded**. Focar em 6GB para mais PCs, usar 2GB para 8GB prioritários.
+**💡 Estratégia Inteligente:** Melhor cenário com 2GB+1GB: 36 PCs a 6GB (72x1GB) + 2-3 PCs a 8GB (5x2GB) = **38-39 PCs upgraded**. Focar em 6GB para mais PCs, usar 2GB para 8GB prioritários.
 
 ---
 
 ## ✅ SETORES JÁ COM 8GB RAM (EXCLUÍDOS DO PLANO)
 
-### 🎯 Setores Atualizados (24/11/2025)
+### 🎯 Setores Atualizados (25/11/2025)
 - **LAB 01 Informática 1:** 20 PCs Dell OptiPlex 7010 (já 8GB)
 - **LAB 07 Informática 2:** 20 PCs Ryzen 7 5700G (já 8GB)
 - **LAB 04 Física:** 6 PCs Dell OptiPlex 7010 (upgraded 24/11)
 - **LAB 06 Física 2:** 7 PCs Dell OptiPlex 7010 (upgraded 24/11)
 - **LAB 101 Maker:** 2 PCs (upgraded 24/11)
 - **LAB 105 LIMM:** 6 PCs (upgraded 24/11)
+- **LAB 03 NETA-A:** 3 PCs Dell OptiPlex 7010 (upgraded 25/11)
+- **Sala Apoio Aluno Deficiência:** 3 PCs Dell OptiPlex 7010 (upgraded 25/11)
+- **NUGTESP:** 1 PC Dell OptiPlex 7010 (upgraded 25/11)
 
-**Total:** 61 PCs já com 8GB - **Não precisam de upgrade RAM**
+**Total:** 68 PCs já com 8GB - **Não precisam de upgrade RAM**
 
 ---
 
@@ -41,7 +44,7 @@
 ### 🔥 **PRIORIDADE 1 - CRÍTICA** (Labs de Pesquisa/Aulas Intensas)
 
 #### 🧪 LAB 03 - NETA-A (Tecnologia Assistiva)
-- **PCs:** 3 Dell Optiplex 7010 (4GB → **8GB possível**)
+- **PCs:** 3 Dell Optiplex 7010 (4GB → **8GB UPGRADED 25/11/2025**)
 - **Opções:** [ ] 2x2GB por PC (4 módulos) → 8GB | [ ] 4x1GB por PC (12 módulos) → 4GB
 - **Prioridade:** 🟡 Média | **Impacto:** Acessibilidade
 
@@ -78,7 +81,7 @@
 ### 🟢 **PRIORIDADE 3 - MÉDIA** (Setores Secundários)
 
 #### 🏫 Pavilhão Labs 1 (1 PC)
-- **NUGTESP:** 1 PC (4GB atual → **6GB/7GB possível**)
+- **NUGTESP:** 1 PC (4GB atual → **8GB UPGRADED 25/11/2025**)
 - **Config Atual:** 2x2GB (4GB) + 2 slots vazios
 - **Opções:** [ ] 2x1GB nos vazios (2 módulos) → 6GB | [ ] 1x2GB + 1x1GB nos vazios (2 módulos) → 7GB
 - **Prioridade:** 🟡 Média
@@ -125,8 +128,8 @@
 
 ---
 
-**Meta Realista:** Melhor cenário: **45 PCs upgraded** (36x6GB + 9x8GB) | Restantes 16 PCs ficam com 4GB  
-**Recursos Atuais:** 72x1GB + 18x2GB = Suficiente para 45 PCs!  
+**Meta Realista:** Melhor cenário: **38-39 PCs upgraded** (36x6GB + 2-3x8GB) | Restantes 16 PCs ficam com 4GB  
+**Recursos Atuais:** 72x1GB + 5x2GB = Suficiente para 38-39 PCs!  
 
 *Documento dinâmico - Atualizado conforme execuções.*</content>
 <parameter name="filePath">c:\Projetos\Orquestracao-cetens\PLANO-UPGRADE-RAM.md

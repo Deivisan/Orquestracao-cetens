@@ -2,7 +2,7 @@
 
 **Autor:** Deivison Santana (DevSan)  
 **Data Início:** 30 de outubro de 2025  
-**Última Atualização:** 24 de novembro de 2025  
+**Última Atualização:** 25 de novembro de 2025  
 **Status:** 🔄 97% completo (32/33 setores catalogados)  
 **Instituição:** Universidade Federal do Recôncavo da Bahia - Centro de Ciência e Tecnologia em Energia e Sustentabilidade
 
@@ -13,14 +13,17 @@
 ### 💻 Total de Computadores Catalogados: **147 unidades**
 
 **Distribuição por RAM:**
-- ✅ **8GB ou mais:** 61 PCs (41%)
+- ✅ **8GB ou mais:** 68 PCs (46%)
   - LAB 07 Informática 2: 20 PCs (Ryzen 7 5700G)
   - LAB 01 Informática 1: 20 PCs (Dell Optiplex 7010)
   - LAB 04 Física: 6 PCs (Dell Optiplex 7010 - upgrade 24/11/2025)
   - LAB 06 Física 2: 7 PCs (Dell Optiplex 7010 - upgrade 24/11/2025)
   - LAB 101 Maker: 2 PCs (upgrade 24/11/2025)
   - LAB 105 LIMM: 6 PCs (upgrade 24/11/2025)
-- 🔴 **Precisam upgrade para 8GB:** 86 PCs (59%)
+  - LAB 03 NETA-A: 3 PCs (Dell Optiplex 7010 - upgrade 25/11/2025)
+  - Sala Apoio Aluno Deficiência: 3 PCs (Dell Optiplex 7010 - upgrade 25/11/2025)
+  - NUGTESP: 1 PC (Dell Optiplex 7010 - upgrade 25/11/2025)
+- 🔴 **Precisam upgrade para 8GB:** 79 PCs (54%)
 
 **Padrão CETENS:** 8GB RAM mínimo
 
@@ -59,15 +62,15 @@
 
 **📋 Referência Completa:** `Estoque Sala da T.I.md` | `LOTE-MEMORIAS-RAM.md`
 
-**💾 Lote de Memórias RAM Recebido (19/nov/2025 - Atualizado 24/nov/2025):**
-- **DDR3 Notebook 4GB:** 5 unidades (SO-DIMM, 1280MHz)
-- **DDR3 PC 4GB:** 0 unidades (usadas em LAB 04/06 - 24/11/2025)
-- **DDR3 PC 2GB:** 18 unidades (usadas 12 em LAB 101/105 - 24/11/2025)
-- **DDR3 PC 1GB:** 72 unidades (não utilizadas)
+**💾 Lote de Memórias RAM Recebido (19/nov/2025 - Atualizado 25/nov/2025):**
+- **DDR3 Notebook 4GB:** 5 unidades (não utilizadas)
+- **DDR3 PC 4GB:** 0 unidades (usadas 16 em LAB 04/06/101/105 - 24/11/2025)
+- **DDR3 PC 2GB:** 5 unidades (usadas 13 em LAB 101/105 + outros - 25/11/2025)
+- **DDR3 PC 1GB:** 72 unidades (ainda não utilizadas)
 - **DDR3 PC 512MB:** 1 unidade (não utilizada)
 - **DDR2 PC 512MB:** 2 unidades (incompatíveis)
 - **DDR2 PC 1GB:** 15 unidades (incompatíveis)
-- **Total:** 113 memórias restantes (95 DDR3 compatíveis + 18 DDR2 incompatíveis)
+- **Total:** 101 memórias restantes (83 DDR3 compatíveis + 18 DDR2 incompatíveis)
 
 ---
 
@@ -153,13 +156,13 @@ Prédio central com **7 Coordenações de Cursos** + **Sala de Informática** + 
 
 #### 1️⃣ Sala de Apoio Especializado para Alunos com Deficiência
 - **Localização:** Próximo ao Prédio Multiuso (não dentro dele)
-- **Computadores:** 3 Dell Optiplex 7010
+- **Computadores:** 3 Dell Optiplex 7010 - **8GB RAM instalados (25/11/2025)**
   - UFRB100449
   - UFRB104509
   - UFRB094173
 - **Impressora:** 1 Samsung ML (IP: 172.17.9.155)
 - **Observação:** Catalogado 05/11/2025 durante visita aos gabinetes
-- **Status:** ✅ Catalogado completo (05/11/2025)
+- **Status:** ✅ Catalogado completo (05/11/2025) | ✅ RAM UPGRADED (25/11/2025)
 - **Urgência TI:** 🟢 Baixa
 
 #### 2️⃣ Sala de Comunicação
@@ -217,11 +220,11 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 - **Urgência TI:** 🟢 Nenhuma
 
 #### ♿ LAB 03 - NETA-A (Laboratório de Tecnologia Assistiva)
-- **Computadores:** 3 Dell Optiplex (UFRB100543, UFRB094478, UFRB100481)
+- **Computadores:** 3 Dell Optiplex (UFRB100543, UFRB094478, UFRB100481) - **8GB RAM instalados (25/11/2025)**
 - **Software:** NVDA (padrão), Windows Copilot (narrador + IA)
 - **Equipamentos Especiais:** Teclados braille, mouses oculares, headsets vibratórios, display Braille (funcional)
 - **Impressora:** Samsung ML 3750 (093236 - **conectada via cabo, pendente rede**)
-- **Status:** ✅ Mouse substituído (31/10/2025) + Sem reformatação necessária (visita recente completa)
+- **Status:** ✅ Mouse substituído (31/10/2025) + Sem reformatação necessária (visita recente completa) + **RAM UPGRADED (25/11/2025)**
 - **Pendência crítica:** Conectar impressora Samsung na rede (3 PCs compartilhados) - trocar cabo PC para impressora, PCs usam Wi-Fi
 - **Urgência TI:** 🟡 Média (equipe local é TI também)
 
@@ -302,7 +305,7 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
 ### 🏢 NUGTESP (Núcleo de Gestão Técnica e Suporte Pedagógico)
 - **Localização:** Pavilhão de Laboratórios 1 (confirmado 04/11/2025)
 - **Equipamentos:**
-  - 1 Desktop fixo (tombamento pendente)
+  - 1 Desktop fixo (tombamento pendente) - **8GB RAM instalados (25/11/2025)**
   - Notebooks (equipe técnica)
   - 1 Impressora Samsung (IP: 172.17.215.203)
   - 1 Rack (cabeamento backbone)
@@ -312,7 +315,7 @@ Pavilhão com **9 laboratórios especializados** (LAB 01 a LAB 09) + **NUGTESP**
   - Coletar tombamento desktop
   - Instalar padrão UFRB (LibreOffice, RustDesk, UltraVNC, drivers impressoras)
   - Configurar IP fixo desktop no rack
-- **Status:** ✅ Catalogado | ⏳ Patrimônio desktop pendente
+- **Status:** ✅ Catalogado | ⏳ Patrimônio desktop pendente | ✅ RAM UPGRADED (25/11/2025)
 - **Urgência TI:** 🟡 Média
 
 ### 📦 Almoxarifado Administrativo
@@ -863,7 +866,7 @@ Centro de comando administrativo: **Sala Técnica de TI** + **4 salas de direç�
 21. **LAB 09 (Pavilhão Labs 1)** - Reimaginação completa Rocky Linux (aguardando direção)
 22. **LAB 104 Espaço Colaborar** - Reimaginação 7 ChipNet (thin clients/servidores leves - não urgente)
 
-### ✅ RESOLVIDAS (24/11/2025)
+### ✅ RESOLVIDAS (25/11/2025)
 
 23. ~~**LAB 202**~~ - 2 PCs formatados e funcionando ✅
 24. ~~**LAB 201**~~ - Responsável confirmou sem pendências TI ✅
@@ -873,6 +876,9 @@ Centro de comando administrativo: **Sala Técnica de TI** + **4 salas de direç�
 28. ~~**LAB 06 RAM**~~ - 7 PCs upgraded para 8GB ✅
 29. ~~**LAB 101 RAM**~~ - 2 PCs upgraded para 8GB ✅
 30. ~~**LAB 105 RAM**~~ - 6 PCs upgraded para 8GB ✅
+31. ~~**LAB 03 RAM**~~ - 3 PCs upgraded para 8GB ✅
+32. ~~**Sala Apoio Deficiência RAM**~~ - 3 PCs upgraded para 8GB ✅
+33. ~~**NUGTESP RAM**~~ - 1 PC upgraded para 8GB ✅
 
 ### ⏸️ ADIADAS (Aguardando Oportunidade)
 
