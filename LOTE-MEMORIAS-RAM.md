@@ -12,8 +12,8 @@
 **Total de Memórias Recebidas:** 130 unidades  
 **Compatíveis com Upgrade CETENS:** 112 unidades (DDR3)  
 **Incompatíveis:** 18 unidades (DDR2)  
-**Usadas até 28/11/2025:** 32 unidades (16x4GB + 16x2GB + 0x1GB)  
-**Restantes:** 51 unidades (83 DDR3 compatíveis + 18 DDR2 incompatíveis)  
+**Usadas até 28/11/2025:** 27 unidades (16x4GB + 5x2GB + 6x1GB)  
+**Restantes:** 56 unidades (83 DDR3 compatíveis + 18 DDR2 incompatíveis)  
 
 **Distribuição por Tipo:**
 - **DDR3 Notebook (SO-DIMM):** 5 unidades (4GB cada)
@@ -30,11 +30,11 @@
 |----------|----------------|----------------|---------------|---------------------|-------------------|
 | Notebook SO-DIMM | 4GB | 5 | 1280MHz | ✅ Notebooks Dell Latitude E5440 (estoque empréstimo) | Upgrade reserva ou substituição |
 | PC DIMM | 4GB | 0 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 16 em LAB 04/06/101/105/NETA-A/Apoio Deficiência/NUGTESP (25/11/2025) |
-| PC DIMM | 2GB | 5 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 13 em LAB 101/105 + outros (25/11/2025) |
-| PC DIMM | 1GB | 72 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Ainda não utilizadas |
+| PC DIMM | 2GB | 0 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 5 em LAB 101/105 + outros (25/11/2025) |
+| PC DIMM | 1GB | 66 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 6 em Portaria + Sala Apoio Biblioteca (28/11/2025) |
 | PC DIMM | 512MB | 1 | 1280MHz | ⚠️ Limitada (baixa capacidade) | Reserva emergencial apenas |
 
-**Subtotal DDR3:** 83 unidades restantes (5 notebook + 78 PC)
+**Subtotal DDR3:** 72 unidades restantes (5 notebook + 67 PC)
 
 ---
 
@@ -131,7 +131,7 @@
 1. **✅ UPGRADE CONCLUÍDO:** LAB 04 (6 PCs), LAB 06 (7 PCs), LAB 101 (2 PCs), LAB 105 (6 PCs), LAB 03 NETA-A (3 PCs), Sala Apoio Deficiência (3 PCs), NUGTESP (1 PC), Portaria (1 PC a 6GB), Sala de Apoio da Biblioteca (2 PCs a 6GB) - 31 PCs upgraded (28/11/2025)
 2. **Verificação Física:** Testar PCs atualizados com MemTest86
 3. **Documentação:** Registrar tombamentos e IPs após instalação
-4. **Próximos Upgrades:** Usar memórias 2GB restantes (2 unidades) + 1GB (72 unidades) para combinações em outros setores
+4. **Próximos Upgrades:** Usar memórias 1GB restantes (66 unidades) para upgrades em outros setores
 
 ### 🟡 Ações de Médio Prazo
 1. **Inventário Detalhado:** Catalogar cada módulo com etiqueta física

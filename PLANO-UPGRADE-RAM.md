@@ -130,8 +130,8 @@
 
 ---
 
-**Meta Realista:** Melhor cenário: **38 PCs upgraded** (2x6GB com 2GB + 36x6GB com 1GB) | Restantes 41 PCs ficam com 4GB  
-**Recursos Atuais:** 2x2GB + 72x1GB = Suficiente para 38 PCs!  
+**Meta Realista:** Melhor cenário: **33 PCs upgraded** (33x6GB com 1GB) | Restantes 46 PCs ficam com 4GB  
+**Recursos Atuais:** 66x1GB = Suficiente para 33 PCs!  
 
 *Documento dinâmico - Atualizado conforme execuções.*</content>
 <parameter name="filePath">c:\Projetos\Orquestracao-cetens\PLANO-UPGRADE-RAM.md
