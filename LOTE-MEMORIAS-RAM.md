@@ -12,8 +12,8 @@
 **Total de Memórias Recebidas:** 130 unidades  
 **Compatíveis com Upgrade CETENS:** 112 unidades (DDR3)  
 **Incompatíveis:** 18 unidades (DDR2)  
-**Usadas até 25/11/2025:** 29 unidades (16x4GB + 13x2GB + 0x1GB)  
-**Restantes:** 101 unidades (83 DDR3 compatíveis + 18 DDR2 incompatíveis)  
+**Usadas até 28/11/2025:** 32 unidades (16x4GB + 16x2GB + 0x1GB)  
+**Restantes:** 51 unidades (83 DDR3 compatíveis + 18 DDR2 incompatíveis)  
 
 **Distribuição por Tipo:**
 - **DDR3 Notebook (SO-DIMM):** 5 unidades (4GB cada)
@@ -128,10 +128,10 @@
 ## 📋 PRÓXIMOS PASSOS
 
 ### ✅ Ações Imediatas
-1. **✅ UPGRADE CONCLUÍDO:** LAB 04 (6 PCs), LAB 06 (7 PCs), LAB 101 (2 PCs), LAB 105 (6 PCs), LAB 03 NETA-A (3 PCs), Sala Apoio Deficiência (3 PCs), NUGTESP (1 PC) - 28 PCs com 8GB RAM (25/11/2025)
+1. **✅ UPGRADE CONCLUÍDO:** LAB 04 (6 PCs), LAB 06 (7 PCs), LAB 101 (2 PCs), LAB 105 (6 PCs), LAB 03 NETA-A (3 PCs), Sala Apoio Deficiência (3 PCs), NUGTESP (1 PC), Portaria (1 PC a 6GB), Sala de Apoio da Biblioteca (2 PCs a 6GB) - 31 PCs upgraded (28/11/2025)
 2. **Verificação Física:** Testar PCs atualizados com MemTest86
 3. **Documentação:** Registrar tombamentos e IPs após instalação
-4. **Próximos Upgrades:** Usar memórias 2GB restantes (5 unidades) + 1GB (72 unidades) para combinações em outros setores
+4. **Próximos Upgrades:** Usar memórias 2GB restantes (2 unidades) + 1GB (72 unidades) para combinações em outros setores
 
 ### 🟡 Ações de Médio Prazo
 1. **Inventário Detalhado:** Catalogar cada módulo com etiqueta física

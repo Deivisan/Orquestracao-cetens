@@ -4,21 +4,21 @@
 **Responsável:** Deivison Santana (DevSan)  
 **Analista:** Tiago Athayde  
 **Objetivo:** **Maximizar RAM com recursos atuais** (8GB onde possível, senão 6GB/7GB nos slots vazios)  
-**Status Atual:** 68/147 PCs com 8GB (46%) | 79 PCs pendentes (54%)
+**Status Atual:** 68/147 PCs com 8GB (46%) | 79 PCs pendentes (53%)
 
 ---
 
 ## 📊 INVENTÁRIO DE MEMÓRIAS DISPONÍVEIS
 
-### ✅ DDR3 Compatíveis (83 unidades restantes)
+### ✅ DDR3 Compatíveis (56 unidades restantes)
 | **Capacidade** | **Quantidade** | **Tipo** | **Compatibilidade** |
 |----------------|----------------|----------|---------------------|
 | 4GB SO-DIMM | 5 | Notebook | Dell Latitude E5440 |
-| 2GB DIMM | 5 | PC | Dell OptiPlex 7010 (máx. 4 slots) |
-| 1GB DIMM | 72 | PC | Dell OptiPlex 7010 (máx. 4 slots) |
+| 2GB DIMM | 0 | PC | Dell OptiPlex 7010 (máx. 4 slots) |
+| 1GB DIMM | 66 | PC | Dell OptiPlex 7010 (máx. 4 slots) |
 | 512MB DIMM | 1 | PC | Reserva emergencial |
 
-**💡 Estratégia Inteligente:** Melhor cenário com 2GB+1GB: 36 PCs a 6GB (72x1GB) + 2-3 PCs a 8GB (5x2GB) = **38-39 PCs upgraded**. Focar em 6GB para mais PCs, usar 2GB para 8GB prioritários.
+**💡 Estratégia Inteligente:** 2GB esgotados. Focar 1GB para 6GB em slots vazios (66x1GB = 33 PCs a 6GB).
 
 ---
 
@@ -34,6 +34,8 @@
 - **LAB 03 NETA-A:** 3 PCs Dell OptiPlex 7010 (upgraded 25/11)
 - **Sala Apoio Aluno Deficiência:** 3 PCs Dell OptiPlex 7010 (upgraded 25/11)
 - **NUGTESP:** 1 PC Dell OptiPlex 7010 (upgraded 25/11)
+- **Portaria:** 1 PC Dell OptiPlex 7010 (6GB upgraded 28/11)
+- **Sala de Apoio da Biblioteca:** 2 PCs Dell OptiPlex 7010 (6GB upgraded 28/11)
 
 **Total:** 68 PCs já com 8GB - **Não precisam de upgrade RAM**
 
@@ -128,8 +130,8 @@
 
 ---
 
-**Meta Realista:** Melhor cenário: **38-39 PCs upgraded** (36x6GB + 2-3x8GB) | Restantes 16 PCs ficam com 4GB  
-**Recursos Atuais:** 72x1GB + 5x2GB = Suficiente para 38-39 PCs!  
+**Meta Realista:** Melhor cenário: **38 PCs upgraded** (2x6GB com 2GB + 36x6GB com 1GB) | Restantes 41 PCs ficam com 4GB  
+**Recursos Atuais:** 2x2GB + 72x1GB = Suficiente para 38 PCs!  
 
 *Documento dinâmico - Atualizado conforme execuções.*</content>
 <parameter name="filePath">c:\Projetos\Orquestracao-cetens\PLANO-UPGRADE-RAM.md
