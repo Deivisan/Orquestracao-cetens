@@ -10,11 +10,11 @@
 
 ## 📊 INVENTÁRIO DE MEMÓRIAS DISPONÍVEIS
 
-### ✅ DDR3 Compatíveis (56 unidades restantes)
+### ✅ DDR3 Compatíveis (103 unidades restantes)
 | **Capacidade** | **Quantidade** | **Tipo** | **Compatibilidade** |
 |----------------|----------------|----------|---------------------|
 | 4GB SO-DIMM | 5 | Notebook | Dell Latitude E5440 |
-| 2GB DIMM | 0 | PC | Dell OptiPlex 7010 (máx. 4 slots) |
+| 2GB DIMM | 13 | PC | Dell OptiPlex 7010 (máx. 4 slots) |
 | 1GB DIMM | 66 | PC | Dell OptiPlex 7010 (máx. 4 slots) |
 | 512MB DIMM | 1 | PC | Reserva emergencial |
 

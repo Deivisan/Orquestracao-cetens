@@ -13,7 +13,7 @@
 **Compatíveis com Upgrade CETENS:** 112 unidades (DDR3)  
 **Incompatíveis:** 18 unidades (DDR2)  
 **Usadas até 28/11/2025:** 27 unidades (16x4GB + 5x2GB + 6x1GB)  
-**Restantes:** 56 unidades (83 DDR3 compatíveis + 18 DDR2 incompatíveis)  
+**Restantes:** 103 unidades (85 DDR3 compatíveis + 18 DDR2 incompatíveis)  
 
 **Distribuição por Tipo:**
 - **DDR3 Notebook (SO-DIMM):** 5 unidades (4GB cada)
@@ -30,11 +30,11 @@
 |----------|----------------|----------------|---------------|---------------------|-------------------|
 | Notebook SO-DIMM | 4GB | 5 | 1280MHz | ✅ Notebooks Dell Latitude E5440 (estoque empréstimo) | Upgrade reserva ou substituição |
 | PC DIMM | 4GB | 0 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 16 em LAB 04/06/101/105/NETA-A/Apoio Deficiência/NUGTESP (25/11/2025) |
-| PC DIMM | 2GB | 0 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 5 em LAB 101/105 + outros (25/11/2025) |
+| PC DIMM | 2GB | 13 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Restantes para próximos upgrades |
 | PC DIMM | 1GB | 66 | 1280MHz | ✅ Dell OptiPlex 7010 (slots livres) | Usadas 6 em Portaria + Sala Apoio Biblioteca (28/11/2025) |
 | PC DIMM | 512MB | 1 | 1280MHz | ⚠️ Limitada (baixa capacidade) | Reserva emergencial apenas |
 
-**Subtotal DDR3:** 72 unidades restantes (5 notebook + 67 PC)
+**Subtotal DDR3:** 85 unidades restantes (5 notebook + 80 PC)
 
 ---
 
